@@ -1,0 +1,250 @@
+4.2090	4.22	750	Tool	Lateralus	2001	Experimental/Post Metal	Studio
+4.1964	4.27	170	Maudlin Of The Well	Part the Second	2009	Experimental/Post Metal	Studio
+4.1738	4.20	424	Sigh	Imaginary Sonicscape	2001	Experimental/Post Metal	Studio
+4.1627	4.18	707	Agalloch	The Mantle	2002	Experimental/Post Metal	Studio
+4.1564	4.38	62	Devin Townsend	Terria	2001	Experimental/Post Metal	Studio
+4.1415	4.18	339	Pan.Thy.Monium	Khaooohs & Kon-Fus-Ion	1996	Experimental/Post Metal	Studio
+4.1403	4.16	752	Maudlin Of The Well	Bath	2001	Experimental/Post Metal	Studio
+4.1391	4.14	640	Anathema	Judgement	1999	Experimental/Post Metal	Studio
+4.1162	4.16	360	Devin Townsend	Ziltoid The Omniscient	2007	Experimental/Post Metal	Studio
+4.1159	4.18	213	Maudlin Of The Well	Leaving Your Body Map	2001	Experimental/Post Metal	Studio
+4.1116	4.14	378	Neurosis	Through Silver in Blood	1996	Experimental/Post Metal	Studio
+4.1037	4.18	173	Green Carnation	Light of Day, Day of Darkness	2001	Experimental/Post Metal	Studio
+4.1014	4.24	93	Cult Of Luna	Somewhere Along the Highway	2006	Experimental/Post Metal	Studio
+4.0941	4.41	43	Neurosis	Souls At Zero	1992	Experimental/Post Metal	Studio
+4.0934	4.13	282	Lye By Mistake	Fea Jur	2009	Experimental/Post Metal	Studio
+4.0829	4.39	40	Isis	Panopticon	2004	Experimental/Post Metal	Studio
+4.0670	4.23	76	Hammers Of Misfortune	The Locust Years	2005	Experimental/Post Metal	Studio
+4.0648	4.07	1030	Ved Buens Ende	Written In Waters	1995	Experimental/Post Metal	Studio
+4.0620	4.56	25	Tool	Ænima	1996	Experimental/Post Metal	Studio
+4.0594	4.09	381	Hypno5e	Alba - Les ombres errantes	2018	Experimental/Post Metal	Studio
+4.0557	4.31	49	Devin Townsend	The Devin Townsend Band: Synchestra	2006	Experimental/Post Metal	Studio
+4.0551	4.10	279	Thy Catafalque	Tűnő Idő Tárlat	2004	Experimental/Post Metal	Studio
+4.0514	4.15	131	Unexpect	In a Flesh Aquarium	2006	Experimental/Post Metal	Studio
+4.0506	4.15	123	Fredrik Thordendal's Special Defects	Sol Niger Within	1997	Experimental/Post Metal	Studio
+4.0500	4.09	329	Ephel Duath	The Painter's Palette	2003	Experimental/Post Metal	Studio
+4.0482	4.08	331	Unexpect	Fables Of The Sleepless Empire	2011	Experimental/Post Metal	Studio
+4.0416	4.52	25	Orphaned Land	Mabool - The Story of the Three Sons of Seven	2004	Experimental/Post Metal	Studio
+4.0393	4.06	643	Myster Möbius	Myster Möbius	2010	Experimental/Post Metal	Studio
+4.0382	4.05	937	Anathema	Alternative 4	1998	Experimental/Post Metal	Studio
+4.0374	4.63	20	Anathema	We're Here Because We're Here	2010	Experimental/Post Metal	Studio
+4.0314	4.18	76	Panopticon	Kentucky	2012	Experimental/Post Metal	Studio
+4.0278	4.07	267	The Reticent	The Oubliette	2020	Experimental/Post Metal	Studio
+4.0271	4.08	220	Indukti	S.U.S.A.R.	2004	Experimental/Post Metal	Studio
+4.0242	4.04	960	Isis	Oceanic	2002	Experimental/Post Metal	Studio
+4.0241	4.14	104	Anathema	Weather Systems	2012	Experimental/Post Metal	Studio
+4.0237	4.10	134	Subterranean Masquerade	Suspended Animation Dreams	2005	Experimental/Post Metal	Studio
+4.0177	4.13	93	In The Woods...	Omnio	1997	Experimental/Post Metal	Studio
+4.0122	4.41	28	The Ocean	Phanerozoic I: Palaeozoic	2018	Experimental/Post Metal	Studio
+4.0072	4.10	110	Weakling	Dead As Dreams	2000	Experimental/Post Metal	Studio
+3.9960	4.23	43	The Ocean	Precambrian	2007	Experimental/Post Metal	Studio
+3.9859	4.41	25	A Forest Of Stars	Opportunistic Thieves Of Spring	2010	Experimental/Post Metal	Studio
+3.9835	4.01	361	Papangu	Holoceno	2021	Experimental/Post Metal	Studio
+3.9787	4.49	20	Devin Townsend	Ocean Machine - Biomech	1997	Experimental/Post Metal	Studio
+3.9728	4.18	50	Fall Of Efrafa	Elil	2007	Experimental/Post Metal	Studio
+3.9714	4.07	98	A Forest Of Stars	A Shadowplay For Yesterdays	2012	Experimental/Post Metal	Studio
+3.9688	4.01	215	Intronaut	Prehistoricisms	2008	Experimental/Post Metal	Studio
+3.9672	4.00	303	Isis	Wavering Radiant	2009	Experimental/Post Metal	Studio
+3.9641	4.15	50	Alcest	Écailles de lune	2010	Experimental/Post Metal	Studio
+3.9559	4.24	35	Toundra	Toundra III	2012	Experimental/Post Metal	Studio
+3.9557	4.04	104	Virus	Carheart	2003	Experimental/Post Metal	Studio
+3.9510	4.24	33	Antimatter	Leaving Eden	2007	Experimental/Post Metal	Studio
+3.9496	4.48	18	Toundra	Toundra II	2010	Experimental/Post Metal	Studio
+3.9479	4.00	151	The Postman Syndrome	Terraforming	2002	Experimental/Post Metal	Studio
+3.9381	3.98	226	The Gathering	If_Then_Else	2000	Experimental/Post Metal	Studio
+3.9362	4.86	10	Agalloch	Marrow of the Spirit	2010	Experimental/Post Metal	Studio
+3.9351	3.96	307	Kauan	Sorni Nai	2015	Experimental/Post Metal	Studio
+3.9346	4.12	49	OSI	Office of Strategic Influence	2003	Experimental/Post Metal	Studio
+3.9341	4.38	20	The 3rd And The Mortal	Painting On Glass	1996	Experimental/Post Metal	Studio
+3.9269	4.30	24	Hypno5e	Acid Mist Tomorrow	2012	Experimental/Post Metal	Studio
+3.9265	4.16	38	Night Verses	From The Gallery Of Sleep	2018	Experimental/Post Metal	Studio
+3.9227	3.94	456	Deafheaven	New Bermuda	2015	Experimental/Post Metal	Studio
+3.9188	4.10	50	Devin Townsend	Devin Townsend Project: Deconstruction	2011	Experimental/Post Metal	Studio
+3.9187	3.93	583	Sigh	Hail Horror Hail	1997	Experimental/Post Metal	Studio
+3.9184	4.36	20	Anathema	A Natural Disaster	2003	Experimental/Post Metal	Studio
+3.9182	4.16	36	Blut Aus Nord	Memoria Vetusta III: Saturnian Poetry	2014	Experimental/Post Metal	Studio
+3.9182	4.27	25	Day Without Dawn	Understanding Consequences	2008	Experimental/Post Metal	Studio
+3.9167	4.09	48	Tetrafusion	Absolute Zero	2009	Experimental/Post Metal	Studio
+3.9126	4.11	43	*Shels	Plains Of The Purple Buffalo	2011	Experimental/Post Metal	Studio
+3.9108	3.93	334	Rosetta	The Galilean Satellites	2005	Experimental/Post Metal	Studio
+3.9070	4.12	40	Devin Townsend	Empath	2019	Experimental/Post Metal	Studio
+3.9068	4.20	29	*Shels	Sea Of The Dying Dhow	2007	Experimental/Post Metal	Studio
+3.9067	3.95	167	Sigh	Shiki	2022	Experimental/Post Metal	Studio
+3.9043	4.03	65	The Gathering	Nighttime Birds	1997	Experimental/Post Metal	Studio
+3.9037	3.97	121	In The Woods...	Heart of the Ages	1995	Experimental/Post Metal	Studio
+3.9035	3.99	99	Cult Of Luna	Vertikal	2013	Experimental/Post Metal	Studio
+3.9024	3.92	387	Neurosis	A Sun That Never Sets	2001	Experimental/Post Metal	Studio
+3.9011	4.21	26	Devin Townsend	Devin Townsend Project: Epicloud	2012	Experimental/Post Metal	Studio
+3.8932	4.57	12	We Lost The Sea	Departure Songs	2015	Experimental/Post Metal	Studio
+3.8932	4.23	24	YOB	Catharsis	2003	Experimental/Post Metal	Studio
+3.8925	4.17	29	Callisto	Noir	2006	Experimental/Post Metal	Studio
+3.8895	3.97	104	Blut Aus Nord	The Work Which Transforms God	2003	Experimental/Post Metal	Studio
+3.8894	3.93	208	The Ocean	Anthropocentric	2010	Experimental/Post Metal	Studio
+3.8880	4.20	26	Soen	Lotus	2019	Experimental/Post Metal	Studio
+3.8877	4.01	61	Minsk	The Ritual Fires Of Abandonment	2007	Experimental/Post Metal	Studio
+3.8832	3.91	252	Thy Catafalque	Rengeteg	2011	Experimental/Post Metal	Studio
+3.8830	4.28	20	Agalloch	Ashes Against the Grain	2006	Experimental/Post Metal	Studio
+3.8829	4.07	43	ColdWorld	Melancholie²	2008	Experimental/Post Metal	Studio
+3.8825	3.92	224	The Pax Cecilia	Blessed Are The Bonds	2007	Experimental/Post Metal	Studio
+3.8815	4.52	12	Devin Townsend	Casualties Of Cool: Casualties Of Cool	2014	Experimental/Post Metal	Studio
+3.8762	4.05	44	Liturgy	H.A.Q.Q.	2019	Experimental/Post Metal	Studio
+3.8754	3.99	64	Intronaut	Fluid Existential Inversions	2020	Experimental/Post Metal	Studio
+3.8730	3.99	64	Altar Of Plagues	Teethed Glory And Injury	2013	Experimental/Post Metal	Studio
+3.8723	3.95	97	Fen	The Malediction Fields	2009	Experimental/Post Metal	Studio
+3.8701	3.88	1028	Neurosis	The Eye Of Every Storm	2004	Experimental/Post Metal	Studio
+3.8697	3.95	95	Tool	10,000 Days	2006	Experimental/Post Metal	Studio
+3.8681	3.91	182	The Ocean	Phanerozoic II: Mesozoic | Cenozoic	2020	Experimental/Post Metal	Studio
+3.8670	3.89	281	The Gathering	How To Measure A Planet ?	1998	Experimental/Post Metal	Studio
+3.8610	3.91	145	Devin Townsend	The Devin Townsend Band: Accelerated Evolution	2003	Experimental/Post Metal	Studio
+3.8593	4.03	41	Fen	Epoch	2011	Experimental/Post Metal	Studio
+3.8585	3.92	112	Earth	Earth 2 - Special Low Frequency Version	1993	Experimental/Post Metal	Studio
+3.8573	4.04	39	Green Carnation	Leaves of Yesteryear	2020	Experimental/Post Metal	Studio
+3.8537	4.11	27	Sigh	Scenes from Hell	2010	Experimental/Post Metal	Studio
+3.8514	4.38	13	Blindead	Affliction XXIX II MXMVI	2010	Experimental/Post Metal	Studio
+3.8494	3.89	179	The Omega Experiment	The Omega Experiment	2012	Experimental/Post Metal	Studio
+3.8481	4.00	45	Anathema	Hindsight	2008	Experimental/Post Metal	Studio
+3.8469	3.91	107	Toundra	Toundra IV	2015	Experimental/Post Metal	Studio
+3.8467	3.89	160	Orphaned Land	Unsung Prophets & Dead Messiahs	2018	Experimental/Post Metal	Studio
+3.8449	4.00	44	Green Carnation	The Acoustic Verses	2006	Experimental/Post Metal	Studio
+3.8447	3.98	50	Altar Of Plagues	White Tomb	2009	Experimental/Post Metal	Studio
+3.8446	3.97	55	Hail Spirit Noir	Mayhem In Blue	2016	Experimental/Post Metal	Studio
+3.8439	3.87	293	Oranssi Pazuzu	Värähtelijä	2016	Experimental/Post Metal	Studio
+3.8434	4.02	38	Orphaned Land	The Never Ending Way Of ORwarriOR	2010	Experimental/Post Metal	Studio
+3.8429	4.11	25	Solstafir	Köld	2009	Experimental/Post Metal	Studio
+3.8427	4.45	11	Hammers Of Misfortune	Fields / Church Of Broken Glass	2008	Experimental/Post Metal	Studio
+3.8415	4.06	31	Pryapisme	Rococo Holocaust	2010	Experimental/Post Metal	Studio
+3.8409	4.12	24	Pan.Thy.Monium	Khaooohs	1993	Experimental/Post Metal	Studio
+3.8386	3.95	60	Öxxö Xööx	Nämïdäë	2015	Experimental/Post Metal	Studio
+3.8378	3.92	83	Winds	The Imaginary Direction Of Time	2004	Experimental/Post Metal	Studio
+3.8374	4.01	37	Intronaut	The Direction of Last Things	2015	Experimental/Post Metal	Studio
+3.8355	3.95	56	Kylesa	Spiral Shadow	2010	Experimental/Post Metal	Studio
+3.8351	4.20	18	Cult Of Luna	Cult of Luna & Julie Christmas: Mariner	2016	Experimental/Post Metal	Studio
+3.8350	3.88	152	Akphaezya	Anthology IV - The Tragedy Of Nerak	2011	Experimental/Post Metal	Studio
+3.8346	4.08	26	The Ocean	Pelagial	2013	Experimental/Post Metal	Studio
+3.8334	4.56	9	Manes	Vilosophe	2003	Experimental/Post Metal	Studio
+3.8327	4.56	9	White Ward	Futility Report	2017	Experimental/Post Metal	Studio
+3.8327	4.07	27	Kauan	Ice Fleet	2021	Experimental/Post Metal	Studio
+3.8322	3.92	71	Thy Catafalque	Vadak	2021	Experimental/Post Metal	Studio
+3.8305	3.94	59	Thy Catafalque	Róka Hasa Rádió	2009	Experimental/Post Metal	Studio
+3.8304	4.47	10	Sigh	In Somniphobia	2012	Experimental/Post Metal	Studio
+3.8301	4.47	10	The Old Dead Tree	The Perpetual Motion	2005	Experimental/Post Metal	Studio
+3.8301	3.84	513	YOB	Our Raw Heart	2018	Experimental/Post Metal	Studio
+3.8293	4.00	37	Anathema	A Fine Day To Exit	2001	Experimental/Post Metal	Studio
+3.8278	3.89	102	Obsidian Kingdom	Mantiis	2012	Experimental/Post Metal	Studio
+3.8278	4.08	25	Pelican	The Fire in Our Throats Will Beckon the Thaw	2005	Experimental/Post Metal	Studio
+3.8262	3.90	84	Lucid Planet	II	2020	Experimental/Post Metal	Studio
+3.8256	4.45	10	Hail Spirit Noir	Oi Magoi	2014	Experimental/Post Metal	Studio
+3.8232	3.84	344	Smallman	Envision	2014	Experimental/Post Metal	Studio
+3.8216	4.09	23	Devin Townsend	Devin Townsend Project: Ki	2009	Experimental/Post Metal	Studio
+3.8198	4.02	31	Helium Horse Fly	Hollowed	2019	Experimental/Post Metal	Studio
+3.8192	3.84	374	Giant Squid	Cenotes	2011	Experimental/Post Metal	Studio
+3.8188	3.89	82	Devin Townsend	Devin Townsend Project: Addicted	2009	Experimental/Post Metal	Studio
+3.8183	3.93	54	Dark Suns	Grave Human Genuine	2008	Experimental/Post Metal	Studio
+3.8177	3.85	204	Solstafir	Ótta	2014	Experimental/Post Metal	Studio
+3.8173	4.00	33	The Gathering	Mandylion	1995	Experimental/Post Metal	Studio
+3.8163	4.03	28	Amesoeurs	Amesoeurs	2009	Experimental/Post Metal	Studio
+3.8150	4.24	14	Jesu	Jesu	2005	Experimental/Post Metal	Studio
+3.8139	3.97	39	Proghma-C	Bar-Do Travel	2009	Experimental/Post Metal	Studio
+3.8126	4.14	18	Ivar Bjørnson & Einar Selvik	Hugsjá	2018	Experimental/Post Metal	Studio
+3.8122	4.14	18	The Gabriel Construct	Interior City	2013	Experimental/Post Metal	Studio
+3.8122	3.98	35	BaK	Sculpture	2010	Experimental/Post Metal	Studio
+3.8116	3.88	81	Ephel Duath	Pain Necessary To Know	2005	Experimental/Post Metal	Studio
+3.8079	3.89	67	A Forest Of Stars	Beware The Sword You Cannot See	2015	Experimental/Post Metal	Studio
+3.8073	4.04	25	Winds	Prominence And Demise	2007	Experimental/Post Metal	Studio
+3.8073	4.08	21	Thy Catafalque	Sgùrr	2015	Experimental/Post Metal	Studio
+3.8068	4.04	25	Kekal	The Habit of Fire	2007	Experimental/Post Metal	Studio
+3.8062	4.21	14	Thy Catafalque	Microcosmos	2001	Experimental/Post Metal	Studio
+3.8043	4.19	15	When Day Descends	When Day Descends	2010	Experimental/Post Metal	Studio
+3.8040	3.85	113	Look To Windward	Fortunes Haze	2010	Experimental/Post Metal	Studio
+3.8022	3.96	35	Soen	Cognitive	2012	Experimental/Post Metal	Studio
+3.8009	4.02	26	Subterranean Masquerade	Mountain Fever	2021	Experimental/Post Metal	Studio
+3.7997	3.87	85	Waste Of Space Orchestra	Syntheosis	2019	Experimental/Post Metal	Studio
+3.7996	3.83	214	Dark Suns	Existence	2005	Experimental/Post Metal	Studio
+3.7990	3.91	49	Alcest	Les voyages de l'âme	2012	Experimental/Post Metal	Studio
+3.7972	3.87	71	Ufomammut	Eve	2010	Experimental/Post Metal	Studio
+3.7959	4.03	23	Deafheaven	Sunbather	2013	Experimental/Post Metal	Studio
+3.7939	3.89	58	Ufomammut	Idolum	2008	Experimental/Post Metal	Studio
+3.7935	4.56	7	Hail Spirit Noir	Eden in Reverse	2020	Experimental/Post Metal	Studio
+3.7916	4.09	18	Liturgy	93696	2023	Experimental/Post Metal	Studio
+3.7908	4.13	16	Noekk	The Grimalkin	2006	Experimental/Post Metal	Studio
+3.7902	3.92	40	Giant Squid	Minoans	2014	Experimental/Post Metal	Studio
+3.7896	3.89	53	Sigh	Hangman's Hymn - Musikalische Exequien	2007	Experimental/Post Metal	Studio
+3.7894	3.80	426	Sisare	Leaving The Land	2018	Experimental/Post Metal	Studio
+3.7891	4.20	13	Anathema	Falling Deeper	2011	Experimental/Post Metal	Studio
+3.7878	3.86	76	Anubi	Kai Pilnaties Akis Uzmerks Mirtis	1997	Experimental/Post Metal	Studio
+3.7876	4.67	6	Cult Of Luna	Salvation	2004	Experimental/Post Metal	Studio
+3.7872	4.03	22	When Day Descends	Transcend	2005	Experimental/Post Metal	Studio
+3.7863	4.83	5	Antimatter	A Profusion of Thought	2022	Experimental/Post Metal	Studio
+3.7857	4.03	21	Atmospheres	The Departure	2015	Experimental/Post Metal	Studio
+3.7852	4.09	17	Irepress	Samus Octology	2005	Experimental/Post Metal	Studio
+3.7838	3.90	44	Baroness	Stone	2023	Experimental/Post Metal	Studio
+3.7834	3.89	46	Hail Spirit Noir	Pneuma	2012	Experimental/Post Metal	Studio
+3.7815	3.94	32	Sigh	Scenario IV: Dread Dreams	1999	Experimental/Post Metal	Studio
+3.7813	4.02	21	A Forest Of Stars	The Corpse Of Rebirth	2008	Experimental/Post Metal	Studio
+3.7793	4.05	18	Schizoid Lloyd	The Last Note in God's Magnum Opus	2014	Experimental/Post Metal	Studio
+3.7767	3.85	66	Kylesa	Ultraviolet	2013	Experimental/Post Metal	Studio
+3.7739	3.91	35	Dark Suns	Everchild	2016	Experimental/Post Metal	Studio
+3.7719	4.38	8	Pan.Thy.Monium	Dawn Of Dreams	1992	Experimental/Post Metal	Studio
+3.7708	4.00	21	19 A.D.D.	Dead River	2009	Experimental/Post Metal	Studio
+3.7704	3.85	59	Darkspace	Dark Space III	2008	Experimental/Post Metal	Studio
+3.7672	4.71	5	Toundra	Vortex	2018	Experimental/Post Metal	Studio
+3.7671	3.93	29	Darkestrah	Epos	2007	Experimental/Post Metal	Studio
+3.7670	4.06	16	Oranssi Pazuzu	Muukalainen Puhuu	2009	Experimental/Post Metal	Studio
+3.7669	4.71	5	Atrox	Terrestrials	2002	Experimental/Post Metal	Studio
+3.7662	4.44	7	Blut Aus Nord	Disharmonium - Nahab	2023	Experimental/Post Metal	Studio
+3.7659	4.43	7	The Cancer Conspiracy	The Audio Medium	2002	Experimental/Post Metal	Studio
+3.7640	4.43	7	Izah	Sistere	2015	Experimental/Post Metal	Studio
+3.7640	3.90	34	Witch Ripper	The Flight After the Fall	2023	Experimental/Post Metal	Studio
+3.7629	3.94	26	Peccatum	Lost in Reverie	2004	Experimental/Post Metal	Studio
+3.7614	3.79	179	Oranssi Pazuzu	Valonielu	2013	Experimental/Post Metal	Studio
+3.7611	4.33	8	Soen	Lykaia	2017	Experimental/Post Metal	Studio
+3.7596	3.93	27	Moloken	Rural	2011	Experimental/Post Metal	Studio
+3.7588	4.04	16	Earth	Hex; Or Printing In The Infernal Method	2005	Experimental/Post Metal	Studio
+3.7585	4.87	4	Widek	Journey to the Stars	2015	Experimental/Post Metal	Studio
+3.7566	4.20	10	Krakow	Minus	2018	Experimental/Post Metal	Studio
+3.7561	4.07	14	Worm Ouroboros	Come The Thaw	2012	Experimental/Post Metal	Studio
+3.7555	4.00	18	Blindead	Absence	2013	Experimental/Post Metal	Studio
+3.7550	4.00	18	The Chronicles Of Israfel	Starborn, Tome I	2007	Experimental/Post Metal	Studio
+3.7550	3.84	49	Thy Catafalque	Geometria	2018	Experimental/Post Metal	Studio
+3.7549	4.03	16	Cloudkicker	Fade	2012	Experimental/Post Metal	Studio
+3.7543	3.90	30	Nero Di Marte	Nero Di Marte	2013	Experimental/Post Metal	Studio
+3.7540	3.87	37	Deafheaven	Ordinary Corrupt Human Love	2018	Experimental/Post Metal	Studio
+3.7540	4.06	14	Vaura	Selenelion	2012	Experimental/Post Metal	Studio
+3.7518	3.76	377	Fall Of Efrafa	Owsla	2006	Experimental/Post Metal	Studio
+3.7515	3.90	29	Devin Townsend	Devin Townsend Project: Ghost	2011	Experimental/Post Metal	Studio
+3.7496	4.00	17	Thy Catafalque	Meta	2016	Experimental/Post Metal	Studio
+3.7495	4.08	13	Stare at The Clouds	This Clear Divide	2016	Experimental/Post Metal	Studio
+3.7494	4.22	9	Hypno5e	Des deux l'une est l'autre	2007	Experimental/Post Metal	Studio
+3.7494	4.22	9	Tacoma Narrows Bridge Disaster	Collapse	2009	Experimental/Post Metal	Studio
+3.7494	3.81	74	Gospel	The Loser	2022	Experimental/Post Metal	Studio
+3.7492	3.98	18	Intronaut	Valley of Smoke	2010	Experimental/Post Metal	Studio
+3.7488	3.93	23	Cave In	Jupiter	2000	Experimental/Post Metal	Studio
+3.7485	3.98	18	Sigh	Heir to Despair	2018	Experimental/Post Metal	Studio
+3.7478	3.93	22	Thence	These Stones Cry From The Earth	2011	Experimental/Post Metal	Studio
+3.7451	3.93	22	Oranssi Pazuzu	Kosmonument	2011	Experimental/Post Metal	Studio
+3.7451	3.91	25	Ex Eye	Ex Eye	2017	Experimental/Post Metal	Studio
+3.7443	3.83	50	Digression Assassins	Oblivion	2019	Experimental/Post Metal	Studio
+3.7439	4.08	12	Intronaut	Habitual Levitations (Instilling Words with Tones)	2013	Experimental/Post Metal	Studio
+3.7430	4.08	12	Kylesa	Exhausting Fire	2015	Experimental/Post Metal	Studio
+3.7430	3.77	155	Rosetta	Quintessential Ephemera	2015	Experimental/Post Metal	Studio
+3.7429	3.91	25	Alcest	Souvenirs d'un autre monde	2007	Experimental/Post Metal	Studio
+3.7427	3.98	17	Pelican	Forever Becoming	2013	Experimental/Post Metal	Studio
+3.7425	4.25	8	Minsk	With Echoes In The Movement Of Stone	2009	Experimental/Post Metal	Studio
+3.7422	4.25	8	Gonin-Ish	Gonin-Ish	2000	Experimental/Post Metal	Studio
+3.7422	3.96	18	White Ward	False Light	2022	Experimental/Post Metal	Studio
+3.7402	4.14	10	Blut Aus Nord	777 - Cosmosophy	2012	Experimental/Post Metal	Studio
+3.7394	4.40	6	White Ward	Love Exchange Failure	2019	Experimental/Post Metal	Studio
+3.7387	3.95	19	Bauda	Oniirica	2009	Experimental/Post Metal	Studio
+3.7386	3.89	26	Deafheaven	Infinite Granite	2021	Experimental/Post Metal	Studio
+3.7383	3.96	18	Subterranean Masquerade	Vagabond	2017	Experimental/Post Metal	Studio
+3.7380	4.00	15	Omega Massif	Geisterstadt	2007	Experimental/Post Metal	Studio
+3.7376	3.79	69	Igorrr	Spirituality and Distortion	2020	Experimental/Post Metal	Studio
+3.7374	3.77	125	Earth	The Bees Made Honey In The Lion's Skull	2008	Experimental/Post Metal	Studio
+3.7368	3.87	30	Baroness	Red Album	2007	Experimental/Post Metal	Studio
+3.7364	3.93	20	Solstafir	Berdreyminn	2017	Experimental/Post Metal	Studio
+3.7361	4.22	8	Hammers Of Misfortune	The Bastard	2001	Experimental/Post Metal	Studio
+3.7359	3.96	17	Consecration	.avi	2010	Experimental/Post Metal	Studio
+3.7354	4.29	7	Grayceon	This Grand Show	2008	Experimental/Post Metal	Studio
+3.7346	3.89	25	Uaral	Sounds Of Pain	2005	Experimental/Post Metal	Studio
+3.7346	3.80	55	Hammers Of Misfortune	The August Engine	2003	Experimental/Post Metal	Studio
+3.7341			Cloudkicker	The Discovery	2008	Experimental/Post Metal	Studio

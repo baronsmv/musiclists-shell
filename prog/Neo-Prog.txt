@@ -1,0 +1,250 @@
+4.2494	4.25	2197	Marillion	Misplaced Childhood	1985	Neo-Prog	Studio
+4.2286	4.25	1387	Marillion	Script for a Jester's Tear	1983	Neo-Prog	Studio
+4.2148	4.19	1502	IQ	The Road of Bones	2014	Neo-Prog	Studio
+4.1621	4.18	528	Marillion	Clutching at Straws	1987	Neo-Prog	Studio
+4.1079	4.14	734	Sylvan	Posthumous Silence	2006	Neo-Prog	Studio
+4.0881	4.15	515	Arena	Contagion	2003	Neo-Prog	Studio
+4.0826	4.11	1203	IQ	Resistance	2019	Neo-Prog	Studio
+4.0761	4.11	1004	Marillion	Marbles	2004	Neo-Prog	Studio
+4.0736	4.11	474	IQ	Frequency	2009	Neo-Prog	Studio
+4.0367	4.06	1015	Galahad	Empires Never Last	2007	Neo-Prog	Studio
+4.0286	4.07	754	IQ	Dark Matter	2004	Neo-Prog	Studio
+4.0234	4.06	758	IQ	Ever	1993	Neo-Prog	Studio
+4.0177	4.16	209	Arena	The Visitor	1998	Neo-Prog	Studio
+4.0043	4.05	761	Modern-Rock Ensemble	Night Dreams & Wishes	2019	Neo-Prog	Studio
+4.0041	4.07	395	Pendragon	The Masquerade Overture	1996	Neo-Prog	Studio
+3.9952	4.06	397	Pendragon	Love Over Fear	2020	Neo-Prog	Studio
+3.9828	4.04	501	Collage	Moonshine	1994	Neo-Prog	Studio
+3.9827	4.00	1506	Anubis	A Tower of Silence	2011	Neo-Prog	Studio
+3.9827	4.06	371	Marillion	Fugazi	1984	Neo-Prog	Studio
+3.9812	4.11	230	Magenta	Seven	2004	Neo-Prog	Studio
+3.9807	4.10	243	Gandalf's Fist	The Clockwork Fable	2016	Neo-Prog	Studio
+3.9785	4.13	198	I And Thou	Speak	2012	Neo-Prog	Studio
+3.9773	4.03	525	Frost*	Day and Age	2021	Neo-Prog	Studio
+3.9703	4.14	167	Comedy Of Errors	Fanfare & Fantasy	2013	Neo-Prog	Studio
+3.9674	4.00	750	Drifting Sun	Forsaken Innocence	2021	Neo-Prog	Studio
+3.9651	4.05	341	IQ	Subterranea	1997	Neo-Prog	Studio
+3.9628	3.99	1179	Barock Project	Detachment	2017	Neo-Prog	Studio
+3.9626	4.00	747	Marillion	Brave	1994	Neo-Prog	Studio
+3.9625	4.00	541	IQ	The Seventh House	2000	Neo-Prog	Studio
+3.9505	4.13	154	Airbag	All Rights Removed	2011	Neo-Prog	Studio
+3.9447	4.13	143	Abraxas	...Cykl Obraca Się, Narodziny, Dzieciństwo Pełne Duszy, Uśmiechów Niewinnych I Zdrady...	1996	Neo-Prog	Studio
+3.9380	4.10	170	Collage	Over and Out	2022	Neo-Prog	Studio
+3.9352	4.02	252	Believe	Seven Widows	2017	Neo-Prog	Studio
+3.9161	4.00	308	Barock Project	Coffee In Neukölln	2012	Neo-Prog	Studio
+3.9156	4.00	288	Silhouette	Across The Rubicon	2012	Neo-Prog	Studio
+3.9128	4.07	163	Mystery	Delusion Rain	2015	Neo-Prog	Studio
+3.9094	3.98	364	Sylvan	One to Zero	2021	Neo-Prog	Studio
+3.9090	4.03	204	Mystery	The World Is a Game	2012	Neo-Prog	Studio
+3.9069	3.99	305	Modern-Rock Ensemble	Touch The Mystery	2016	Neo-Prog	Studio
+3.9053	3.98	330	Pallas	The Dreams of Men	2005	Neo-Prog	Studio
+3.9040	4.08	138	Mystery	One Among the Living	2010	Neo-Prog	Studio
+3.9020	3.95	456	Darwin's Radio	Template For A Generation	2009	Neo-Prog	Studio
+3.8980	4.04	177	Fish	A Feast of Consequences	2013	Neo-Prog	Studio
+3.8966	3.99	267	Clepsydra	Alone	2001	Neo-Prog	Studio
+3.8955	4.02	195	The Psychedelic Ensemble	The Tale Of The Golden King	2013	Neo-Prog	Studio
+3.8953	4.18	87	Abel Ganz	Shooting Albatross	2008	Neo-Prog	Studio
+3.8948	4.08	136	Mystery	Redemption	2023	Neo-Prog	Studio
+3.8948	3.99	266	Christiaan Bruin	Days Of Summer Gone	2013	Neo-Prog	Studio
+3.8938	4.05	154	Seven Steps To The Green Door	Fetish	2015	Neo-Prog	Studio
+3.8937	4.00	230	Quidam	Quidam	1996	Neo-Prog	Studio
+3.8930	3.94	538	Marillion	An Hour Before It's Dark	2022	Neo-Prog	Studio
+3.8927	4.06	147	Arena	Immortal?	2000	Neo-Prog	Studio
+3.8906	3.95	434	Millenium	Exist	2008	Neo-Prog	Studio
+3.8897	4.22	72	Sylvan	Sceneries	2012	Neo-Prog	Studio
+3.8859	4.02	171	Solstice	Prophecy	2013	Neo-Prog	Studio
+3.8837	4.06	133	Twelfth Night	Fact And Fiction	1982	Neo-Prog	Studio
+3.8826	4.00	203	Arena	The Theory of Molecular Inheritance	2022	Neo-Prog	Studio
+3.8799	4.01	164	Evership	Evership	2016	Neo-Prog	Studio
+3.8699	3.90	708	Tiger Moth Tales	Cocoon	2014	Neo-Prog	Studio
+3.8686	4.00	174	Pendragon	Pure	2008	Neo-Prog	Studio
+3.8676	3.95	293	The D Project	Big Face	2011	Neo-Prog	Studio
+3.8667	3.91	576	Comedy Of Errors	Disobey	2011	Neo-Prog	Studio
+3.8653	3.96	243	Pendragon	Not of This World	2001	Neo-Prog	Studio
+3.8641	3.90	558	Edison's Children	The Final Breath Before November	2013	Neo-Prog	Studio
+3.8617	3.97	207	Pendragon	The Window Of Life	1993	Neo-Prog	Studio
+3.8616	3.91	440	Anubis	230503	2009	Neo-Prog	Studio
+3.8576	3.99	173	Airbag	The Greatest Show On Earth	2013	Neo-Prog	Studio
+3.8560	3.93	292	Believe	Yesterday Is A Friend	2008	Neo-Prog	Studio
+3.8559	3.91	361	Comedy Of Errors	Spirit	2015	Neo-Prog	Studio
+3.8524	3.92	331	Barock Project	Skyline	2015	Neo-Prog	Studio
+3.8521	3.96	212	Galahad	Seas Of Change	2018	Neo-Prog	Studio
+3.8520	4.00	147	Anubis	Hitchhiking To Byzantium	2014	Neo-Prog	Studio
+3.8505	3.95	223	The Psychedelic Ensemble	The Dream Of The Magic Jongleur	2011	Neo-Prog	Studio
+3.8504	4.15	74	The Watch	Vacuum	2004	Neo-Prog	Studio
+3.8504	3.97	170	Triangle	Square The Circle	2000	Neo-Prog	Studio
+3.8465	3.89	455	Vienna Circle	Silhouette Moon	2013	Neo-Prog	Studio
+3.8463	3.99	141	RPWL	Beyond Man and Time	2012	Neo-Prog	Studio
+3.8422	3.95	188	Silhouette	The World Is Flat and Other Alternative Facts	2017	Neo-Prog	Studio
+3.8397	4.10	81	T	Solipsystemology	2019	Neo-Prog	Studio
+3.8397	4.03	110	Asturias	Electric Asturias: Fractals	2011	Neo-Prog	Studio
+3.8371	3.89	408	The D Project	The Sagarmatha Dilemma	2008	Neo-Prog	Studio
+3.8340	4.03	107	Fish	Vigil in a Wilderness of Mirrors	1990	Neo-Prog	Studio
+3.8333	3.90	291	Lifesigns	Altitude	2021	Neo-Prog	Studio
+3.8318	4.06	90	Mystery	Lies and Butterflies	2018	Neo-Prog	Studio
+3.8315	3.90	288	Sanguine Hum	A Trace of Memory	2020	Neo-Prog	Studio
+3.8265	3.92	213	T	Psychoanorexia	2013	Neo-Prog	Studio
+3.8259	3.94	179	Nine Stones Close	One Eye On The Sunrise	2012	Neo-Prog	Studio
+3.8249	4.04	93	Clepsydra	Fears	1997	Neo-Prog	Studio
+3.8246	4.02	103	Galahad	The Last Great Adventurer	2022	Neo-Prog	Studio
+3.8217	3.91	222	T	Anti-Matter Poetry	2010	Neo-Prog	Studio
+3.8205	3.94	171	The D Project	Making Sense	2014	Neo-Prog	Studio
+3.8198	4.00	110	Monarch Trail	Sand	2017	Neo-Prog	Studio
+3.8184	4.08	76	Shamall	Ambiguous Points Of View	2006	Neo-Prog	Studio
+3.8184	3.92	196	Majestic	Arrival	2009	Neo-Prog	Studio
+3.8179	3.93	176	Subsignal	Beautiful & Monstrous	2009	Neo-Prog	Studio
+3.8174	3.91	226	Knight Area	The Sun Also Rises	2004	Neo-Prog	Studio
+3.8174	3.95	153	Shamall	Turn Off	2013	Neo-Prog	Studio
+3.8172	3.98	123	Clive Nolan	Alchemy	2013	Neo-Prog	Studio
+3.8163	3.98	119	Tiger Moth Tales	The Depths Of Winter	2017	Neo-Prog	Studio
+3.8155	3.96	139	Leap Day	Awaking the Muse	2009	Neo-Prog	Studio
+3.8148	3.89	271	Pallas	Wearewhoweare	2014	Neo-Prog	Studio
+3.8148	3.90	236	Cosmograf	The Man Left In Space	2013	Neo-Prog	Studio
+3.8145	3.91	210	Satellite	A Street Between Sunrise And Sunset	2003	Neo-Prog	Studio
+3.8142	3.94	149	Steve Rothery	The Ghosts Of Pripyat	2014	Neo-Prog	Studio
+3.8111	3.93	155	Flamborough Head	Lost in Time	2013	Neo-Prog	Studio
+3.8092	3.93	160	Barock Project	Seven Seas	2019	Neo-Prog	Studio
+3.8086	3.88	259	Nine Stones Close	Traces	2010	Neo-Prog	Studio
+3.8079	4.15	56	Lifesigns	Lifesigns	2013	Neo-Prog	Studio
+3.8066	3.92	175	Combination Head	Combination Head	2006	Neo-Prog	Studio
+3.8055	3.83	800	Evership	Evership II	2018	Neo-Prog	Studio
+3.8031	3.84	483	Marillion	Afraid Of Sunlight	1995	Neo-Prog	Studio
+3.8021	3.84	478	Arena	Songs from the Lions Cage	1995	Neo-Prog	Studio
+3.8014	3.87	257	Frost*	Milliontown	2006	Neo-Prog	Studio
+3.8006	4.25	42	Introitus	Elements	2011	Neo-Prog	Studio
+3.8006	3.96	120	Phoenix Again	Vision	2022	Neo-Prog	Studio
+3.8003	3.96	113	Red Sand	Mirror Of Insanity	2004	Neo-Prog	Studio
+3.7979	4.12	58	Abraxas	Centurie	1998	Neo-Prog	Studio
+3.7974	4.00	92	Asturias	Missing Piece Of My Life	2015	Neo-Prog	Studio
+3.7971	3.86	274	The Emerald Dawn	To Touch the Sky	2021	Neo-Prog	Studio
+3.7966	3.90	178	Satellite	Into The Night	2007	Neo-Prog	Studio
+3.7962	3.89	205	The Far Meadow	Foreign Land	2019	Neo-Prog	Studio
+3.7957	3.88	229	Huis	Despite Guardian Angels	2014	Neo-Prog	Studio
+3.7954	3.92	151	Subsignal	Touchstones	2011	Neo-Prog	Studio
+3.7942	4.01	82	Monarch Trail	Skye	2014	Neo-Prog	Studio
+3.7900	3.92	143	Shamall	Who Do They Think They Are	2003	Neo-Prog	Studio
+3.7897	3.89	175	Gandalf's Fist	A Day in the Life of a Universal Wanderer	2013	Neo-Prog	Studio
+3.7883	3.86	264	Anubis	The Second Hand	2017	Neo-Prog	Studio
+3.7873	3.95	108	Edison's Children	In The Last Waking Moments...	2011	Neo-Prog	Studio
+3.7867	3.90	151	Cirrus Bay	Places Unseen	2016	Neo-Prog	Studio
+3.7845	3.91	136	Fish	Weltschmerz	2020	Neo-Prog	Studio
+3.7822	3.84	322	Crystal Palace	Dawn of Eternity	2016	Neo-Prog	Studio
+3.7821	3.92	129	Galahad	Beyond the Realms of Euphoria	2012	Neo-Prog	Studio
+3.7804	3.89	154	Phoenix Again	Look Out	2014	Neo-Prog	Studio
+3.7802	3.81	501	This Winter Machine	The Man Who Never Was	2017	Neo-Prog	Studio
+3.7794	3.97	91	Pendragon	The World	1991	Neo-Prog	Studio
+3.7793	4.15	47	Matthew Parmenter	Astray	2004	Neo-Prog	Studio
+3.7776	3.84	258	Tale of Diffusion	Adventures of Mandorius (The Bird)	2009	Neo-Prog	Studio
+3.7762	3.84	291	Credo	Against Reason	2011	Neo-Prog	Studio
+3.7762	4.04	66	Airbag	Identity	2009	Neo-Prog	Studio
+3.7759	3.98	83	Osiris	Take a Closer Look	2020	Neo-Prog	Studio
+3.7753	3.86	191	Vienna Circle	White Clouds	2009	Neo-Prog	Studio
+3.7741	4.00	76	Knight Area	Under a New Sign	2007	Neo-Prog	Studio
+3.7736	3.85	212	RPWL	Crime Scene	2023	Neo-Prog	Studio
+3.7734	3.97	85	T	Fragmentropy	2015	Neo-Prog	Studio
+3.7721	3.80	554	Barock Project	Rebus	2009	Neo-Prog	Studio
+3.7720	3.91	126	IQ	Tales from the Lush Attic	1983	Neo-Prog	Studio
+3.7718	3.92	112	Tiger Moth Tales	Story Tellers - Part One	2015	Neo-Prog	Studio
+3.7709	4.04	64	T	Epistrophobia	2016	Neo-Prog	Studio
+3.7706	3.90	132	Millenium	The Sin	2020	Neo-Prog	Studio
+3.7697	3.92	115	The D Project	Find Your Sun	2018	Neo-Prog	Studio
+3.7693	3.95	92	Legend	Spirit	2013	Neo-Prog	Studio
+3.7691	3.95	92	Yuka & Chronoship	The 3rd Planetary Chronicles	2015	Neo-Prog	Studio
+3.7691	3.86	185	Abel Ganz	The Life of the Honey Bee and Other Moments of Clarity	2020	Neo-Prog	Studio
+3.7685	3.89	141	Gandalf's Fist	A Forest of Fey	2014	Neo-Prog	Studio
+3.7682	3.84	238	Shamall	Schizophrenia	2019	Neo-Prog	Studio
+3.7682	4.18	41	Magenta	The Twenty Seven Club	2013	Neo-Prog	Studio
+3.7681	3.84	219	Cyan	For King and Country	2021	Neo-Prog	Studio
+3.7672	3.82	288	Sylvan	Artificial Paradise	2002	Neo-Prog	Studio
+3.7659	3.82	303	Fish	13th Star	2007	Neo-Prog	Studio
+3.7641	3.79	661	Galahad	Battle Scars	2012	Neo-Prog	Studio
+3.7640	3.90	126	IQ	The Wake	1985	Neo-Prog	Studio
+3.7639	3.85	191	Drifting Sun	Twilight	2017	Neo-Prog	Studio
+3.7636	3.84	222	Jadis	More Than Meets The Eye	1992	Neo-Prog	Studio
+3.7620	3.92	100	Grand Tour	Heavy On The Beach	2015	Neo-Prog	Studio
+3.7605	3.87	153	Shamall	Questions Of Life	2008	Neo-Prog	Studio
+3.7595	3.93	94	Millenium	In Search Of The Perfect Melody	2014	Neo-Prog	Studio
+3.7583	3.99	70	Crystal Palace	The System of Events	2013	Neo-Prog	Studio
+3.7579	3.90	115	Erik Norlander	The Galactic Collective	2010	Neo-Prog	Studio
+3.7577	4.18	38	Kinetic Element	Travelog	2015	Neo-Prog	Studio
+3.7576	3.83	217	Christiaan Bruin	The Black Codex (Episodes 14-26)	2015	Neo-Prog	Studio
+3.7572	3.93	94	Airbag	A Day at the Beach	2020	Neo-Prog	Studio
+3.7570	3.85	167	Seven Steps To The Green Door	Step In 2 My World	2008	Neo-Prog	Studio
+3.7561	3.86	161	Millenium	Ego	2013	Neo-Prog	Studio
+3.7560	3.85	160	Drifting Sun	Trip the Life Fantastic	2015	Neo-Prog	Studio
+3.7546	3.91	104	Magenta	We Are Legend	2017	Neo-Prog	Studio
+3.7541	3.77	993	Yak	Quest for the Stones	2015	Neo-Prog	Studio
+3.7540	3.89	120	Marillion	Seasons End	1989	Neo-Prog	Studio
+3.7539	4.09	48	Argos	Unidentified Dying Objects	2018	Neo-Prog	Studio
+3.7531	3.85	158	Comedy Of Errors	Threnody for a Dead Queen	2023	Neo-Prog	Studio
+3.7529	3.86	142	Drifting Sun	Safe Asylum	2016	Neo-Prog	Studio
+3.7519	3.98	70	Martigan	Vision	2009	Neo-Prog	Studio
+3.7507	3.87	126	Morphelia	Waken The Nightmare	2009	Neo-Prog	Studio
+3.7486	4.07	48	Shamall	Is This Human Behavior	2009	Neo-Prog	Studio
+3.7485	3.94	83	Christiaan Bruin	The Black Codex (Episodes 1-13)	2015	Neo-Prog	Studio
+3.7484	4.01	60	Carptree	Subimago	2018	Neo-Prog	Studio
+3.7482	3.81	265	Asturias	In Search Of The Soul Trees	2008	Neo-Prog	Studio
+3.7481	4.02	57	Fish	Sunsets On Empire	1997	Neo-Prog	Studio
+3.7477	4.07	48	T	Pareidoliving	2022	Neo-Prog	Studio
+3.7469	3.89	108	Great Wide Nothing	Hymns for Hungry Spirits, Vol. II	2023	Neo-Prog	Studio
+3.7462	3.99	63	Fjieri	Words Are All We Have	2015	Neo-Prog	Studio
+3.7458	3.82	218	Nine Skies	5.20	2021	Neo-Prog	Studio
+3.7458	4.11	42	Sylvan	Home	2015	Neo-Prog	Studio
+3.7455	3.87	117	Time Horizon	Living Water	2011	Neo-Prog	Studio
+3.7433	3.82	187	Jolly	The Audio Guide To Happiness - Part 2	2013	Neo-Prog	Studio
+3.7413	3.89	100	Satellite	Evening Games	2005	Neo-Prog	Studio
+3.7403	3.92	84	IT	We're All In This Together	2017	Neo-Prog	Studio
+3.7395	4.17	35	Aisles	Hawaii	2016	Neo-Prog	Studio
+3.7395	3.77	444	Aisles	Beyond Drama	2023	Neo-Prog	Studio
+3.7392	3.85	129	Marillion	F E A R (F*** Everyone And Run)	2016	Neo-Prog	Studio
+3.7375	3.92	83	Millenium	44 Minutes	2017	Neo-Prog	Studio
+3.7368	3.89	97	Tiger Moth Tales	Story Tellers - Part Two	2018	Neo-Prog	Studio
+3.7347	3.81	197	Mindgames	Actors In A Play	2006	Neo-Prog	Studio
+3.7344	3.93	74	Mystery	Beneath the Veil of Winter's Face	2007	Neo-Prog	Studio
+3.7335	3.88	101	Cosmos	The Deciding Moments of Your Life	1994	Neo-Prog	Studio
+3.7325	3.84	142	Riversea	Out Of An Ancient World	2012	Neo-Prog	Studio
+3.7322	3.88	97	Subsignal	Paraíso	2013	Neo-Prog	Studio
+3.7322	3.93	72	The  No Name Experience (TNNE) / ex No Name	TNNE: Wonderland	2017	Neo-Prog	Studio
+3.7307	3.93	73	Parzivals Eye	Fragments	2009	Neo-Prog	Studio
+3.7289	4.04	46	Albion	Wabiąc Cienie	2005	Neo-Prog	Studio
+3.7280	3.89	90	Esthesis	The Awakening	2020	Neo-Prog	Studio
+3.7279	3.83	146	Little Atlas	Wanderlust	2005	Neo-Prog	Studio
+3.7273	4.01	51	Galahad	Quiet Storms	2017	Neo-Prog	Studio
+3.7269	3.87	99	Children of Nova	The Complexity of Light	2009	Neo-Prog	Studio
+3.7266	3.84	123	Little Atlas	Automatic Day	2013	Neo-Prog	Studio
+3.7260	3.82	154	Credo	Rhetoric	2005	Neo-Prog	Studio
+3.7255	3.91	76	Huis	Neither In Heaven	2016	Neo-Prog	Studio
+3.7249	3.79	204	Navigator	Phantom Ships	2014	Neo-Prog	Studio
+3.7237	3.89	86	Cosmograf	Capacitor	2014	Neo-Prog	Studio
+3.7233	3.85	115	Harvest	Northern Wind	2014	Neo-Prog	Studio
+3.7232	3.82	145	Millenium	Puzzles	2011	Neo-Prog	Studio
+3.7231	3.83	126	Knight Area	Realm of Shadows	2009	Neo-Prog	Studio
+3.7225	3.84	115	Martin Orford	The Old Road	2008	Neo-Prog	Studio
+3.7216	3.86	103	Asturias	Electric Asturias: Trinity	2019	Neo-Prog	Studio
+3.7215	3.83	129	Silhouette	Beyond The Seventh Wave	2014	Neo-Prog	Studio
+3.7213	4.02	46	Lifesigns	Cardington	2017	Neo-Prog	Studio
+3.7213	3.85	112	Shakary	The Last Summer	2002	Neo-Prog	Studio
+3.7211	4.02	47	Nine Stones Close	Leaves	2016	Neo-Prog	Studio
+3.7200	4.02	46	Comedy Of Errors	Time Machine	2022	Neo-Prog	Studio
+3.7200	3.99	51	Christiaan Bruin	The Black Codex (Episodes 27-39)	2015	Neo-Prog	Studio
+3.7193	4.06	40	Madelgaire	(Im)Patience	2010	Neo-Prog	Studio
+3.7192	3.89	80	Clive Nolan	Song of the Wildlands	2021	Neo-Prog	Studio
+3.7188	3.85	107	Majestic	V.O.Z.	2012	Neo-Prog	Studio
+3.7172	3.87	90	Also Eden	[REDACTED]	2013	Neo-Prog	Studio
+3.7170	4.00	48	Osiris	Osiris	1982	Neo-Prog	Studio
+3.7160	3.89	76	Millenium	Vocanda 2013 - Live In Studio	2013	Neo-Prog	Studio
+3.7153	3.95	57	Salem Hill	The Robbery Of Murder	1998	Neo-Prog	Studio
+3.7151	3.90	73	La Tulipe Noire	Nostimon Hemar	2006	Neo-Prog	Studio
+3.7150	3.89	78	Dead Heroes Club	Everything is Connected	2013	Neo-Prog	Studio
+3.7149	3.95	57	Aragon	Rocking Horse, and Other Short Stories from the Past	1993	Neo-Prog	Studio
+3.7144	3.90	74	IT	Departure	2009	Neo-Prog	Studio
+3.7144	3.83	119	Asgard	Arkana	1992	Neo-Prog	Studio
+3.7137	3.82	123	Matthew Parmenter	All Our Yesterdays	2016	Neo-Prog	Studio
+3.7136	4.12	33	Drifting Sun	Planet Junkie	2019	Neo-Prog	Studio
+3.7132	4.10	35	Asturias	At The Edge Of The World	2016	Neo-Prog	Studio
+3.7123	4.09	35	Bader Nana	Anthology	2013	Neo-Prog	Studio
+3.7120	3.83	114	Esthesis	Watching Worlds Collide	2022	Neo-Prog	Studio
+3.7117	3.99	48	Huis	Abandoned	2019	Neo-Prog	Studio
+3.7109	4.04	40	Combination Head	Progress?	2008	Neo-Prog	Studio
+3.7108	3.96	54	Time Horizon	Power of Three	2022	Neo-Prog	Studio
+3.7104			Asturias	Electric Asturias: Elementals	2014	Neo-Prog	Studio

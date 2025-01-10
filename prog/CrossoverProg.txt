@@ -1,0 +1,250 @@
+4.3031	4.31	2338	Supertramp	Crime of the Century	1974	Crossover Prog	Studio
+4.2985	4.29	1746	Steven Wilson	The Raven That Refused to Sing (and Other Stories)	2013	Crossover Prog	Studio
+4.2751	4.29	1511	Steven Wilson	Hand. Cannot. Erase.	2015	Crossover Prog	Studio
+4.2741	4.23	1063	Mike Oldfield	Ommadawn	1975	Crossover Prog	Studio
+4.1999	4.22	1124	Phideaux	Doomsday Afternoon	2007	Crossover Prog	Studio
+4.1919	4.20	1917	Big Big Train	English Electric (Part One)	2012	Crossover Prog	Studio
+4.1893	4.21	993	Steven Wilson	Grace for Drowning	2011	Crossover Prog	Studio
+4.1819	4.21	886	Peter Gabriel	Peter Gabriel 3 [Aka: Melt]	1980	Crossover Prog	Studio
+4.1818	4.20	938	Phideaux	Snowtorch	2011	Crossover Prog	Studio
+4.1759	4.19	835	The Moody Blues	Days of Future Passed	1967	Crossover Prog	Studio
+4.1599	4.18	525	Big Big Train	The Underfall Yard	2009	Crossover Prog	Studio
+4.1327	4.34	118	Kate Bush	Hounds Of Love	1985	Crossover Prog	Studio
+4.1308	4.14	1343	The Tea Party	The Edges Of Twilight	1995	Crossover Prog	Studio
+4.1208	4.17	456	Mike Oldfield	Tubular Bells	1973	Crossover Prog	Studio
+4.1187	4.17	371	Talk Talk	Spirit Of Eden	1988	Crossover Prog	Studio
+4.1101	4.13	660	Roxy Music	For Your Pleasure	1973	Crossover Prog	Studio
+4.0969	4.13	580	Gazpacho	Night	2007	Crossover Prog	Studio
+4.0941	4.21	187	Iamthemorning	~	2012	Crossover Prog	Studio
+4.0883	4.23	158	Kevin Gilbert	The Shaming of the True	2000	Crossover Prog	Studio
+4.0859	4.11	899	Obiymy Doschu	Son	2017	Crossover Prog	Studio
+4.0839	4.19	209	Big Big Train	English Electric (Part Two)	2013	Crossover Prog	Studio
+4.0804	4.17	222	Caligonaut	Magnified as Giants	2021	Crossover Prog	Studio
+4.0696	4.70	34	Bent Knee	Shiny Eyed Babies	2014	Crossover Prog	Studio
+4.0637	4.14	263	Oingo Boingo	Good For Your Soul	1983	Crossover Prog	Studio
+4.0573	4.13	306	Thank You Scientist	Stranger Heads Prevail	2016	Crossover Prog	Studio
+4.0551	4.28	93	The Dear Hunter	Act V: Hymns with the Devil in Confessional	2016	Crossover Prog	Studio
+4.0536	4.08	773	Time	Time	1972	Crossover Prog	Studio
+4.0484	4.10	365	The Alan Parsons Project	Tales of Mystery and Imagination	1976	Crossover Prog	Studio
+4.0465	4.21	123	Kate Bush	The Dreaming	1982	Crossover Prog	Studio
+4.0439	4.10	370	Indexi	Modra Rijeka	1978	Crossover Prog	Studio
+4.0426	4.10	377	The Dear Hunter	Act IV: Rebirth in Reprise	2015	Crossover Prog	Studio
+4.0405	4.08	485	Roxy Music	Roxy Music	1972	Crossover Prog	Studio
+4.0372	4.08	453	Peter Gabriel	Passion - Music from The Last Temptation Of Christ	1989	Crossover Prog	Studio
+4.0367	4.14	193	The Moody Blues	To Our Children's Children's Children	1969	Crossover Prog	Studio
+4.0365	4.11	279	Von Hertzen Brothers	Love Remains the Same	2008	Crossover Prog	Studio
+4.0337	4.05	1068	Ritual	The Hemulic Voluntary Band	2007	Crossover Prog	Studio
+4.0333	4.13	205	Radiohead	OK Computer	1997	Crossover Prog	Studio
+4.0320	4.08	395	David Sylvian	Secrets of the Beehive	1987	Crossover Prog	Studio
+4.0264	4.08	379	Pavlov's Dog	Pampered Menial	1975	Crossover Prog	Studio
+4.0253	4.07	407	3RDegree	Ones & Zeros - Volume 1	2015	Crossover Prog	Studio
+4.0218	4.07	418	Sean Filkins	War And Peace & Other Short Stories	2011	Crossover Prog	Studio
+4.0197	4.28	75	Mike Oldfield	Return to Ommadawn	2017	Crossover Prog	Studio
+4.0176	4.07	376	Dave Bainbridge	To the Far Away	2021	Crossover Prog	Studio
+4.0149	4.08	276	Procol Harum	Shine On Brightly	1968	Crossover Prog	Studio
+4.0133	4.05	533	The Tea Club	Quickly Quickly Quickly	2012	Crossover Prog	Studio
+4.0106	4.07	339	Gazpacho	Tick Tock	2009	Crossover Prog	Studio
+4.0100	4.07	332	The Dear Hunter	Act I: The Lake South, The River North	2006	Crossover Prog	Studio
+4.0097	4.10	200	The Dear Hunter	Act III: Life and Death	2009	Crossover Prog	Studio
+4.0060	4.06	321	Big Big Train	Welcome to the Planet	2022	Crossover Prog	Studio
+4.0017	4.03	590	The Dear Hunter	Act II: The Meaning of, & All Things Regarding Ms. Leading	2007	Crossover Prog	Studio
+3.9993	4.04	443	Phideaux	Number Seven	2009	Crossover Prog	Studio
+3.9962	4.02	650	Big Big Train	Grand Tour	2019	Crossover Prog	Studio
+3.9949	4.07	267	Mike Oldfield	Amarok	1990	Crossover Prog	Studio
+3.9941	4.11	163	Colin Tench Project	Hair In A G-String (Unfinished But Sweet)	2016	Crossover Prog	Studio
+3.9930	4.06	267	FM	Black Noise	1977	Crossover Prog	Studio
+3.9930	4.02	639	3RDegree	Ones & Zeros - Volume 0	2018	Crossover Prog	Studio
+3.9927	4.06	277	Big Big Train	Folklore	2016	Crossover Prog	Studio
+3.9907	4.02	714	Dredg	El Cielo	2002	Crossover Prog	Studio
+3.9907	4.06	278	Supertramp	Even In The Quietest Moments ...	1977	Crossover Prog	Studio
+3.9880	4.03	474	Southern Empire	Civilisation	2018	Crossover Prog	Studio
+3.9875	4.12	140	Gazpacho	March of Ghosts	2012	Crossover Prog	Studio
+3.9851	4.07	212	Soup	Remedies	2017	Crossover Prog	Studio
+3.9799	4.03	378	Gleb Kolyadin	Gleb Kolyadin	2018	Crossover Prog	Studio
+3.9789	4.09	165	Iamthemorning	Lighthouse	2016	Crossover Prog	Studio
+3.9788	4.05	240	Anna von Hausswolff	Dead Magic	2018	Crossover Prog	Studio
+3.9778	4.03	336	Sunchild	As Far as the Eye Can See	2011	Crossover Prog	Studio
+3.9764	4.02	435	Corvus Stone	Corvus Stone II	2014	Crossover Prog	Studio
+3.9760	4.17	93	Lunatic Soul	Lunatic Soul	2008	Crossover Prog	Studio
+3.9742	4.01	431	Bad Dreams	Apocalypse Of The Mercy	2015	Crossover Prog	Studio
+3.9706	4.05	212	Lunatic Soul	Walking On A Flashlight Beam	2014	Crossover Prog	Studio
+3.9638	4.00	545	The Tea Club	Grappling	2015	Crossover Prog	Studio
+3.9630	3.99	625	Big Big Train	Grimspound	2017	Crossover Prog	Studio
+3.9615	4.56	29	Peter Gabriel	Up	2002	Crossover Prog	Studio
+3.9581	4.00	378	Patrick Broguière	Mont Saint-Michel	1998	Crossover Prog	Studio
+3.9577	4.03	244	Phideaux	Infernal	2018	Crossover Prog	Studio
+3.9577	4.04	198	Pure Reason Revolution	Eupnea	2020	Crossover Prog	Studio
+3.9557	4.01	303	Lebowski	Cinematic	2010	Crossover Prog	Studio
+3.9555	3.97	863	The Pineapple Thief	Dissolution	2018	Crossover Prog	Studio
+3.9527	4.05	179	Supertramp	Breakfast In America	1979	Crossover Prog	Studio
+3.9527	4.05	182	Björk	Vespertine	2001	Crossover Prog	Studio
+3.9518	4.17	79	Kayak	Kayak	1974	Crossover Prog	Studio
+3.9503	4.37	41	Sunchild	Exotic Creatures and a Stolen Dream	2023	Crossover Prog	Studio
+3.9489	4.11	107	Dave Brons	Return to Arda	2022	Crossover Prog	Studio
+3.9485	4.22	61	Hayward & Lodge	Blue Jays	1975	Crossover Prog	Studio
+3.9444	4.23	58	Témpano	Selective Memory	2008	Crossover Prog	Studio
+3.9425	4.00	279	Talisma	Chromium	2005	Crossover Prog	Studio
+3.9418	4.01	235	Frequency Drift	Ghosts	2011	Crossover Prog	Studio
+3.9399	4.08	122	3RDegree	The Long Division	2012	Crossover Prog	Studio
+3.9396	4.09	108	Mew	And The Glass Handed Kites	2005	Crossover Prog	Studio
+3.9386	4.17	72	Sparks	Kimono My House	1974	Crossover Prog	Studio
+3.9379	3.96	849	Dave Bainbridge	Veil of Gossamer	2004	Crossover Prog	Studio
+3.9369	3.96	687	Radiohead	Kid A	2000	Crossover Prog	Studio
+3.9368	3.99	337	Mike Oldfield	Hergest Ridge	1974	Crossover Prog	Studio
+3.9364	4.09	109	Talk Talk	Laughing Stock	1991	Crossover Prog	Studio
+3.9344	3.96	535	Colin Tench Project	Minor Masterpiece	2017	Crossover Prog	Studio
+3.9326	4.11	94	Mike Oldfield	Incantations	1978	Crossover Prog	Studio
+3.9317	4.33	41	Needlepoint	Walking Up That Valley	2021	Crossover Prog	Studio
+3.9288	4.01	194	Unitopia	Seven Chambers	2023	Crossover Prog	Studio
+3.9279	4.63	23	Damanek	In Flight	2018	Crossover Prog	Studio
+3.9267	4.28	46	Tadeusz Wozniak	Tadeusz Woźniak [Aka: Odcień ciszy]	1974	Crossover Prog	Studio
+3.9263	4.01	205	Fish On Friday	Black Rain	2020	Crossover Prog	Studio
+3.9261	4.13	81	Thank You Scientist	Maps of Non-Existent Places	2012	Crossover Prog	Studio
+3.9250	3.99	232	Von Hertzen Brothers	Red Alert in the Blue Forest	2022	Crossover Prog	Studio
+3.9249	4.10	90	Richard Wright	Broken China	1996	Crossover Prog	Studio
+3.9247	4.02	164	Umphrey's McGee	Anchor Drops	2004	Crossover Prog	Studio
+3.9238	4.20	58	Disconnect	Enough Blame To Go Around	2012	Crossover Prog	Studio
+3.9212	3.94	692	Sparks	Lil' Beethoven	2002	Crossover Prog	Studio
+3.9188	3.97	279	Peter Gabriel	Peter Gabriel 4 [Aka: Mask, Aka: Security]	1982	Crossover Prog	Studio
+3.9174	4.11	83	Thank You Scientist	Terraformer	2019	Crossover Prog	Studio
+3.9160	4.09	93	Sparks	Propaganda	1974	Crossover Prog	Studio
+3.9156	3.99	215	Fair To Midland	Fables From A Mayfly - What I Tell You Three Times Is True	2007	Crossover Prog	Studio
+3.9127	4.02	147	The Samurai Of Prog	The Imperial Hotel	2014	Crossover Prog	Studio
+3.9122	3.96	337	Different Light	The Burden of Paradise	2016	Crossover Prog	Studio
+3.9110	4.16	61	Kate Bush	Never For Ever	1980	Crossover Prog	Studio
+3.9093	4.11	76	The Box	D'Après Le Horla De Maupassant	2009	Crossover Prog	Studio
+3.9090	4.27	43	Ignatius	Lights From The Deep	2011	Crossover Prog	Studio
+3.9084	3.98	214	Dezo Ursiny	Pevnina Detstva	1978	Crossover Prog	Studio
+3.9074	4.02	134	Lunatic Soul	Through Shaded Woods	2020	Crossover Prog	Studio
+3.9058	3.94	387	Il Giardino Onirico	Apofenia	2019	Crossover Prog	Studio
+3.9051	3.93	547	Kate Bush	The Kick Inside	1978	Crossover Prog	Studio
+3.9046	3.97	210	Roger Waters	Amused to Death	1992	Crossover Prog	Studio
+3.9018	4.14	64	Rare Bird	As Your Mind Flies By	1970	Crossover Prog	Studio
+3.8995	3.96	241	Témpano	El Fin De La Infancia	1999	Crossover Prog	Studio
+3.8977	4.13	64	Dave Kerzner	New World (Deluxe Edition)	2015	Crossover Prog	Studio
+3.8969	3.98	177	Autograph (Avtograf)	Автограф / Autograph	1986	Crossover Prog	Studio
+3.8968	3.98	171	Gazpacho	Fireworker	2020	Crossover Prog	Studio
+3.8968	4.21	48	Nine Inch Nails	The Downward Spiral	1994	Crossover Prog	Studio
+3.8961	3.97	188	Sparks	Halfnelson [Aka: Sparks]	1971	Crossover Prog	Studio
+3.8946	4.13	64	Gungfly	On Her Journey To The Sun	2017	Crossover Prog	Studio
+3.8929	4.12	67	Ben Craven	Monsters from the Id	2022	Crossover Prog	Studio
+3.8926	4.13	63	Split Enz	Mental Notes	1975	Crossover Prog	Studio
+3.8921	3.97	198	Verbal Delirium	Conundrum	2022	Crossover Prog	Studio
+3.8920	3.94	334	Jeff Wayne	The War Of The Worlds	1978	Crossover Prog	Studio
+3.8915	3.99	137	The Pineapple Thief	Your Wilderness	2016	Crossover Prog	Studio
+3.8873	4.12	62	The Samurai Of Prog	Secrets of Disguise	2013	Crossover Prog	Studio
+3.8862	4.05	90	Kevin Gilbert	Thud	1995	Crossover Prog	Studio
+3.8858	4.32	33	Mice On Stilts	An Ocean Held Me	2013	Crossover Prog	Studio
+3.8834	3.94	243	Stefano Panunzi	Pages from the Sea	2023	Crossover Prog	Studio
+3.8824	4.07	79	IO Earth	Moments	2012	Crossover Prog	Studio
+3.8822	3.91	437	Regal Worm	Use And Ornament	2013	Crossover Prog	Studio
+3.8818	3.96	189	Radiohead	A Moon Shaped Pool	2016	Crossover Prog	Studio
+3.8794	4.37	29	Saga	Generation 13	1995	Crossover Prog	Studio
+3.8766	3.99	126	Susanne Sundfør	The Brothel	2010	Crossover Prog	Studio
+3.8764	4.04	85	Mice On Stilts	Hope for a Mourning	2016	Crossover Prog	Studio
+3.8761	4.27	36	Jargon	The Fading Thought	2020	Crossover Prog	Studio
+3.8754	3.98	134	David Axelrod	Song of Innocence	1968	Crossover Prog	Studio
+3.8749	3.95	186	Sunchild	The Gnomon	2008	Crossover Prog	Studio
+3.8746	3.98	137	Robert Reed	Sanctuary	2014	Crossover Prog	Studio
+3.8743	3.97	141	Nine Inch Nails	The Fragile	1999	Crossover Prog	Studio
+3.8741	3.99	114	3	The End Is Begun	2007	Crossover Prog	Studio
+3.8707	4.07	72	Jean-Pierre Louveton	Le Livre Blanc	2017	Crossover Prog	Studio
+3.8705	4.69	17	Jet Black Sea	The Path of Least Existence	2013	Crossover Prog	Studio
+3.8702	3.93	220	Patrick Broguière	Châteaux de la Loire	2000	Crossover Prog	Studio
+3.8696	4.48	23	Frequency Drift	Laid to Rest	2012	Crossover Prog	Studio
+3.8691	4.09	64	Oingo Boingo	Boingo	1994	Crossover Prog	Studio
+3.8685	3.94	191	Returned To The Earth	Fall of the Watcher	2022	Crossover Prog	Studio
+3.8676	4.07	68	Bjørn Riis	Lullabies in a Car Crash	2014	Crossover Prog	Studio
+3.8675	4.38	27	Modest Midget	Crysis	2014	Crossover Prog	Studio
+3.8673	4.10	58	Children in Paradise	Esyllt	2011	Crossover Prog	Studio
+3.8660	4.07	68	Overhead	Telepathic Minds	2023	Crossover Prog	Studio
+3.8638	3.96	145	Burnt Belief	Burnt Belief	2012	Crossover Prog	Studio
+3.8635	3.96	145	Hasse Fröberg & Musical Companion	HFMC	2015	Crossover Prog	Studio
+3.8635	3.95	167	Regal Worm	Pig Views	2018	Crossover Prog	Studio
+3.8635	4.12	53	Tony Banks	5	2018	Crossover Prog	Studio
+3.8632	4.00	100	Machines Dream	Machines Dream	2013	Crossover Prog	Studio
+3.8628	4.32	30	Bad Dreams	Déjà Vu	2016	Crossover Prog	Studio
+3.8628	3.94	180	Oingo Boingo	Nothing To Fear	1982	Crossover Prog	Studio
+3.8616	4.16	45	Lee Abraham	The Seasons Turn	2016	Crossover Prog	Studio
+3.8604	4.01	90	Mice On Stilts	I Am Proud of You	2023	Crossover Prog	Studio
+3.8593	3.94	171	Robert Reed	Sanctuary III	2018	Crossover Prog	Studio
+3.8590	3.92	209	Cheeto's Magazine	Amazingous	2019	Crossover Prog	Studio
+3.8573	4.18	42	IO Earth	New World	2015	Crossover Prog	Studio
+3.8570	4.44	23	Talisma	Corpus	2003	Crossover Prog	Studio
+3.8549	4.07	61	Patrick Moraz	ESP	2003	Crossover Prog	Studio
+3.8546	3.99	94	Giant Sky	Giant Sky	2021	Crossover Prog	Studio
+3.8513	3.91	205	Innerspace	Rise	2017	Crossover Prog	Studio
+3.8475	3.97	105	Corvus Stone	Corvus Stone Unscrewed	2015	Crossover Prog	Studio
+3.8473	3.95	123	Dave Bainbridge	Celestial Fire	2014	Crossover Prog	Studio
+3.8473	3.92	167	Sunchild	The Wrap	2010	Crossover Prog	Studio
+3.8463	3.97	106	District 97	Trouble With Machines	2012	Crossover Prog	Studio
+3.8462	4.02	75	Jerzy Antczak	Ego, Georgius	2014	Crossover Prog	Studio
+3.8460	3.89	260	Be Bop Deluxe	Modern Music	1976	Crossover Prog	Studio
+3.8448	3.88	375	Procol Harum	Grand Hotel	1973	Crossover Prog	Studio
+3.8440	4.02	75	Procol Harum	Procol Harum [Aka: A Whiter Shade of Pale]	1967	Crossover Prog	Studio
+3.8430	3.87	424	Jonas Lindberg	Jonas Lindberg & The Other Side: Miles from Nowhere	2022	Crossover Prog	Studio
+3.8399	3.86	787	Perfect Beings	Perfect Beings	2014	Crossover Prog	Studio
+3.8395	4.59	17	Peter Gabriel	So	1986	Crossover Prog	Studio
+3.8386	3.93	138	Finally George	Life Is a Killer	2018	Crossover Prog	Studio
+3.8385	4.28	29	Oceans 5	Return to Mingulay	2013	Crossover Prog	Studio
+3.8380	3.95	113	Dezo Ursiny	Dezo Ursiny & Ivan Strpka: Modrý Vrch	1981	Crossover Prog	Studio
+3.8376	4.00	78	Lee Abraham	Comatose	2019	Crossover Prog	Studio
+3.8373	3.95	112	Arz	Turn Of The Tide	2011	Crossover Prog	Studio
+3.8371	3.90	197	Salva	Thirst	2011	Crossover Prog	Studio
+3.8362	4.30	27	The Tea Club	If / When	2019	Crossover Prog	Studio
+3.8361	3.93	135	Vladimir Misik	Etc...2	1980	Crossover Prog	Studio
+3.8359	3.92	150	Rishloo	Feathergun	2009	Crossover Prog	Studio
+3.8354	3.88	270	Sunchild	Messages from Afar - The Division and Illusion of Time	2018	Crossover Prog	Studio
+3.8352	3.99	81	Barclay James  Harvest	Everyone Is Everybody Else	1974	Crossover Prog	Studio
+3.8345	4.11	46	I Am The Manic Whale	Everything Beautiful In Time	2015	Crossover Prog	Studio
+3.8340	3.95	107	Obiymy Doschu	Elehia	2009	Crossover Prog	Studio
+3.8339	3.92	153	Sunchild	The Invisible Line	2009	Crossover Prog	Studio
+3.8333	3.91	163	Fabio Zuffanti	La Quarta Vittima	2014	Crossover Prog	Studio
+3.8318	4.31	26	Fatal Fusion	The Ancient Tale	2013	Crossover Prog	Studio
+3.8316	3.88	256	IO Earth	Sanctuary	2023	Crossover Prog	Studio
+3.8301	3.95	100	The Pineapple Thief	What We Have Sown	2007	Crossover Prog	Studio
+3.8300	3.89	219	Kayak	Nostradamus - The Fate of Man	2005	Crossover Prog	Studio
+3.8297	4.03	61	Frequency Drift	Over	2014	Crossover Prog	Studio
+3.8297	3.91	143	Steamhammer	MK II	1969	Crossover Prog	Studio
+3.8282	3.96	94	IO Earth	Solitude	2018	Crossover Prog	Studio
+3.8280	4.30	26	Rishloo	Living as Ghosts with Buildings as Teeth	2014	Crossover Prog	Studio
+3.8279	4.01	66	Morpheus Project	Mozaick	2021	Crossover Prog	Studio
+3.8276	3.88	219	Lobate Scarp	Time and Space	2012	Crossover Prog	Studio
+3.8274	4.17	36	Perfect Beings	Perfect Beings II	2015	Crossover Prog	Studio
+3.8272	3.94	105	Dave Brons	Not All Those Who Wander Are Lost	2020	Crossover Prog	Studio
+3.8271	4.47	19	Amadeus Awad	Death Is Just a Feeling	2015	Crossover Prog	Studio
+3.8271	4.05	56	Returned To The Earth	Erebus	2019	Crossover Prog	Studio
+3.8269	3.86	417	Ñu	Cuentos de ayer y de hoy	1978	Crossover Prog	Studio
+3.8268	3.90	171	Electric Light Orchestra	Eldorado	1974	Crossover Prog	Studio
+3.8266	4.14	39	Rick Miller	Heart of Darkness	2014	Crossover Prog	Studio
+3.8258	3.85	478	Talisma	Quelque part	2008	Crossover Prog	Studio
+3.8258	3.94	105	The Moody Blues	In Search of the Lost Chord	1968	Crossover Prog	Studio
+3.8247	3.91	147	Kyros / ex Synaesthesia	Vox Humana	2016	Crossover Prog	Studio
+3.8247	4.84	12	Kayak	Seventeen	2018	Crossover Prog	Studio
+3.8246	4.46	19	Tony Patterson	Equations of Meaning	2016	Crossover Prog	Studio
+3.8241	3.91	141	Dezo Ursiny	Dezo Ursiny & Ivan Strpka: Príbeh	1994	Crossover Prog	Studio
+3.8239	3.93	116	The Samurai Of Prog	Archiviarum	2018	Crossover Prog	Studio
+3.8235	3.97	84	Ritual	Think Like a Mountain	2003	Crossover Prog	Studio
+3.8234	3.87	244	Cyril	Gone Through Years	2013	Crossover Prog	Studio
+3.8229	3.93	112	Richard Wright	Wet Dream	1978	Crossover Prog	Studio
+3.8222	3.89	182	Unitopia	Covered Mirror Vol. 1 - Smooth As Silk	2012	Crossover Prog	Studio
+3.8218	3.88	203	Bent Knee	Say So	2016	Crossover Prog	Studio
+3.8215	4.10	43	Iamthemorning	The Bell	2019	Crossover Prog	Studio
+3.8198	4.07	48	Ten Jinn	Sisyphus	2017	Crossover Prog	Studio
+3.8190	3.90	153	Mansun	Six	1998	Crossover Prog	Studio
+3.8189	3.99	70	Resistor	Rise	2010	Crossover Prog	Studio
+3.8183	3.88	195	The Samurai Of Prog	Beyond the Wardrobe	2020	Crossover Prog	Studio
+3.8180	3.97	79	It Bites	The Tall Ships	2008	Crossover Prog	Studio
+3.8176	3.91	128	Kayak	Out of This World	2021	Crossover Prog	Studio
+3.8170	4.10	42	Overhead	Metaepitome	2005	Crossover Prog	Studio
+3.8162	4.22	29	The Reign of Kindo	Rhythm, Chord & Melody	2008	Crossover Prog	Studio
+3.8158	4.06	48	Anna von Hausswolff	The Miraculous	2015	Crossover Prog	Studio
+3.8144	3.92	113	Rosalie Cunningham	Rosalie Cunningham	2019	Crossover Prog	Studio
+3.8141	4.03	55	Kaukasus	I	2014	Crossover Prog	Studio
+3.8134	3.89	144	Johannes Luley	Qitara	2017	Crossover Prog	Studio
+3.8133	3.84	408	Sunchild	Isolation	2012	Crossover Prog	Studio
+3.8133	3.88	173	Lunatic Soul	Lunatic Soul II	2010	Crossover Prog	Studio
+3.8132	3.82	1191	The Samurai Of Prog	On We Sail	2017	Crossover Prog	Studio
+3.8131	3.84	371	Steven Wilson	Insurgentes	2008	Crossover Prog	Studio
+3.8130	3.89	142	Iamthemorning	Belighted	2014	Crossover Prog	Studio
+3.8122			Kant Freud Kafka	No Tengas Miedo	2014	Crossover Prog	Studio

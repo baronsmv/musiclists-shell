@@ -1,0 +1,76 @@
+4.1313	4.24	107	Various Artists (Concept albums & Themed compilations)	Jesus Christ Superstar	1970	Various Genres	Studio
+4.1231	4.29	60	Various Artists (Concept albums & Themed compilations)	Odyssey - The Greatest Tale	2005	Various Genres	Studio
+4.0933	4.20	95	Various Artists (Concept albums & Themed compilations)	La Biblia	1974	Various Genres	Studio
+4.0824	4.15	88	Various Artists (Concept albums & Themed compilations)	Inferno - The Divine Comedy, Part 1	2008	Various Genres	Studio
+4.0293	4.17	63	Various Artists (Concept albums & Themed compilations)	Decameron - Ten Days In 100 Novellas (Part 1)	2011	Various Genres	Studio
+4.0077	4.12	71	Various Artists (Concept albums & Themed compilations)	The Spaghetti Epic 3 - The Great Silence	2009	Various Genres	Studio
+3.9830	4.14	63	Various Artists (Concept albums & Themed compilations)	The Stories Of H.P. Lovecraft - A SyNphonic Collection	2012	Various Genres	Studio
+3.9829	4.71	13	Various Artists (Tributes)	Rewiring Genesis - A Tribute to The Lamb Lies Down on Broadway	2008	Various Genres	Studio
+3.9662	4.03	97	Various Artists (Tributes)	Visions Of An Inner Mounting Apocalypse (Mahavishnu Orchestra)	2005	Various Genres	Studio
+3.9348	4.09	58	Various Artists (Concept albums & Themed compilations)	Jesus Christ Superstar (The Original Motion Picture Sound Track Album)	1973	Various Genres	Studio
+3.9292	4.02	59	Various Artists (Concept albums & Themed compilations)	Purgatorio -The Divine Comedy, Part II	2009	Various Genres	Studio
+3.8794	4.35	16	Various Artists (Concept albums & Themed compilations)	Decameron - Ten Days In 100 Novellas (Part II)	2014	Various Genres	Studio
+3.8543	4.01	51	Various Artists (Tributes)	Leader of the Starry Skies: A Tribute to Tim Smith, Songbook 1	2010	Various Genres	Studio
+3.8520	4.00	40	Various Artists (Concept albums & Themed compilations)	The 7 Samurai	2006	Various Genres	Studio
+3.8156	4.33	12	Various Artists (Concept albums & Themed compilations)	Marscape	1976	Various Genres	Studio
+3.7725	3.93	42	Various Artists (Tributes)	More Animals At The Gates Of Reason - a tribute to pink floyd	2013	Various Genres	Studio
+3.7724	3.88	56	Various Artists (Concept albums & Themed compilations)	Giallo !  (One Suite For The Murderer)	2008	Various Genres	Studio
+3.7653	3.92	33	Various Artists (Concept albums & Themed compilations)	Decameron - Ten Days In 100 Novellas (Part III)	2016	Various Genres	Studio
+3.7314	3.82	54	Various Artists (Tributes)	Return To The Dark Side Of The Moon	2006	Various Genres	Studio
+3.7120	4.00	18	Various Artists (Concept albums & Themed compilations)	Andrew Lloyd Webber: Variations	1978	Various Genres	Studio
+3.6927	4.38	8	Various Artists (Concept albums & Themed compilations)	Keyboards Triangle	1999	Various Genres	Studio
+3.6895	4.08	13	Various Artists (Tributes)	Hur! Hommage à la Musique de Christian Vander	2009	Various Genres	Studio
+3.6735	4.40	6	Various Artists (Tributes)	A Flower Full of Stars: A Tribute to The Flower Kings	2011	Various Genres	Studio
+3.6313	3.89	17	Various Artists (Tributes)	Paolo Chiarandini Plays Genesis	2008	Various Genres	Studio
+3.6240	3.89	17	Various Artists (Tributes)	The Royal Philharmonic Orchestra Plays Hits Of Pink Floyd	1994	Various Genres	Studio
+3.6240	3.93	14	Various Artists (Concept albums & Themed compilations)	Cani Arrabbiati: Opening Themes... A Tribute	2010	Various Genres	Studio
+3.6158	3.88	16	Various Artists (Tributes)	An All Star Tribute To Pink Floyd: The Everlasting Songs	2015	Various Genres	Studio
+3.6092	3.66	69	Various Artists (Tributes)	Honor Thy Drummer - A Tribute To Mike Portnoy	2010	Various Genres	Studio
+3.5995	4.40	5	Various Artists (Concept albums & Themed compilations)	Kalevala - A Finnish Progressive Rock Epic	2003	Various Genres	Studio
+3.5929	3.64	79	Various Artists (Tributes)	Tales from the Edge 2 - A Tribute to the Music of Yes	2017	Various Genres	Studio
+3.5901	3.95	11	Various Artists (Concept albums & Themed compilations)	Peter And The Wolf	1975	Various Genres	Studio
+3.5888	3.66	52	Various Artists (Concept albums & Themed compilations)	Seven Days of a Life	1993	Various Genres	Studio
+3.5883	3.65	44	Various Artists (Concept albums & Themed compilations)	The Spaghetti Epic	2004	Various Genres	Studio
+3.5677	4.00	8	Various Artists (Concept albums & Themed compilations)	The Tales Of Edgar Allan Poe - A SyNphonic Collection	2010	Various Genres	Studio
+3.5590	3.63	41	Various Artists (Tributes)	The Alan Parsons Project Played By Andrew Powell	1983	Various Genres	Studio
+3.5461	3.89	9	Various Artists (Tributes)	Encores, Legends & Paradox - A Tribute To The Music Of ELP	1999	Various Genres	Studio
+3.5357	3.71	17	Various Artists (Tributes)	A Tribute to Pink Floyd - Still Wish You Were Here	2021	Various Genres	Studio
+3.5296	4.00	6	Various Artists (Tributes)	Rökstenen: A Tribute to Swedish Progressive Rock of the 70's	2009	Various Genres	Studio
+3.5170	4.00	6	Various Artists (Concept albums & Themed compilations)	Excalibur V: Move, Cry Act, Clash!	2021	Various Genres	Studio
+3.5170	3.57	51	Various Artists (Tributes)	Savoldelli - Casarano - Bardoscia: The Great Jazz Gig in the Sky (Tribute to Pink Floyd)	2016	Various Genres	Studio
+3.5152	3.58	25	Various Artists (Concept albums & Themed compilations)	The Colossus Of Rhodes	2005	Various Genres	Studio
+3.4855	3.75	9	Various Artists (Concept albums & Themed compilations)	The Empire And The Rebellion	2008	Various Genres	Studio
+3.4837	3.96	5	Various Artists (Tributes)	In From The Storm	1995	Various Genres	Studio
+3.4825	4.08	4	Various Artists (Tributes)	Orchestre National de Jazz: Around Robert Wyatt	2009	Various Genres	Studio
+3.4824	3.87	6	Various Artists (Tributes)	Royal Philharmonic orchestra and Great Empire plays Monuments: 12 Hits Of Queen	1991	Various Genres	Studio
+3.4789	3.67	12	Various Artists (Concept albums & Themed compilations)	Morning Of The Earth original soundtrack	1972	Various Genres	Studio
+3.4762	3.86	5	Various Artists (Tributes)	The Many Faces Of Pink Floyd: A Journey Through The Inner World Of Pink Floyd	2013	Various Genres	Studio
+3.4572	3.95	4	Various Artists (Tributes)	Mahavishnu Re-Defined; A Tribute to John McLaughlin and The Mahavishnu Orchestra	2008	Various Genres	Studio
+3.4562	3.52	27	Various Artists (Concept albums & Themed compilations)	Tripwave 2 - Collection Of Modern Russian Psychedelic Music	2016	Various Genres	Studio
+3.4497	3.71	7	Various Artists (Tributes)	Zarathustra's Revenge	1997	Various Genres	Studio
+3.4481	3.51	30	Various Artists (Tributes)	Family Snapshot  - A Tribute to Genesis solo careers Peter Gabriel	2013	Various Genres	Studio
+3.4456	3.80	5	Various Artists (Concept albums & Themed compilations)	Treasure Island	2007	Various Genres	Studio
+3.4429	3.87	4	Various Artists (Tributes)	Giant For An Hour: music inspired by and in tribute to Gentle Giant	2005	Various Genres	Studio
+3.4387	3.46	72	Various Artists (Tributes)	Viva Carlos! A Supernatural Marathon Celebration	2006	Various Genres	Studio
+3.4328	3.46	40	Various Artists (Concept albums & Themed compilations)	Leonardo - The Absolute Man	2001	Various Genres	Studio
+3.4245	3.50	19	Various Artists (Concept albums & Themed compilations)	The Spaghetti Epic 2 - The Good, The Bad And The Ugly	2007	Various Genres	Studio
+3.4223	3.67	6	Various Artists (Concept albums & Themed compilations)	Давид Тухманов ‎- По волне моей памяти / David Tukhmanov - On The Crest Of My Memory	1976	Various Genres	Studio
+3.4218	3.75	4	Various Artists (Tributes)	The Hits Of Pink Floyd: Darker Side Of The Moon	2004	Various Genres	Studio
+3.4136	3.75	4	Various Artists (Concept albums & Themed compilations)	Sandokan (O.S.T.)	1976	Various Genres	Studio
+3.4136	3.46	26	Various Artists (Tributes)	Yesterday and Today - A 50th Anniversary Tribute to Yes	2018	Various Genres	Studio
+3.4120	3.52	12	Various Artists (Concept albums & Themed compilations)	Excalibur II - The Celtic Ring	2007	Various Genres	Studio
+3.4110	3.51	7	Various Artists (Concept albums & Themed compilations)	Excalibur III: The Origins	2012	Various Genres	Studio
+3.3834	3.45	11	Various Artists (Concept albums & Themed compilations)	Miniatures (edited by Morgan Fisher)	1980	Various Genres	Studio
+3.3792	3.42	14	Various Artists (Concept albums & Themed compilations)	Iliad, a Grand Piano Extravaganza	2010	Various Genres	Studio
+3.3715	3.48	6	Various Artists (Concept albums & Themed compilations)	The Reading Room	2000	Various Genres	Studio
+3.3677	3.50	4	Various Artists (Concept albums & Themed compilations)	Playing the History	2013	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Tributes)	A Return to Fantasy - A Tribute to Uriah Heep	2003	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Tributes)	Giant Tracks: A Tribute to Gentle Giant	1997	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Label Samplers)	Prog P42: No Jacket Required	2016	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Label Samplers)	P45: See Emily Play	2016	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Concept albums & Themed compilations)	Kings' Boards	1990	Various Genres	Studio
+3.3609	3.50	4	Various Artists (Tributes)	Tubular Bells - 50th Anniversary Celebration	2022	Various Genres	Studio
+3.3609	3.38	8	Various Artists (Tributes)	Many Faces Of Emerson Lake & Palmer: A Journey Through The Inner World Of ELP	2015	Various Genres	Studio
+3.3416	3.34	29	Various Artists (Tributes)	Echoes of Secrets - A Pink Floyd Tribute	2014	Various Genres	Studio
+3.3377	3.35	13	Various Artists (Concept albums & Themed compilations)	The Fusion Syndicate	2012	Various Genres	Studio
+3.3360			Various Artists (Concept albums & Themed compilations)	Wondrous Stories	2010	Various Genres	Studio

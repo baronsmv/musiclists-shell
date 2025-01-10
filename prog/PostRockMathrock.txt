@@ -1,0 +1,250 @@
+4.2337	4.27	97	Bohren & Der Club Of Gore	Sunset Mission	2000	Post Rock/Math rock	Studio
+4.1941	4.25	121	Magyar Posse	Random Avenger	2006	Post Rock/Math rock	Studio
+4.1913	4.24	131	Swans	Soundtracks for the Blind	1996	Post Rock/Math rock	Studio
+4.1894	4.14	657	Swans	Children Of God	1987	Post Rock/Math rock	Studio
+4.1334	4.50	17	Godspeed You! Black Emperor	Lift Your Skinny Fists Like Antennas to Heaven	2000	Post Rock/Math rock	Studio
+4.1333	4.14	465	Kairon; IRSE!	Ujubasajuba	2014	Post Rock/Math rock	Studio
+4.1242	4.13	607	Godspeed You! Black Emperor	F# A# ∞	1997	Post Rock/Math rock	Studio
+4.1194	4.78	8	Sigur Rós	Ágætis Byrjun	1999	Post Rock/Math rock	Studio
+4.0865	4.53	12	Horte	Maa Antaa Yön Vaientaa	2021	Post Rock/Math rock	Studio
+4.0802	4.09	295	The American Dollar	Atlas	2009	Post Rock/Math rock	Studio
+4.0695	4.11	122	Ulver	Shadows of the Sun	2007	Post Rock/Math rock	Studio
+4.0665	4.23	32	65DaysOfStatic	One Time For All Time	2005	Post Rock/Math rock	Studio
+4.0655	4.26	27	Hammock	Silencia	2019	Post Rock/Math rock	Studio
+4.0643	4.12	82	The Ascent Of Everest	How Lonely Sits The City	2006	Post Rock/Math rock	Studio
+4.0568	4.48	12	Bark Psychosis	Hex	1994	Post Rock/Math rock	Studio
+4.0565	4.19	37	Equus	Eutheria	2008	Post Rock/Math rock	Studio
+4.0563	4.78	7	Swans	The Beggar	2023	Post Rock/Math rock	Studio
+4.0550	4.27	22	All India Radio	Eternal	2019	Post Rock/Math rock	Studio
+4.0468	4.14	51	Squid	Bright Green Field	2021	Post Rock/Math rock	Studio
+4.0415	4.84	6	Battlestations	Vixit	2017	Post Rock/Math rock	Studio
+4.0384	4.06	207	Midas Fall	Wilderness	2013	Post Rock/Math rock	Studio
+4.0364	4.27	20	Russian Circles	Enter	2006	Post Rock/Math rock	Studio
+4.0338	4.34	15	Silence Kit	Pieonear	2004	Post Rock/Math rock	Studio
+4.0287	4.59	8	.O.rang	Herd Of Instinct	1994	Post Rock/Math rock	Studio
+4.0221	4.23	22	Neil On Impression	The Perfect Tango	2006	Post Rock/Math rock	Studio
+4.0198	4.07	90	If These Trees Could Talk	The Bones Of A Dying World	2016	Post Rock/Math rock	Studio
+4.0155	4.33	14	Battlestations	The Extent of Damage	2015	Post Rock/Math rock	Studio
+4.0149	4.11	47	Labradford	Labradford	1996	Post Rock/Math rock	Studio
+4.0124	4.25	18	Jakob	Sines	2014	Post Rock/Math rock	Studio
+4.0081	4.63	7	The Fierce & The Dead	The Euphoric	2018	Post Rock/Math rock	Studio
+4.0076	4.40	11	Midas Fall	Evaporate	2018	Post Rock/Math rock	Studio
+4.0064	4.30	14	Adebisi Shank	This Is The Third Album Of A Band Called Adebisi Shank	2014	Post Rock/Math rock	Studio
+4.0009	4.04	112	Ana Never	Small Years	2012	Post Rock/Math rock	Studio
+3.9993	4.08	54	Don Caballero	American Don	2000	Post Rock/Math rock	Studio
+3.9973	4.52	8	Lite	Phantasia	2008	Post Rock/Math rock	Studio
+3.9963	4.02	220	Hibernal	Relic	2020	Post Rock/Math rock	Studio
+3.9961	4.11	34	Ulver	Perdition City - Music to an Interior Film	2000	Post Rock/Math rock	Studio
+3.9922	4.15	26	Blueneck	King Nine	2014	Post Rock/Math rock	Studio
+3.9907	4.00	357	Black Country; New Road	For the First Time	2021	Post Rock/Math rock	Studio
+3.9907	4.23	17	Godspeed You! Black Emperor	Yanqui U.X.O.	2002	Post Rock/Math rock	Studio
+3.9903	4.44	9	Mogwai	Kin (OST)	2018	Post Rock/Math rock	Studio
+3.9903	4.50	8	Nordic Giants	Amplify Human Vibration	2017	Post Rock/Math rock	Studio
+3.9898	4.50	8	Oh Hiroshima	In Silence We Yearn	2015	Post Rock/Math rock	Studio
+3.9898	4.67	6	Lights & Motion	Reanimation	2013	Post Rock/Math rock	Studio
+3.9889	4.80	5	Tracer AMC	Flux & Form	2004	Post Rock/Math rock	Studio
+3.9883	4.24	16	Miaou	The Day Will Come Before Long	2011	Post Rock/Math rock	Studio
+3.9873	4.09	38	Hammock	Oblivion Hymns	2013	Post Rock/Math rock	Studio
+3.9862	4.17	21	About Tess	Beautiful	2008	Post Rock/Math rock	Studio
+3.9830	4.09	34	The Fierce & The Dead	Spooky Action	2013	Post Rock/Math rock	Studio
+3.9781	4.37	10	Polyphia	New Levels New Devils	2018	Post Rock/Math rock	Studio
+3.9780	4.00	180	Linda Martini	Olhos De Mongol	2006	Post Rock/Math rock	Studio
+3.9763	4.46	8	Ulver	Bergtatt - Et Eeventyr I 5 Capitler	1994	Post Rock/Math rock	Studio
+3.9747	4.08	37	Battlestations	Splinters, Vol. II: Bruise	2021	Post Rock/Math rock	Studio
+3.9742	4.07	41	Ef	Give Me Beauty... or Give Me Death !	2006	Post Rock/Math rock	Studio
+3.9732	4.05	48	Leech	The Stolen View	2007	Post Rock/Math rock	Studio
+3.9729	4.39	9	Black Country; New Road	Ants from Up There	2022	Post Rock/Math rock	Studio
+3.9694	4.91	4	Labradford	Fixed::Context	2000	Post Rock/Math rock	Studio
+3.9694	4.91	4	The Monroe Transfer	Electric Old Wire Noise	2005	Post Rock/Math rock	Studio
+3.9694	3.98	386	Palm	Rock Island	2018	Post Rock/Math rock	Studio
+3.9666	4.01	81	Sigur Rós	( )	2002	Post Rock/Math rock	Studio
+3.9625	4.87	4	Godspeed You! Black Emperor	G_d's Pee AT STATE'S END!	2021	Post Rock/Math rock	Studio
+3.9603	3.98	233	Broughton's Rules	Anechoic Horizon	2014	Post Rock/Math rock	Studio
+3.9600	4.05	36	Swans	To Be Kind	2014	Post Rock/Math rock	Studio
+3.9555	4.27	11	Battlestations	Inform	2020	Post Rock/Math rock	Studio
+3.9526	3.98	114	Nordic Giants	A Séance of Dark Delusions	2015	Post Rock/Math rock	Studio
+3.9512	4.09	25	A Silver Mt. Zion	He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms	2000	Post Rock/Math rock	Studio
+3.9493	4.33	9	World's End Girlfriend	Hurtbreak Wonderland	2007	Post Rock/Math rock	Studio
+3.9486	3.97	143	World's End Girlfriend	Seven Idiots	2010	Post Rock/Math rock	Studio
+3.9482	4.01	52	Battlestations	In a Cold Embrace	2012	Post Rock/Math rock	Studio
+3.9465	3.98	102	Jakob	Solace	2006	Post Rock/Math rock	Studio
+3.9439	4.10	22	Mono	You Are There	2006	Post Rock/Math rock	Studio
+3.9436	3.98	98	Autumn Moonlight	The Sky Over Your Shoulders	2010	Post Rock/Math rock	Studio
+3.9424	4.50	6	Russian Circles	Station	2008	Post Rock/Math rock	Studio
+3.9413	4.50	6	CHON	CHON	2019	Post Rock/Math rock	Studio
+3.9413	4.50	6	Moonlit Sailor	We Come From Exploding Stars	2014	Post Rock/Math rock	Studio
+3.9413	4.60	5	Autumn Moonlight	Passengers	2017	Post Rock/Math rock	Studio
+3.9383	4.60	5	Newspaperflyhunting	Time Lost	2018	Post Rock/Math rock	Studio
+3.9383	3.96	194	HRSTA	Stem Stem In Electro	2005	Post Rock/Math rock	Studio
+3.9383	4.01	43	Swans	The Seer	2012	Post Rock/Math rock	Studio
+3.9352	4.75	4	Hibernal	After The Winter	2015	Post Rock/Math rock	Studio
+3.9351	4.75	4	Invalids	Strengths	2014	Post Rock/Math rock	Studio
+3.9351	4.75	4	Lights Out Asia	Eyes Like Brontide	2008	Post Rock/Math rock	Studio
+3.9351	4.75	4	HRSTA	L'éclat Du Ciel Était Insoutenable	2001	Post Rock/Math rock	Studio
+3.9351	4.04	31	Wang Wen	L & R	2010	Post Rock/Math rock	Studio
+3.9349	4.03	36	Jardín De La Croix	Ocean Cosmonauts	2011	Post Rock/Math rock	Studio
+3.9349	4.17	14	Giraffes? Giraffes!	More Skin With Milk-Mouth	2007	Post Rock/Math rock	Studio
+3.9345	4.14	16	Until Sunrise	Frozen Stars	2015	Post Rock/Math rock	Studio
+3.9338	3.98	67	Tangled Thoughts Of Leaving	Deaden the Fields	2011	Post Rock/Math rock	Studio
+3.9322	4.27	9	Toe	For Long Tomorrow	2009	Post Rock/Math rock	Studio
+3.9259	3.98	51	Battlestations	Splinters, Vol. I: Tremor	2021	Post Rock/Math rock	Studio
+3.9226	4.15	13	The Samuel Jackson Five	Easily Misunderstood	2005	Post Rock/Math rock	Studio
+3.9202	4.00	38	Jardín De La Croix	Circadia	2016	Post Rock/Math rock	Studio
+3.9201	4.06	22	Mono	For My Parents	2012	Post Rock/Math rock	Studio
+3.9189	3.94	110	Valley Of The Giants	Valley Of The Giants	2004	Post Rock/Math rock	Studio
+3.9140	3.93	162	Perhaps	Volume One	2012	Post Rock/Math rock	Studio
+3.9134	3.98	46	Ulver	Ulver & Tromsø Chamber Orchestra: Messe I.X - VI.X	2013	Post Rock/Math rock	Studio
+3.9124	4.01	31	If These Trees Could Talk	Red Forest	2012	Post Rock/Math rock	Studio
+3.9123	4.00	33	Maserati	Inventions For The New Season	2007	Post Rock/Math rock	Studio
+3.9118	4.20	10	The Evpatoria Report	Golevka	2005	Post Rock/Math rock	Studio
+3.9107	4.22	9	Pg. Lost	Versus	2016	Post Rock/Math rock	Studio
+3.9069	4.22	9	Covet	Effloresce	2018	Post Rock/Math rock	Studio
+3.9069	4.00	29	The Ascent Of Everest	From This Vantage	2010	Post Rock/Math rock	Studio
+3.9038	3.93	106	Toe	Hear You	2015	Post Rock/Math rock	Studio
+3.9035	4.07	17	Don Caballero	Don Caballero 2	1995	Post Rock/Math rock	Studio
+3.9031	4.25	8	Mono	Pilgrimage of the Soul	2021	Post Rock/Math rock	Studio
+3.9029	3.96	49	Linda Martini	Casa Ocupada	2010	Post Rock/Math rock	Studio
+3.8996	4.13	12	Jambinai	ONDA	2019	Post Rock/Math rock	Studio
+3.8988	4.29	7	Kairon; IRSE!	Polysomn	2020	Post Rock/Math rock	Studio
+3.8985	3.94	57	Vessels	White Fields And Open Devices	2008	Post Rock/Math rock	Studio
+3.8946	4.33	6	Leech	If We Get There One Day, Would You Please Open The Gates ?	2012	Post Rock/Math rock	Studio
+3.8936	4.33	6	Austin Tv	La Última Noche Del Mundo	2003	Post Rock/Math rock	Studio
+3.8936	3.93	75	Bohren & Der Club Of Gore	Piano Nights	2014	Post Rock/Math rock	Studio
+3.8934	4.42	5	Hibernal	The Machine	2013	Post Rock/Math rock	Studio
+3.8930	4.18	9	Sun Colored Chair	Seated	2021	Post Rock/Math rock	Studio
+3.8906	4.00	23	Bohren & Der Club Of Gore	Black Earth	2002	Post Rock/Math rock	Studio
+3.8886	4.00	23	Sleep Token	Take Me Back to Eden	2023	Post Rock/Math rock	Studio
+3.8886	4.40	5	Liserstille / ex Lis Er Stille	Nous	2012	Post Rock/Math rock	Studio
+3.8883	4.40	5	Wang Wen	0.7	2012	Post Rock/Math rock	Studio
+3.8883	4.40	5	Balmorhea	All Is Wild, All Is Silent	2009	Post Rock/Math rock	Studio
+3.8883	4.40	5	For A Minor Reflection	Höldum I Att Ad Óreidu	2010	Post Rock/Math rock	Studio
+3.8883	4.40	5	Moonlit Sailor	Colors In Stereo	2011	Post Rock/Math rock	Studio
+3.8883	4.40	5	Because Of Ghosts	This Culture of Background Noise	2008	Post Rock/Math rock	Studio
+3.8883	4.05	16	Glasgow Coma Scale	Enter Oblivion	2016	Post Rock/Math rock	Studio
+3.8869	3.89	351	Pg. Lost	It's not Me, It's You	2008	Post Rock/Math rock	Studio
+3.8862	3.98	27	Sigur Rós	Takk...	2005	Post Rock/Math rock	Studio
+3.8852	3.93	56	God Is An Astronaut	Ghost Tapes #10	2021	Post Rock/Math rock	Studio
+3.8845	4.50	4	Battles	La Di Da Di	2015	Post Rock/Math rock	Studio
+3.8824	4.50	4	Audrey Fall	Mitau	2014	Post Rock/Math rock	Studio
+3.8824	4.50	4	Tangled Thoughts Of Leaving	Yield to Despair	2015	Post Rock/Math rock	Studio
+3.8824	4.50	4	Lights & Motion	Chronicle	2015	Post Rock/Math rock	Studio
+3.8824	4.50	4	Giardini Di Miro	Good Luck	2012	Post Rock/Math rock	Studio
+3.8824	3.90	115	Raised by Swans	Codes and Secret Longing	2005	Post Rock/Math rock	Studio
+3.8818	3.96	31	Hibernal	Replacements	2014	Post Rock/Math rock	Studio
+3.8808	3.97	27	Gregor Samsa	55:12	2006	Post Rock/Math rock	Studio
+3.8794	3.89	195	The Evpatoria Report	Maar	2008	Post Rock/Math rock	Studio
+3.8772	3.96	29	Mogwai	Happy Songs For Happy People	2003	Post Rock/Math rock	Studio
+3.8763	4.06	13	Toe	The Book About My Idle Plot On A Vague Anxiety	2005	Post Rock/Math rock	Studio
+3.8761	3.89	175	Nice Wings Icarus!	Nice Wings, Icarus!	2009	Post Rock/Math rock	Studio
+3.8744	4.03	15	Ulver	Blood Inside	2005	Post Rock/Math rock	Studio
+3.8736	4.45	4	Gregor Samsa	Rest	2008	Post Rock/Math rock	Studio
+3.8724	4.10	10	Battlestations	Memoirs of Once	2023	Post Rock/Math rock	Studio
+3.8707	3.96	27	Blueneck	The Outpost	2016	Post Rock/Math rock	Studio
+3.8705	4.19	7	Bell Orchestre	Recording A Tape The Colour Of The Light	2005	Post Rock/Math rock	Studio
+3.8672	3.95	26	Jambinai	A Hermitage (隱棲은서)	2016	Post Rock/Math rock	Studio
+3.8662	4.11	9	Actual Music Quartet RSM	Actual Music Quartet RSM	2007	Post Rock/Math rock	Studio
+3.8653	4.11	9	Liserstille / ex Lis Er Stille	Apathobvious	2007	Post Rock/Math rock	Studio
+3.8653	3.89	101	Ana Never	Ana Never	2006	Post Rock/Math rock	Studio
+3.8651	4.00	16	Swans	The Glowing Man	2016	Post Rock/Math rock	Studio
+3.8634	3.95	24	Jakob	Subsets Of Sets	2001	Post Rock/Math rock	Studio
+3.8628	4.04	12	Dirty Three	Whatever You Love, You Are	1999	Post Rock/Math rock	Studio
+3.8625	3.93	30	This Will Destroy You	Another Language	2014	Post Rock/Math rock	Studio
+3.8606	4.13	8	The Album Leaf	In a Safe Place	2004	Post Rock/Math rock	Studio
+3.8594	4.13	8	Cul De Sac	Crashes to Light, Minutes to Its Fall	1999	Post Rock/Math rock	Studio
+3.8594	4.13	8	Wang Wen	IV	2008	Post Rock/Math rock	Studio
+3.8594	3.88	89	Junius	Eternal Rituals for the Accretion of Light	2017	Post Rock/Math rock	Studio
+3.8593	3.87	238	God Is An Astronaut	Far From Refuge	2007	Post Rock/Math rock	Studio
+3.8586	4.12	8	Explosions In The Sky	The Earth Is Not A Cold Dead Place	2003	Post Rock/Math rock	Studio
+3.8569	3.88	90	Austin Tv	Caballeros del Albedrío	2011	Post Rock/Math rock	Studio
+3.8568	3.93	26	Bark Psychosis	Codename: Dustsucker	2004	Post Rock/Math rock	Studio
+3.8545	3.89	55	The Album Leaf	Into the Blue Again	2006	Post Rock/Math rock	Studio
+3.8543	4.14	7	Long Distance Calling	How Do We Want to Live?	2020	Post Rock/Math rock	Studio
+3.8530	4.14	7	Raised by Swans	No Ghostless Place	2011	Post Rock/Math rock	Studio
+3.8530	4.14	7	Luzparís	Tierra De Conejos	2009	Post Rock/Math rock	Studio
+3.8530	4.14	7	Her Name Is Calla	Navigator	2014	Post Rock/Math rock	Studio
+3.8530	4.14	7	Balmorhea	Balmorhea	2007	Post Rock/Math rock	Studio
+3.8530	3.87	92	Sioum	I Am Mortal, But Was Fiend	2010	Post Rock/Math rock	Studio
+3.8516	4.07	9	Russian Circles	Empros	2011	Post Rock/Math rock	Studio
+3.8514	3.87	85	Covet	Technicolor	2020	Post Rock/Math rock	Studio
+3.8504	3.92	27	A Silver Mt. Zion	Horses In The Sky	2005	Post Rock/Math rock	Studio
+3.8503	4.17	6	Sleepmakeswaves	...And So We Destroyed Everything	2011	Post Rock/Math rock	Studio
+3.8460	4.17	6	Wang Wen	7 Objects in Another Infinite Space	2007	Post Rock/Math rock	Studio
+3.8460	4.17	6	Balmorhea	Rivers Arms	2008	Post Rock/Math rock	Studio
+3.8460	4.17	6	Faraquet	The View from this Tower	2000	Post Rock/Math rock	Studio
+3.8460	3.98	14	UpCDownC	Embers	2008	Post Rock/Math rock	Studio
+3.8452	3.88	49	Laura	Radio Swan is Down	2006	Post Rock/Math rock	Studio
+3.8448	4.00	12	Liserstille / ex Lis Er Stille	The Collibro	2010	Post Rock/Math rock	Studio
+3.8432	3.98	14	Daturah	Reverie	2008	Post Rock/Math rock	Studio
+3.8425	3.91	26	Aesthesys	Achromata	2018	Post Rock/Math rock	Studio
+3.8424	3.98	13	Hammock	Raising Your Voice... Trying to Stop an Echo	2006	Post Rock/Math rock	Studio
+3.8411	3.88	43	Bell Orchestre	As Seen Through Windows	2009	Post Rock/Math rock	Studio
+3.8386	3.88	48	Mono	Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined	2004	Post Rock/Math rock	Studio
+3.8384	4.20	5	A Silver Mt. Zion	Fuck Off Get Free We Pour Light On Everything	2014	Post Rock/Math rock	Studio
+3.8383	4.20	5	HRSTA	Ghosts Will Come And Kiss Our Eyes	2007	Post Rock/Math rock	Studio
+3.8383	4.20	5	We're From Japan	now breathe	2008	Post Rock/Math rock	Studio
+3.8383	4.20	5	Midas Fall	Eleven. Return And Revert	2010	Post Rock/Math rock	Studio
+3.8383	3.95	16	O'Brother	Disillusion	2013	Post Rock/Math rock	Studio
+3.8383	3.94	17	Tera Melos	Tera Melos	2005	Post Rock/Math rock	Studio
+3.8382	3.90	28	Jardín De La Croix	Pomeroy	2008	Post Rock/Math rock	Studio
+3.8382	4.04	9	Do Make Say Think	Goodbye Enemy Airship the Landlord Is Dead	2000	Post Rock/Math rock	Studio
+3.8370	3.97	13	Labradford	Prazision	1993	Post Rock/Math rock	Studio
+3.8343	3.89	28	Squid	O Monolith	2023	Post Rock/Math rock	Studio
+3.8318	3.84	171	Mono	Rays of Darkness	2014	Post Rock/Math rock	Studio
+3.8316	4.02	9	Long Distance Calling	Long Distance Calling	2011	Post Rock/Math rock	Studio
+3.8316	3.94	16	Reserve De Marche	The Last Twenty Years	2012	Post Rock/Math rock	Studio
+3.8312	4.00	10	Junius	The Martyrdom of a Catastrophist	2009	Post Rock/Math rock	Studio
+3.8307	4.00	10	Bosch's With You	Wired Promise To Be	2010	Post Rock/Math rock	Studio
+3.8307	4.00	10	The Physics House Band	Horizons / Rapture	2013	Post Rock/Math rock	Studio
+3.8307	4.25	4	Caspian	Dust and Disquiet	2015	Post Rock/Math rock	Studio
+3.8298	4.25	4	Echoes And Signals	Ouroboros	2013	Post Rock/Math rock	Studio
+3.8298	4.25	4	Lite	Cubic	2016	Post Rock/Math rock	Studio
+3.8298	4.25	4	Pg. Lost	Oscillate	2020	Post Rock/Math rock	Studio
+3.8298	4.25	4	Hammock	Universalis	2018	Post Rock/Math rock	Studio
+3.8298	4.25	4	Perhaps	7.0	2020	Post Rock/Math rock	Studio
+3.8298	4.25	4	My Education	Bad Vibrations	2008	Post Rock/Math rock	Studio
+3.8298	4.25	4	Ef	Ceremonies	2013	Post Rock/Math rock	Studio
+3.8298	4.25	4	Raised by Swans	Öxnadalur	2014	Post Rock/Math rock	Studio
+3.8298	4.25	4	Balmorhea	Stranger	2012	Post Rock/Math rock	Studio
+3.8298	4.25	4	The Echelon Effect	Mosaic	2010	Post Rock/Math rock	Studio
+3.8298	3.87	41	Beast Please Be Still	Beast, Please Be Still	2007	Post Rock/Math rock	Studio
+3.8297	4.04	8	Do Make Say Think	Other Truths	2009	Post Rock/Math rock	Studio
+3.8288	4.04	8	Austin Tv	Fontana Bella	2007	Post Rock/Math rock	Studio
+3.8288	3.84	129	Bosch's With You	Defamiliarisation	2006	Post Rock/Math rock	Studio
+3.8281	3.84	139	Ulver	Themes from William Blake's The Marriage of Heaven and Hell	1998	Post Rock/Math rock	Studio
+3.8280	3.90	21	Battles	Mirrored	2007	Post Rock/Math rock	Studio
+3.8268	3.99	10	Liserstille / ex Lis Er Stille	Empirical Ghost	2015	Post Rock/Math rock	Studio
+3.8260	3.88	32	Sparkle In Grey	Mexico	2011	Post Rock/Math rock	Studio
+3.8248	3.98	10	God Is An Astronaut	Helios | Erebus	2015	Post Rock/Math rock	Studio
+3.8223	4.08	6	Sweek	The Unbelievable Cinematic Crash	2005	Post Rock/Math rock	Studio
+3.8213	4.08	6	My Education	5 Popes	2004	Post Rock/Math rock	Studio
+3.8213	4.08	6	Collapse Under The Empire	The Sirens Sound	2010	Post Rock/Math rock	Studio
+3.8213	4.04	7	My Education	Sunrise	2010	Post Rock/Math rock	Studio
+3.8198	3.94	13	The Pirate Ship Quintet	Rope for No-Hopers	2012	Post Rock/Math rock	Studio
+3.8198	3.93	14	I Will Kill Chita	Before We Disappear	2013	Post Rock/Math rock	Studio
+3.8195	4.07	6	About Tess	Song Of The Bird	2010	Post Rock/Math rock	Studio
+3.8175	3.87	30	Solkyri	Are You My Brother ?	2013	Post Rock/Math rock	Studio
+3.8170	4.03	7	God Is An Astronaut	Epitaph	2018	Post Rock/Math rock	Studio
+3.8167	3.88	23	Tuna Laguna	Ripples And Swells	2007	Post Rock/Math rock	Studio
+3.8165	3.88	23	Jardín De La Croix	187 Steps To Cross The Universe	2013	Post Rock/Math rock	Studio
+3.8165	4.00	8	El Tubo Elástico	Impala	2018	Post Rock/Math rock	Studio
+3.8159	3.82	144	The Autumn Project	This we take with us	2009	Post Rock/Math rock	Studio
+3.8147	4.02	7	Mogwai	Hardcore Will Never Die, But You Will	2011	Post Rock/Math rock	Studio
+3.8146	3.83	83	The Fierce & The Dead	News from the Invisible World	2023	Post Rock/Math rock	Studio
+3.8137	3.84	47	And So I Watch You From Afar	Gangs	2011	Post Rock/Math rock	Studio
+3.8111	3.84	47	Magyar Posse	Kings Of Time	2004	Post Rock/Math rock	Studio
+3.8108	3.84	44	Maybeshewill	I Was Here for a Moment, Then I Was Gone	2011	Post Rock/Math rock	Studio
+3.8102	3.93	12	Mono	One Step More and You Die	2003	Post Rock/Math rock	Studio
+3.8099	4.04	6	The Physics House Band	Mercury Fountain	2017	Post Rock/Math rock	Studio
+3.8098	3.89	17	Tuber	Desert Overcrowded	2013	Post Rock/Math rock	Studio
+3.8097	3.95	10	Blueneck	Scars Of The Midwest	2006	Post Rock/Math rock	Studio
+3.8096	4.08	5	Vampillia	Alchemic Heart	2011	Post Rock/Math rock	Studio
+3.8092	3.93	11	Flies Are Spies From Hell	Underdog Underfoot	2015	Post Rock/Math rock	Studio
+3.8090	3.90	14	Russian Circles	Blood Year	2019	Post Rock/Math rock	Studio
+3.8076	4.00	7	Bosch's With You	Dreams That Come A Thing (Pt I) - ...Never Thought It May Seem...	2007	Post Rock/Math rock	Studio
+3.8076	4.00	7	Del Rey	A Pyramid for the Living	2006	Post Rock/Math rock	Studio
+3.8076	4.00	7	Youth Pictures of Florence Henderson	Unnoticeable In A Tiny Town, Invisible In The City	2005	Post Rock/Math rock	Studio
+3.8076	4.00	7	Sparkle In Grey	Thursday Evening	2013	Post Rock/Math rock	Studio
+3.8076	4.00	7	Nuito	Unutella	2008	Post Rock/Math rock	Studio
+3.8076	4.00	7	Kerretta	Pirohia	2014	Post Rock/Math rock	Studio
+3.8076	4.00	7	Maybeshewill	Fair Youth	2014	Post Rock/Math rock	Studio
+3.8076			Polvo	Today's Active Lifestyles	1993	Post Rock/Math rock	Studio

@@ -1,0 +1,250 @@
+4.6293	4.61	4687	Pink Floyd	Wish You Were Here	1975	Psychedelic/Space Rock	Studio
+4.6031	4.53	4048	Pink Floyd	The Dark Side of the Moon	1973	Psychedelic/Space Rock	Studio
+4.5228	4.30	3450	Pink Floyd	Animals	1977	Psychedelic/Space Rock	Studio
+4.2913	4.36	169	Pink Floyd	Meddle	1971	Psychedelic/Space Rock	Studio
+4.2280	4.20	1229	King Gizzard & The Lizard Wizard	Polygondwanaland	2017	Psychedelic/Space Rock	Studio
+4.1872	4.20	356	Eloy	Ocean	1977	Psychedelic/Space Rock	Studio
+4.1500	4.25	148	Hypnos 69	Legacy	2010	Psychedelic/Space Rock	Studio
+4.1296	4.23	139	King Gizzard & The Lizard Wizard	Nonagon Infinity	2016	Psychedelic/Space Rock	Studio
+4.0997	4.09	3271	King Gizzard & The Lizard Wizard	Flying Microtonal Banana	2017	Psychedelic/Space Rock	Studio
+4.0890	4.13	412	Pink Floyd	The Wall	1979	Psychedelic/Space Rock	Studio
+4.0856	4.12	479	Nemrud	Ritual	2013	Psychedelic/Space Rock	Studio
+4.0817	4.16	195	Ozric Tentacles	Jurassic Shift	1993	Psychedelic/Space Rock	Studio
+4.0786	4.10	718	Kingston Wall	Kingston Wall II	1993	Psychedelic/Space Rock	Studio
+4.0728	4.08	697	Hawkwind	Warrior on the Edge of Time	1975	Psychedelic/Space Rock	Studio
+4.0617	4.16	129	Nektar	A Tab in the Ocean	1972	Psychedelic/Space Rock	Studio
+4.0432	4.15	134	Tako	Tako	1978	Psychedelic/Space Rock	Studio
+4.0404	4.06	748	Agusa	En annan värld	2021	Psychedelic/Space Rock	Studio
+4.0350	4.08	312	Eloy	Silent Cries and Mighty Echoes	1979	Psychedelic/Space Rock	Studio
+4.0322	4.05	712	No-Man	Together We're Stranger	2003	Psychedelic/Space Rock	Studio
+4.0312	4.22	75	Eloy	Dawn	1976	Psychedelic/Space Rock	Studio
+4.0260	4.14	122	Mantric Muse	Mantric Muse	2012	Psychedelic/Space Rock	Studio
+4.0237	4.15	107	Os Mutantes	O 'A' E O 'Z'	1992	Psychedelic/Space Rock	Studio
+4.0181	4.13	133	King Gizzard & The Lizard Wizard	I'm in Your Mind Fuzz	2014	Psychedelic/Space Rock	Studio
+4.0172	4.28	55	Kingston Wall	III Tri-Logy	1994	Psychedelic/Space Rock	Studio
+4.0165	4.11	157	Monomyth	Monomyth	2013	Psychedelic/Space Rock	Studio
+4.0150	4.06	312	Far East Family Band	Parallel World	1976	Psychedelic/Space Rock	Studio
+4.0146	4.20	78	Oceansize	Everyone into Position	2005	Psychedelic/Space Rock	Studio
+4.0123	4.12	131	Crippled Black Phoenix	The Resurrectionists	2009	Psychedelic/Space Rock	Studio
+4.0101	4.05	307	Arthur Brown's Kingdom Come	Journey	1973	Psychedelic/Space Rock	Studio
+4.0019	4.04	332	Oceansize	Effloresce	2003	Psychedelic/Space Rock	Studio
+3.9993	4.09	141	Oceansize	Frames	2007	Psychedelic/Space Rock	Studio
+3.9950	4.03	341	The Future Kings Of England	The Future Kings Of England	2005	Psychedelic/Space Rock	Studio
+3.9933	4.18	74	Ozric Tentacles	Erpland	1990	Psychedelic/Space Rock	Studio
+3.9928	4.16	79	Tako	U Vreći Za Spavanje	1980	Psychedelic/Space Rock	Studio
+3.9917	4.02	494	35007	Liquid	2002	Psychedelic/Space Rock	Studio
+3.9898	4.09	130	Amplifier	The Octopus	2011	Psychedelic/Space Rock	Studio
+3.9895	4.15	81	Monkey3	Sphere	2019	Psychedelic/Space Rock	Studio
+3.9848	4.04	243	Igra Staklenih Perli	Igra Staklenih Perli	1979	Psychedelic/Space Rock	Studio
+3.9843	4.04	223	Nemrud	Nemrud	2016	Psychedelic/Space Rock	Studio
+3.9840	4.01	503	Agusa	Högtid	2014	Psychedelic/Space Rock	Studio
+3.9818	4.25	47	Hawkwind	Hall of the Mountain Grill	1974	Psychedelic/Space Rock	Studio
+3.9744	3.99	519	Agusa	Prima Materia	2023	Psychedelic/Space Rock	Studio
+3.9692	4.14	75	Eloy	Planets	1981	Psychedelic/Space Rock	Studio
+3.9678	4.09	98	Grails	Burning Off Impurities	2007	Psychedelic/Space Rock	Studio
+3.9645	4.03	184	Arthur Brown's Kingdom Come	Galactic Zoo Dossier	1971	Psychedelic/Space Rock	Studio
+3.9594	4.18	56	Vespero	By The Waters Of Tomorrow	2010	Psychedelic/Space Rock	Studio
+3.9575	4.64	18	Catherine Ribeiro  & Alpes	Paix	1972	Psychedelic/Space Rock	Studio
+3.9573	4.16	60	Invisible Opera Company Of Tibet (Brazil)	UFO Planante	2010	Psychedelic/Space Rock	Studio
+3.9551	4.11	72	Solar Project	Force Majeure	2004	Psychedelic/Space Rock	Studio
+3.9478	3.97	583	Birth	Born	2022	Psychedelic/Space Rock	Studio
+3.9471	3.99	278	Nektar	Remember the Future	1973	Psychedelic/Space Rock	Studio
+3.9463	4.03	149	Hawkwind	Levitation	1980	Psychedelic/Space Rock	Studio
+3.9460	4.03	138	Ekos	Otra Dimensión	2017	Psychedelic/Space Rock	Studio
+3.9435	4.19	48	Os Mutantes	Tudo Foi Feito Pelo Sol	1974	Psychedelic/Space Rock	Studio
+3.9431	3.97	471	Øresund Space Collective	Øresund Space Collective	2006	Psychedelic/Space Rock	Studio
+3.9428	4.03	121	Astra	The Black Chord	2012	Psychedelic/Space Rock	Studio
+3.9369	4.83	13	Lizards Exist	Lizards Exist	2014	Psychedelic/Space Rock	Studio
+3.9368	3.99	203	Tribe Of Cro	Virtual Vinyl	2007	Psychedelic/Space Rock	Studio
+3.9357	4.10	69	Chroma Key	Dead Air for Radios	1998	Psychedelic/Space Rock	Studio
+3.9332	4.49	20	First Band From Outer Space	Impressionable Sounds Of The Subsonic	2006	Psychedelic/Space Rock	Studio
+3.9262	4.05	86	Fantasy	Fantasy	1970	Psychedelic/Space Rock	Studio
+3.9180	4.14	49	Dashiell Hedayat	Obsolete	1971	Psychedelic/Space Rock	Studio
+3.9170	4.13	50	I.E.M.	IEM Have Come For Your Children	2001	Psychedelic/Space Rock	Studio
+3.9166	4.07	69	Teeth Of The Sea	Master	2013	Psychedelic/Space Rock	Studio
+3.9165	4.08	68	Som Imaginário	Matança Do Porco	1973	Psychedelic/Space Rock	Studio
+3.9164	4.06	78	Causa Sui	Euporie Tide	2013	Psychedelic/Space Rock	Studio
+3.9163	4.01	106	Siddhartha	Trip To Innerself	2009	Psychedelic/Space Rock	Studio
+3.9114	4.16	43	Vespero	Surpassing All Kings	2009	Psychedelic/Space Rock	Studio
+3.9112	4.02	101	KingBathmat	Fantastic Freak Show Carnival	2005	Psychedelic/Space Rock	Studio
+3.9100	4.02	96	Polyphony	Without Introduction	1971	Psychedelic/Space Rock	Studio
+3.9064	3.95	198	Magick Brother and Mystic Sister	Magick Brother and Mystic Sister	2020	Psychedelic/Space Rock	Studio
+3.9023	4.33	24	My Brother The Wind	I Wash My Soul In The Stream Of Infinity	2011	Psychedelic/Space Rock	Studio
+3.9021	4.04	74	Másfél	Angyaltojás - Angel's Egg	2000	Psychedelic/Space Rock	Studio
+3.9019	4.08	57	Ahora Mazda	Ahora Mazda	1970	Psychedelic/Space Rock	Studio
+3.9006	3.96	164	Parallel Or 90 Degrees	More Exotic Ways To Die	2002	Psychedelic/Space Rock	Studio
+3.9006	3.98	127	Agusa	Två	2015	Psychedelic/Space Rock	Studio
+3.9005	4.14	42	Hidria Spacefolk	Symbiosis	2002	Psychedelic/Space Rock	Studio
+3.8997	4.04	75	Catherine Ribeiro  & Alpes	Ame Debout	1971	Psychedelic/Space Rock	Studio
+3.8989	4.00	99	Øresund Space Collective	The Black Tomato	2007	Psychedelic/Space Rock	Studio
+3.8972	4.21	32	Os Mutantes	Os Mutantes	1968	Psychedelic/Space Rock	Studio
+3.8962	4.03	77	Taj-Mahal Travellers	August 1974	1974	Psychedelic/Space Rock	Studio
+3.8953	4.03	77	Raven Sad	The Leaf and the Wing	2021	Psychedelic/Space Rock	Studio
+3.8951	3.90	2468	Aquelarre	Aquelarre	1972	Psychedelic/Space Rock	Studio
+3.8950	3.99	102	Pink Floyd	Atom Heart Mother	1970	Psychedelic/Space Rock	Studio
+3.8942	4.05	60	The Black Noodle Project	Divided We Fall	2017	Psychedelic/Space Rock	Studio
+3.8871	3.94	177	Crippled Black Phoenix	Night Raider	2009	Psychedelic/Space Rock	Studio
+3.8866	3.94	193	Agusa	Agusa	2017	Psychedelic/Space Rock	Studio
+3.8861	3.93	236	Ozric Tentacles	Curious Corn	1997	Psychedelic/Space Rock	Studio
+3.8852	3.93	235	Crippled Black Phoenix	(Mankind) The Crafty Ape	2012	Psychedelic/Space Rock	Studio
+3.8849	3.97	116	Ozric Tentacles	Arborescence	1994	Psychedelic/Space Rock	Studio
+3.8849	4.39	19	Annot Rhül	Leviathan	2014	Psychedelic/Space Rock	Studio
+3.8841	4.03	65	ID	Where Are We Going	1977	Psychedelic/Space Rock	Studio
+3.8839	4.18	32	King Gizzard & The Lizard Wizard	Changes	2022	Psychedelic/Space Rock	Studio
+3.8805	4.10	43	Polytoxicomane Philharmonie	Psycho Erectus	2003	Psychedelic/Space Rock	Studio
+3.8781	3.96	117	Nik Turner	Space Fusion Odyssey	2015	Psychedelic/Space Rock	Studio
+3.8773	3.90	323	Omega	Time Robber	1976	Psychedelic/Space Rock	Studio
+3.8748	3.95	122	Astra	The Weirding	2009	Psychedelic/Space Rock	Studio
+3.8729	3.87	2240	Hypnos 69	The Eclectic Measure	2007	Psychedelic/Space Rock	Studio
+3.8701	3.95	119	Pink Floyd	The Piper at the Gates of Dawn	1967	Psychedelic/Space Rock	Studio
+3.8691	3.90	276	Samsara Blues Experiment	Long Distance Trip	2010	Psychedelic/Space Rock	Studio
+3.8676	3.91	197	Ozric Tentacles	Strangeitude	1991	Psychedelic/Space Rock	Studio
+3.8675	4.04	52	No-Man	Flowermouth	1994	Psychedelic/Space Rock	Studio
+3.8674	4.26	23	Violeta De Outono	Volume 7	2007	Psychedelic/Space Rock	Studio
+3.8671	4.52	14	Traffic Sound	Traffic Sound [aka: III / Tibet's Suzettes]	1970	Psychedelic/Space Rock	Studio
+3.8667	3.98	82	Alain Markusfeld	Platock	1978	Psychedelic/Space Rock	Studio
+3.8661	3.91	176	Omega	The Hall Of Floaters In The Sky	1975	Psychedelic/Space Rock	Studio
+3.8611	3.93	117	Ozric Tentacles	The Hidden Step	2000	Psychedelic/Space Rock	Studio
+3.8587	4.40	16	Quantum Fantay	Bridges of Kukuriku	2010	Psychedelic/Space Rock	Studio
+3.8570	3.93	120	The Spacious Mind	Rotvälta	2005	Psychedelic/Space Rock	Studio
+3.8561	3.98	73	Älgarnas Trädgård	Framtiden Är Ett Svävande Skepp, Förankrat I Forntiden	1972	Psychedelic/Space Rock	Studio
+3.8559	3.93	111	Atavismo	Inerte	2017	Psychedelic/Space Rock	Studio
+3.8559	4.05	45	Vespero	Subkraut - U-Boats Willkommen Hier	2012	Psychedelic/Space Rock	Studio
+3.8547	4.21	24	The Legendary Pink Dots	Crushed Velvet Apocalypse	1990	Psychedelic/Space Rock	Studio
+3.8540	4.06	41	Mess	Sven Grünberg's Proge-Rock Group	1995	Psychedelic/Space Rock	Studio
+3.8535	4.41	15	Violeta De Outono	Spaces	2016	Psychedelic/Space Rock	Studio
+3.8490	4.01	51	Pyramidal	Frozen Galaxies	2013	Psychedelic/Space Rock	Studio
+3.8473	4.23	22	Mother Gong	Fairy Tales	1979	Psychedelic/Space Rock	Studio
+3.8470	3.98	64	Omega	Oratórium	2013	Psychedelic/Space Rock	Studio
+3.8465	3.91	132	The Legendary Pink Dots	The Maria Dimension	1991	Psychedelic/Space Rock	Studio
+3.8456	4.16	26	Violeta De Outono	Espectro	2012	Psychedelic/Space Rock	Studio
+3.8451	3.97	66	Dead Meadow	Dead Meadow	2000	Psychedelic/Space Rock	Studio
+3.8429	3.91	120	Electric Moon	Stardust Rituals	2017	Psychedelic/Space Rock	Studio
+3.8429	3.99	56	Malady	Toinen Toista	2018	Psychedelic/Space Rock	Studio
+3.8427	4.04	41	Causa Sui	Summer Sessions Vol. 1	2008	Psychedelic/Space Rock	Studio
+3.8411	3.96	68	Crippled Black Phoenix	Banefyre	2022	Psychedelic/Space Rock	Studio
+3.8386	3.88	174	Sensations' Fix	Portable Madness	1974	Psychedelic/Space Rock	Studio
+3.8379	4.04	39	Nemrud	Journey Of The Shaman	2010	Psychedelic/Space Rock	Studio
+3.8366	4.28	18	Korai Öröm	Korai Öröm (2009)	2009	Psychedelic/Space Rock	Studio
+3.8356	3.94	74	Ciolkowska	Pistolet Budushchego	2015	Psychedelic/Space Rock	Studio
+3.8349	3.92	91	King Gizzard & The Lizard Wizard	Ice, Death, Planets, Lungs, Mushrooms and Lava	2022	Psychedelic/Space Rock	Studio
+3.8334	3.89	139	Omega	Gammapolis [Ω IX]	1979	Psychedelic/Space Rock	Studio
+3.8320	3.92	90	Sweet Smoke	Just a Poke	1970	Psychedelic/Space Rock	Studio
+3.8307	3.85	449	Os Mutantes	Mutantes	1969	Psychedelic/Space Rock	Studio
+3.8303	4.11	28	Eloy	Time to Turn	1982	Psychedelic/Space Rock	Studio
+3.8303	4.18	22	The Carpet Knights	Lost and So Strange Is My Mind	2005	Psychedelic/Space Rock	Studio
+3.8290	3.95	61	Shinki Chen & Friends	Shinki Chen & Friends	1971	Psychedelic/Space Rock	Studio
+3.8268	3.85	399	First Band From Outer Space	The Guitar Is Mightier Than The Gun	2009	Psychedelic/Space Rock	Studio
+3.8266	4.41	13	Nektar	Recycled	1975	Psychedelic/Space Rock	Studio
+3.8253	3.93	70	Ghost	Snuffbox Immanence	1999	Psychedelic/Space Rock	Studio
+3.8219	4.50	11	Quantum Fantay	Tessellation of Euclidean Space	2017	Psychedelic/Space Rock	Studio
+3.8218	4.05	32	Aquaserge	À l'amitié	2014	Psychedelic/Space Rock	Studio
+3.8218	4.02	38	Nik Turner	Nik Turner's Sphynx: Xitintoday	1978	Psychedelic/Space Rock	Studio
+3.8215	3.96	55	Øresund Space Collective	Good Planets Are Hard to Find	2009	Psychedelic/Space Rock	Studio
+3.8209	4.14	23	Moonwagon	Foyers of the Future	2012	Psychedelic/Space Rock	Studio
+3.8205	4.07	30	Circle	Pharaoh Overlord	2015	Psychedelic/Space Rock	Studio
+3.8201	3.89	106	Earthless	From the Ages	2013	Psychedelic/Space Rock	Studio
+3.8198	3.92	70	Quantum Fantay	Terragaia	2014	Psychedelic/Space Rock	Studio
+3.8189	3.86	197	Crippled Black Phoenix	Ellengæst	2020	Psychedelic/Space Rock	Studio
+3.8187	3.87	134	No-Man	Returning Jesus	2001	Psychedelic/Space Rock	Studio
+3.8176	3.94	58	NoSound	Sol29	2005	Psychedelic/Space Rock	Studio
+3.8165	4.38	13	Aquelarre	Brumas	1974	Psychedelic/Space Rock	Studio
+3.8163	4.04	32	Papir	Papir Meets Electric Moon: The Papermoon Sessions	2013	Psychedelic/Space Rock	Studio
+3.8151	3.85	227	Alrune Rod	Hej Du	1970	Psychedelic/Space Rock	Studio
+3.8150	3.92	66	Ozric Tentacles	Technicians of the Sacred	2015	Psychedelic/Space Rock	Studio
+3.8149	3.89	92	Solar Project	Aquarmada	2014	Psychedelic/Space Rock	Studio
+3.8145	4.07	28	Man	Be Good To Yourself At Least Once A Day	1972	Psychedelic/Space Rock	Studio
+3.8144	3.98	43	The Legendary Pink Dots	A Perfect Mystery	2000	Psychedelic/Space Rock	Studio
+3.8144	3.90	86	KingBathmat	Overcoming The Monster	2013	Psychedelic/Space Rock	Studio
+3.8143	3.88	107	Far Out	Nihonjin	1973	Psychedelic/Space Rock	Studio
+3.8139	3.97	46	Omega	200 Years After The Last War	1974	Psychedelic/Space Rock	Studio
+3.8135	3.85	197	Karakorum	Fables and Fairytales	2019	Psychedelic/Space Rock	Studio
+3.8131	4.14	22	Ozric Tentacles	Waterfall Cities	1999	Psychedelic/Space Rock	Studio
+3.8131	3.95	54	Polytoxicomane Philharmonie	Drosophila Road	2007	Psychedelic/Space Rock	Studio
+3.8128	4.00	38	Causa Sui	Summer Sessions Vol. 3	2009	Psychedelic/Space Rock	Studio
+3.8125	3.92	66	Monkey3	The 5th Sun	2013	Psychedelic/Space Rock	Studio
+3.8107	4.06	28	Älgarnas Trädgård	Delayed	2001	Psychedelic/Space Rock	Studio
+3.8097	3.90	80	Malady	Ainavihantaa	2021	Psychedelic/Space Rock	Studio
+3.8096	3.88	101	The Future Kings Of England	The Viewing Point	2009	Psychedelic/Space Rock	Studio
+3.8079	3.90	78	King Gizzard & The Lizard Wizard	Murder of the Universe	2017	Psychedelic/Space Rock	Studio
+3.8077	3.86	136	Vespero	Droga	2013	Psychedelic/Space Rock	Studio
+3.8071	3.95	47	Crippled Black Phoenix	Great Escape	2018	Psychedelic/Space Rock	Studio
+3.8071	4.04	30	Second Hand	Death May Be Your Santa Claus	1971	Psychedelic/Space Rock	Studio
+3.8071	3.89	85	Group 1850	Paradise Now	1969	Psychedelic/Space Rock	Studio
+3.8068	4.01	34	Vespero	Hollow Moon	2018	Psychedelic/Space Rock	Studio
+3.8066	4.12	22	Goat	World Music	2012	Psychedelic/Space Rock	Studio
+3.8063	3.86	118	Los Natas	Toba-Trance	2002	Psychedelic/Space Rock	Studio
+3.8056	4.26	15	Flower Travellin' Band	Satori	1971	Psychedelic/Space Rock	Studio
+3.8056	4.02	32	The Legendary Pink Dots	10 To The Power Of 9	2014	Psychedelic/Space Rock	Studio
+3.8052	4.00	35	Amgala Temple	Invisible Airships	2018	Psychedelic/Space Rock	Studio
+3.8046	3.94	50	Sula Bassana	The Night	2009	Psychedelic/Space Rock	Studio
+3.8038	4.03	30	My Sleeping Karma	Satya	2008	Psychedelic/Space Rock	Studio
+3.8031	4.16	19	Shuttah	The Image Maker vol. 1 & 2	1971	Psychedelic/Space Rock	Studio
+3.8022	3.91	65	The Spacious Mind	Cosmic Minds At Play	1993	Psychedelic/Space Rock	Studio
+3.8019	4.00	34	Marco Ragni	Mother from the Sun	2014	Psychedelic/Space Rock	Studio
+3.8018	3.88	88	Comets on Fire	Blue Cathedral	2004	Psychedelic/Space Rock	Studio
+3.8010	4.19	17	Man	Back Into The Future	1973	Psychedelic/Space Rock	Studio
+3.7999	3.89	73	Másfél	Katasztrófamámor (Flush of Catastrophe)	1998	Psychedelic/Space Rock	Studio
+3.7995	3.94	47	Aton Five	Solarstalgia	2018	Psychedelic/Space Rock	Studio
+3.7995	4.75	7	Vespero	The Four Zoas	2020	Psychedelic/Space Rock	Studio
+3.7994	4.75	7	Moura	Moura	2020	Psychedelic/Space Rock	Studio
+3.7994	4.31	13	Deep Space Destructors	Visions From The Void	2018	Psychedelic/Space Rock	Studio
+3.7984	3.91	58	Los Natas	Delmar	1996	Psychedelic/Space Rock	Studio
+3.7963	4.04	27	Øresund Space Collective	Music for Pogonologists	2014	Psychedelic/Space Rock	Studio
+3.7956	4.09	22	Monkey3	Astra Symmetry	2016	Psychedelic/Space Rock	Studio
+3.7952	4.18	17	Purple Overdose	Reborn	1999	Psychedelic/Space Rock	Studio
+3.7948	3.92	50	Space Debris	Kraut Lok	2005	Psychedelic/Space Rock	Studio
+3.7939	4.03	27	Solar Project	In Time	1997	Psychedelic/Space Rock	Studio
+3.7929	3.88	70	Mars Red Sky	Mars Red Sky	2011	Psychedelic/Space Rock	Studio
+3.7924	3.96	38	The Black Noodle Project	Ghosts & Memories	2013	Psychedelic/Space Rock	Studio
+3.7919	4.10	21	Ekos	Luz Interna	2012	Psychedelic/Space Rock	Studio
+3.7916	3.93	46	Space Debris	Elephant Moon	2008	Psychedelic/Space Rock	Studio
+3.7907	4.42	10	Ed Wynne	Shimmer into Nature	2019	Psychedelic/Space Rock	Studio
+3.7899	4.42	10	Circle	Rautatie	2010	Psychedelic/Space Rock	Studio
+3.7899	4.42	10	Seid	Among The Monster Flowers Again	2002	Psychedelic/Space Rock	Studio
+3.7889	3.92	46	3rd Ear Experience	Stones Of A Feather	2016	Psychedelic/Space Rock	Studio
+3.7876	3.80	423	Earthless	Rhythms From A Cosmic Sky	2007	Psychedelic/Space Rock	Studio
+3.7875	3.90	55	Nektar	Journey to the Centre of the Eye	1971	Psychedelic/Space Rock	Studio
+3.7871	4.04	24	StereoKimono	Intergalactic Art Cafe	2012	Psychedelic/Space Rock	Studio
+3.7859	3.89	57	Erkin Koray	Elektronik Türküler	1974	Psychedelic/Space Rock	Studio
+3.7854	4.04	24	Telegraph	Mir	2018	Psychedelic/Space Rock	Studio
+3.7854	4.11	19	The Legendary Pink Dots	Hallway Of The Gods	1997	Psychedelic/Space Rock	Studio
+3.7841	3.93	43	Siddhartha	Siddhartha [Aka: Trip To Innerself]	1998	Psychedelic/Space Rock	Studio
+3.7840	4.80	6	Parallel Or 90 Degrees	Afterlifecycle	1997	Psychedelic/Space Rock	Studio
+3.7839	3.82	150	Edena Gardens	Edena Gardens	2022	Psychedelic/Space Rock	Studio
+3.7835	3.86	74	Grails	Deep Politics	2011	Psychedelic/Space Rock	Studio
+3.7829	4.14	17	Crippled Black Phoenix	No Sadness or Farewell	2012	Psychedelic/Space Rock	Studio
+3.7827	3.84	114	Purple Overdose	Purple Overdose	1994	Psychedelic/Space Rock	Studio
+3.7825	4.21	14	Quantum Fantay	Ugisiunsi	2007	Psychedelic/Space Rock	Studio
+3.7825	4.21	14	Másfél	Viperagarzon / Viperflat	1996	Psychedelic/Space Rock	Studio
+3.7825	3.85	85	Solar Project	Ghost Lights	2020	Psychedelic/Space Rock	Studio
+3.7820	3.85	89	Omega	Omega 6 - Nem Tudom A Neved [Aka: Tűzvihar/Stormy Fire]	1975	Psychedelic/Space Rock	Studio
+3.7814	3.84	99	Man	Do You Like It Here Now, Are You Settling In?	1971	Psychedelic/Space Rock	Studio
+3.7811	3.98	30	Hidria Spacefolk	Symetria	2007	Psychedelic/Space Rock	Studio
+3.7805	3.88	57	Øresund Space Collective	Inside Your Head	2008	Psychedelic/Space Rock	Studio
+3.7798	3.81	217	Dungen	Häxan	2016	Psychedelic/Space Rock	Studio
+3.7793	4.11	18	Amplifier	Echo Street	2013	Psychedelic/Space Rock	Studio
+3.7793	3.86	70	Los Natas	Ciudad De Brahman	1999	Psychedelic/Space Rock	Studio
+3.7780	3.90	49	The Future Kings Of England	The Fate Of Old Mother Orvis	2007	Psychedelic/Space Rock	Studio
+3.7779	4.62	7	Solar Project	Here I Am	2015	Psychedelic/Space Rock	Studio
+3.7775	4.43	9	Jacks	Karappo No Sekai (Vacant World)	1968	Psychedelic/Space Rock	Studio
+3.7773	3.85	74	Seven That Spells	Superautobahn	2012	Psychedelic/Space Rock	Studio
+3.7763	3.79	511	Vespero	Rito	2007	Psychedelic/Space Rock	Studio
+3.7763	3.98	29	Eloy	Inside	1973	Psychedelic/Space Rock	Studio
+3.7760	3.88	57	Korai Öröm	Korai Öröm (2005)	2005	Psychedelic/Space Rock	Studio
+3.7755	4.30	11	Crippled Black Phoenix	New Dark Age	2015	Psychedelic/Space Rock	Studio
+3.7755	3.95	34	Brotherhood Of The Machine	Trip Hazard	2014	Psychedelic/Space Rock	Studio
+3.7751	4.30	11	Message	Message	1975	Psychedelic/Space Rock	Studio
+3.7750	3.96	31	Secret Saucer	Four On The Floor	2011	Psychedelic/Space Rock	Studio
+3.7744	3.83	105	Qoph	Pyrola	2004	Psychedelic/Space Rock	Studio
+3.7742	4.05	21	King Gizzard & The Lizard Wizard	K.G.	2020	Psychedelic/Space Rock	Studio
+3.7741	3.98	28	Øresund Space Collective	Give Your Brain a Rest from the Matrix	2012	Psychedelic/Space Rock	Studio
+3.7739	3.93	36	The Legendary Pink Dots	Malachai (Shadow Weaver Part2)	1993	Psychedelic/Space Rock	Studio
+3.7735	3.82	131	Øresund Space Collective	Slip into the Vortex	2010	Psychedelic/Space Rock	Studio
+3.7734	4.25	12	Hawkwind	Electric Tepee	1992	Psychedelic/Space Rock	Studio
+3.7734	4.25	12	The Legendary Pink Dots	Alchemical Playschool	2006	Psychedelic/Space Rock	Studio
+3.7734	4.25	12	The Re-Stoned	Revealed Gravitation	2010	Psychedelic/Space Rock	Studio
+3.7734	3.87	61	Earthless	Night Parade of One Hundred Demons	2022	Psychedelic/Space Rock	Studio
+3.7733	3.91	41	Dungen	Ta Det Lugnt	2004	Psychedelic/Space Rock	Studio
+3.7726	4.40	9	Parallel Or 90 Degrees	The Time Capsule	1998	Psychedelic/Space Rock	Studio
+3.7725			Circle	Guillotine	2003	Psychedelic/Space Rock	Studio

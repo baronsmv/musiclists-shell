@@ -1,0 +1,250 @@
+4.3743	4.38	1307	Premiata Forneria Marconi (PFM)	Per Un Amico	1972	Rock Progressivo Italiano	Studio
+4.3424	4.37	1197	Banco Del Mutuo Soccorso	Darwin!	1972	Rock Progressivo Italiano	Studio
+4.3247	4.33	1493	Banco Del Mutuo Soccorso	Io Sono Nato Libero	1973	Rock Progressivo Italiano	Studio
+4.2988	4.32	991	Premiata Forneria Marconi (PFM)	Storia Di Un Minuto	1972	Rock Progressivo Italiano	Studio
+4.2754	4.31	999	Museo Rosenbach	Zarathustra	1973	Rock Progressivo Italiano	Studio
+4.2596	4.25	1044	Banco Del Mutuo Soccorso	Banco Del Mutuo Soccorso	1972	Rock Progressivo Italiano	Studio
+4.2086	4.27	738	Le Orme	Felona E Sorona	1973	Rock Progressivo Italiano	Studio
+4.2061	4.25	672	Area	Arbeit Macht Frei	1973	Rock Progressivo Italiano	Studio
+4.1880	4.26	557	Il Balletto Di Bronzo	Ys	1972	Rock Progressivo Italiano	Studio
+4.1867	4.22	758	Maxophone	Maxophone	1975	Rock Progressivo Italiano	Studio
+4.1661	4.20	961	Le Orme	Uomo Di Pezza	1972	Rock Progressivo Italiano	Studio
+4.1564	4.24	455	Premiata Forneria Marconi (PFM)	L'Isola Di Niente	1974	Rock Progressivo Italiano	Studio
+4.1480	4.24	415	Osanna	Palepoli	1972	Rock Progressivo Italiano	Studio
+4.1452	4.22	354	Area	Crac !	1975	Rock Progressivo Italiano	Studio
+4.1120	4.19	383	Il Bacio Della Medusa	Discesa Agl'Inferi d'un Giovane Amante	2008	Rock Progressivo Italiano	Studio
+4.0896	4.18	341	Logos	L' Enigma Della Vita	2014	Rock Progressivo Italiano	Studio
+4.0707	4.17	327	Il Rovescio Della Medaglia	Contaminazione	1973	Rock Progressivo Italiano	Studio
+4.0627	4.15	387	Celeste	Celeste [Aka: Principe Di Un Giorno]	1976	Rock Progressivo Italiano	Studio
+4.0536	4.14	400	Quella Vecchia Locanda	Quella Vecchia Locanda	1972	Rock Progressivo Italiano	Studio
+4.0532	4.13	421	Unreal City	La Crudeltà di Aprile	2013	Rock Progressivo Italiano	Studio
+4.0485	4.19	245	Alphataurus	Alphataurus	1973	Rock Progressivo Italiano	Studio
+4.0462	4.12	376	Logos	Sadako e le mille gru di carta	2020	Rock Progressivo Italiano	Studio
+4.0321	4.14	315	Quella Vecchia Locanda	Il Tempo della Gioia	1974	Rock Progressivo Italiano	Studio
+4.0277	4.10	462	Biglietto Per L'Inferno	Biglietto Per L'Inferno	1974	Rock Progressivo Italiano	Studio
+4.0237	4.20	194	Locanda Delle Fate	Forse Le Lucciole Non Si Amano Più	1977	Rock Progressivo Italiano	Studio
+4.0235	4.18	184	Egonon	Risveglio	2011	Rock Progressivo Italiano	Studio
+4.0039	4.16	206	La Bocca Della Verità	Avenoth	2016	Rock Progressivo Italiano	Studio
+3.9988	4.16	198	Nuova Era	Il Passo del Soldato	1995	Rock Progressivo Italiano	Studio
+3.9976	4.17	179	Latte E Miele	Passio Secundum Mattheum - The Complete Work	2014	Rock Progressivo Italiano	Studio
+3.9907	4.21	141	Jumbo	Vietato Ai Minori Di 18 Anni ?	1973	Rock Progressivo Italiano	Studio
+3.9845	4.05	450	I Giganti	Terra In Bocca	1971	Rock Progressivo Italiano	Studio
+3.9820	4.11	245	Premiata Forneria Marconi (PFM)	Stati Di Immaginazione	2006	Rock Progressivo Italiano	Studio
+3.9808	4.07	335	Cervello	Melos	1973	Rock Progressivo Italiano	Studio
+3.9736	4.05	391	Semiramis	Dedicato A Frazz	1973	Rock Progressivo Italiano	Studio
+3.9725	4.05	382	Unreal City	Il Paese del Tramonto	2015	Rock Progressivo Italiano	Studio
+3.9711	4.02	602	Il Tempio Delle Clessidre	Il Tempio delle Clessidre	2010	Rock Progressivo Italiano	Studio
+3.9675	4.10	228	Premiata Forneria Marconi (PFM)	Photos Of Ghosts	1973	Rock Progressivo Italiano	Studio
+3.9626	4.02	416	La Coscienza Di Zeno	La Coscienza di Zeno	2011	Rock Progressivo Italiano	Studio
+3.9510	4.05	288	Premiata Forneria Marconi (PFM)	The World Became the World	1974	Rock Progressivo Italiano	Studio
+3.9456	4.07	240	Metamorfosi	Inferno	1973	Rock Progressivo Italiano	Studio
+3.9432	4.07	217	La Coscienza Di Zeno	La Notte Anche di Giorno	2015	Rock Progressivo Italiano	Studio
+3.9382	4.03	303	Area	Maledetti	1976	Rock Progressivo Italiano	Studio
+3.9330	4.03	301	Banco Del Mutuo Soccorso	Come In Un'Ultima Cena	1976	Rock Progressivo Italiano	Studio
+3.9316	4.07	210	Banco Del Mutuo Soccorso	Banco	1975	Rock Progressivo Italiano	Studio
+3.9306	4.01	338	Ingranaggi Della Valle	Warm Spaced Blue	2016	Rock Progressivo Italiano	Studio
+3.9256	4.03	285	La Maschera Di Cera	Le Porte Del Domani	2013	Rock Progressivo Italiano	Studio
+3.9253	4.07	194	Goblin	Roller	1976	Rock Progressivo Italiano	Studio
+3.9228	4.06	203	La Maschera Di Cera	Il Grande Labirinto	2003	Rock Progressivo Italiano	Studio
+3.9195	4.04	223	Reale Accademia Di Musica	Reale Accademia Di Musica	1972	Rock Progressivo Italiano	Studio
+3.9166	4.02	280	Il Tempio Delle Clessidre	alieNatura	2013	Rock Progressivo Italiano	Studio
+3.9152	4.09	159	Ingranaggi Della Valle	In Hoc Signo	2013	Rock Progressivo Italiano	Studio
+3.9134	3.96	527	Delirium	Il Nome Del Vento	2009	Rock Progressivo Italiano	Studio
+3.9033	4.17	102	Premiata Forneria Marconi (PFM)	Chocolate Kings	1975	Rock Progressivo Italiano	Studio
+3.8993	4.02	224	L' Albero Del Veleno	Tale of a Dark Fate	2017	Rock Progressivo Italiano	Studio
+3.8979	3.98	302	Alusa Fallax	Intorno Alla Mia Cattiva Educazione	1974	Rock Progressivo Italiano	Studio
+3.8890	4.08	139	Le Orme	Contrappunti	1974	Rock Progressivo Italiano	Studio
+3.8875	4.05	158	Franco Battiato	Sulle Corde Di Aries	1973	Rock Progressivo Italiano	Studio
+3.8828	4.03	169	Höstsonaten	Winterthrough	2008	Rock Progressivo Italiano	Studio
+3.8798	4.03	156	Syndone	Mysoginia	2018	Rock Progressivo Italiano	Studio
+3.8698	4.41	47	La Maschera Di Cera	S.E.I.	2020	Rock Progressivo Italiano	Studio
+3.8675	4.02	162	Melting Clock	Destinazioni	2019	Rock Progressivo Italiano	Studio
+3.8664	3.96	256	Alphataurus	AttosecondO	2012	Rock Progressivo Italiano	Studio
+3.8620	3.94	310	Area	Caution Radiation Area	1974	Rock Progressivo Italiano	Studio
+3.8577	4.05	121	Höstsonaten	Summereve	2011	Rock Progressivo Italiano	Studio
+3.8493	3.99	166	Il Castello Di Atlante	Cap. 7  - Tra Le Antiche Mura	2009	Rock Progressivo Italiano	Studio
+3.8467	3.97	202	La Fabbrica Dell'Assoluto	1984 - L'Ultimo Uomo D'Europa	2015	Rock Progressivo Italiano	Studio
+3.8464	3.98	177	La Coscienza Di Zeno	Sensitività	2013	Rock Progressivo Italiano	Studio
+3.8451	3.97	183	La Maschera Di Cera	La Maschera Di Cera	2002	Rock Progressivo Italiano	Studio
+3.8428	4.06	111	La Maschera Di Cera	LuxAde	2006	Rock Progressivo Italiano	Studio
+3.8409	4.15	75	New Trolls	Concerto Grosso - The Seven Seasons	2007	Rock Progressivo Italiano	Studio
+3.8373	4.00	145	Rocky's Filj	Storie Di Uomini E Non	1973	Rock Progressivo Italiano	Studio
+3.8344	4.11	86	L' Estate Di San Martino	Talsete Di Marsantino	2012	Rock Progressivo Italiano	Studio
+3.8331	4.02	124	Pandora	Dramma Di Un Poeta Ubriaco	2008	Rock Progressivo Italiano	Studio
+3.8291	4.19	63	Delirium	III (Viaggio Negli Arcipelaghi del Tempo)	1974	Rock Progressivo Italiano	Studio
+3.8263	4.01	123	Syndone	La Bella è la Bestia	2012	Rock Progressivo Italiano	Studio
+3.8221	4.02	107	Nodo Gordiano	Nous	2014	Rock Progressivo Italiano	Studio
+3.8156	3.92	202	Il Trono Dei Ricordi	Il Trono Dei Ricordi	1994	Rock Progressivo Italiano	Studio
+3.8079	3.87	358	Apoteosi	Apoteosi	1975	Rock Progressivo Italiano	Studio
+3.8059	4.05	88	Le Orme	Collage	1971	Rock Progressivo Italiano	Studio
+3.8047	3.97	131	La Torre Dell'Alchimista	Neo	2007	Rock Progressivo Italiano	Studio
+3.8042	3.91	201	Höstsonaten	Autumnsymphony	2009	Rock Progressivo Italiano	Studio
+3.8032	3.97	131	Cherry Five	Cherry Five	1975	Rock Progressivo Italiano	Studio
+3.8011	3.98	121	Gran Turismo Veloce	Di Carne, Di Anima	2011	Rock Progressivo Italiano	Studio
+3.7998	3.91	185	Festa Mobile	Diario Di Viaggio Della Festa Mobile	1973	Rock Progressivo Italiano	Studio
+3.7986	3.93	154	Latte E Miele	Passio Secundum Mattheum	1972	Rock Progressivo Italiano	Studio
+3.7946	3.91	183	Syndone	Odysséas	2014	Rock Progressivo Italiano	Studio
+3.7929	4.06	76	Murple	Io Sono Murple	1974	Rock Progressivo Italiano	Studio
+3.7879	3.88	217	Banco Del Mutuo Soccorso	Orlando: Le Forme dell'Amore	2022	Rock Progressivo Italiano	Studio
+3.7878	3.98	103	Campo Di Marte	Campo Di Marte	1973	Rock Progressivo Italiano	Studio
+3.7828	4.07	69	Progenesi	Ulisse - L'Alfiere Nero	2012	Rock Progressivo Italiano	Studio
+3.7779	4.10	62	Randone	Hybla Act 1	2005	Rock Progressivo Italiano	Studio
+3.7773	3.98	99	Sensitiva Immagine	E Tutto Cominciò Così ...	1978	Rock Progressivo Italiano	Studio
+3.7773	3.90	163	RanestRane	A Space Odyssey, Part One - Monolith	2013	Rock Progressivo Italiano	Studio
+3.7769	4.08	67	Il Volo	Essere O Non Essere ?	1975	Rock Progressivo Italiano	Studio
+3.7760	4.02	83	Stefano Testa	Una Vita Una Balena Bianca E Altre Cose	1977	Rock Progressivo Italiano	Studio
+3.7756	3.94	118	RanestRane	Apocalypse Now	2022	Rock Progressivo Italiano	Studio
+3.7738	4.19	48	FEM Prog Band / Forza Elettromotrice	Sulla Bolla Di Sapone	2014	Rock Progressivo Italiano	Studio
+3.7735	3.93	121	Nodo Gordiano	H.E.X.	2021	Rock Progressivo Italiano	Studio
+3.7698	3.96	100	Il Cerchio D'Oro	Dedalo e Icaro	2013	Rock Progressivo Italiano	Studio
+3.7675	3.88	164	Promenade	Noi al dir di Noi	2016	Rock Progressivo Italiano	Studio
+3.7652	3.90	147	Le Orme	Elementi	2001	Rock Progressivo Italiano	Studio
+3.7651	4.01	80	Jumbo	DNA	1972	Rock Progressivo Italiano	Studio
+3.7648	4.15	50	Malibran	Le Porte Del Silenzio	1993	Rock Progressivo Italiano	Studio
+3.7614	4.04	69	Aliante	Forme Libere	2017	Rock Progressivo Italiano	Studio
+3.7594	3.87	177	Nodo Gordiano	Sonnar	2020	Rock Progressivo Italiano	Studio
+3.7582	3.91	126	Area	1978 - Gli Dei Se Ne Vanno, Gli Arrabbiati Restano!	1978	Rock Progressivo Italiano	Studio
+3.7558	3.86	186	Taproban	Strigma	2013	Rock Progressivo Italiano	Studio
+3.7545	4.05	64	Höstsonaten	The Rime Of The Ancient Mariner - Chapter One	2012	Rock Progressivo Italiano	Studio
+3.7537	3.86	178	Three Monks	The Legend Of The Holy Circle	2013	Rock Progressivo Italiano	Studio
+3.7531	3.86	176	Goblin	Profondo Rosso [Aka: Deep Red]  (OST)	1975	Rock Progressivo Italiano	Studio
+3.7508	3.91	118	Premiata Forneria Marconi (PFM)	PFM In Classic - Da Mozart A Celebration	2013	Rock Progressivo Italiano	Studio
+3.7494	3.88	143	Alan Sorrenti	Aria	1972	Rock Progressivo Italiano	Studio
+3.7489	4.05	61	Höstsonaten	Symphony N.1 - Cupid & Psyche	2016	Rock Progressivo Italiano	Studio
+3.7472	4.27	35	Antonius Rex	Hystero Demonopathy	2013	Rock Progressivo Italiano	Studio
+3.7465	3.98	77	Conqueror	In Orbita	2019	Rock Progressivo Italiano	Studio
+3.7451	3.86	153	Procession	Frontiera	1972	Rock Progressivo Italiano	Studio
+3.7415	3.95	84	New Trolls	UT	1972	Rock Progressivo Italiano	Studio
+3.7376	4.37	28	Luciano Basso	Voci	1976	Rock Progressivo Italiano	Studio
+3.7343	3.90	104	Luciano Cilio	Dialoghi del presente	1977	Rock Progressivo Italiano	Studio
+3.7320	3.93	89	RanestRane	A Space Odyssey, Part Two - H.A.L.	2015	Rock Progressivo Italiano	Studio
+3.7300	3.88	117	Astrolabio / ex Elettrosmog	L'Isolamento Dei Numeri Pari	2014	Rock Progressivo Italiano	Studio
+3.7283	4.03	58	Blocco Mentale	Poa	1973	Rock Progressivo Italiano	Studio
+3.7282	3.86	126	Il Cerchio D'Oro	Il Fuoco Sotto La Cenere	2017	Rock Progressivo Italiano	Studio
+3.7252	3.88	108	RanestRane	A Space Odyssey, Final Part - Starchild	2018	Rock Progressivo Italiano	Studio
+3.7197	3.84	133	Ibis	Sun Supreme	1974	Rock Progressivo Italiano	Studio
+3.7157	3.84	133	Il Volo	Il Volo	1974	Rock Progressivo Italiano	Studio
+3.7157	4.36	26	Raccomandata Ricevuta Ritorno	Per... Un Mondo Di Cristallo	1972	Rock Progressivo Italiano	Studio
+3.7148	3.95	72	Il Fedelissimo Bracco Branco	Appunti Di Navigazione	2017	Rock Progressivo Italiano	Studio
+3.7142	3.92	82	Armonite	And the Stars Above	2018	Rock Progressivo Italiano	Studio
+3.7141	4.20	34	Conqueror	Stems	2014	Rock Progressivo Italiano	Studio
+3.7122	4.74	16	Sezione Frenante	Metafora Di Un Viaggio	2014	Rock Progressivo Italiano	Studio
+3.7115	3.95	67	Ianva	Italia: Ultimo Atto	2009	Rock Progressivo Italiano	Studio
+3.7088	4.16	36	La Dottrina Degli Opposti	Arrivederci Sogni	2018	Rock Progressivo Italiano	Studio
+3.7083	3.98	59	Minstrel	Faust	2000	Rock Progressivo Italiano	Studio
+3.7075	3.90	84	Ad Maiora	Repetita Iuvant	2016	Rock Progressivo Italiano	Studio
+3.7070	4.33	26	La Torre Dell'Alchimista	La Torre Dell'Alchimista	2001	Rock Progressivo Italiano	Studio
+3.7062	4.19	33	Res Gesta	Odissea	2015	Rock Progressivo Italiano	Studio
+3.7049	3.94	67	Distillerie di Malto	Suono!	2013	Rock Progressivo Italiano	Studio
+3.7021	3.81	143	Submarine Silence	Did Swans Ever See God?	2020	Rock Progressivo Italiano	Studio
+3.7020	3.83	126	Unreal City	Frammenti Notturni	2017	Rock Progressivo Italiano	Studio
+3.7018	3.89	83	Delirium	Dolce Acqua	1971	Rock Progressivo Italiano	Studio
+3.7015	3.91	76	Goblin Rebirth	Goblin Rebirth	2015	Rock Progressivo Italiano	Studio
+3.7011	4.04	47	Il Tempio Delle Clessidre	Il-Lūdĕre	2017	Rock Progressivo Italiano	Studio
+3.6995	3.84	112	Sezione Frenante	Nuove Dimensioni	2019	Rock Progressivo Italiano	Studio
+3.6960	3.80	147	Il Bacio Della Medusa	Deus Lo Vult	2012	Rock Progressivo Italiano	Studio
+3.6936	3.98	54	Le Orme	Florian	1979	Rock Progressivo Italiano	Studio
+3.6936	3.94	63	Consorzio Acqua Potabile	Nei Gorghi Del Tempo	1993	Rock Progressivo Italiano	Studio
+3.6933	3.83	114	RanestRane	The Wall	2020	Rock Progressivo Italiano	Studio
+3.6922	3.97	55	Höstsonaten	Springsong	2002	Rock Progressivo Italiano	Studio
+3.6908	3.83	109	Ubi Maior	Incanti Bio Meccanici	2015	Rock Progressivo Italiano	Studio
+3.6904	3.84	105	La Maschera Di Cera	The Gates Of Tomorrow	2013	Rock Progressivo Italiano	Studio
+3.6901	3.78	173	Raccomandata Ricevuta Ritorno	Il Pittore Volante	2010	Rock Progressivo Italiano	Studio
+3.6894	3.91	68	Banco Del Mutuo Soccorso	Transiberiana	2019	Rock Progressivo Italiano	Studio
+3.6880	4.25	27	Tacita Intesa	Tacita Intesa	2014	Rock Progressivo Italiano	Studio
+3.6873	3.74	260	Gruppo Autonomo Suonatori	Omnia Sunt Communia	2021	Rock Progressivo Italiano	Studio
+3.6870	4.16	32	Banco Del Mutuo Soccorso	...Di Terra	1978	Rock Progressivo Italiano	Studio
+3.6867	3.84	100	Franco Battiato	Gommalacca	1998	Rock Progressivo Italiano	Studio
+3.6854	3.95	56	La Curva Di Lesmo	La Curva Di Lesmo	2015	Rock Progressivo Italiano	Studio
+3.6844	4.10	36	Quasar Lux Symphoniae	Synopsis	2009	Rock Progressivo Italiano	Studio
+3.6840	3.96	54	Aliante	Destinazioni Oblique	2022	Rock Progressivo Italiano	Studio
+3.6832	3.99	49	Isproject	The Archinauts	2017	Rock Progressivo Italiano	Studio
+3.6831	3.99	49	L' Albero Del Veleno	Le Radici Del Male	2013	Rock Progressivo Italiano	Studio
+3.6826	3.93	59	NotaBene	Sei Lacrime d'Ambra	2007	Rock Progressivo Italiano	Studio
+3.6824	4.10	35	Syndone	Melapesante	2010	Rock Progressivo Italiano	Studio
+3.6799	3.74	246	Aurora Lunare	Aurora Lunare	2013	Rock Progressivo Italiano	Studio
+3.6794	4.22	27	New Trolls	Concerto Grosso Per I New Trolls	1971	Rock Progressivo Italiano	Studio
+3.6781	3.96	51	Stefano Testa	Andrea Il Traditore	2016	Rock Progressivo Italiano	Studio
+3.6761	3.78	137	Germinale	...E Il Suo Respiro Ancora Agita Le Onde?	1995	Rock Progressivo Italiano	Studio
+3.6758	3.95	53	Le Orme	L'Infinito	2004	Rock Progressivo Italiano	Studio
+3.6746	4.10	34	Cherry Five	Il Pozzo Dei Giganti	2015	Rock Progressivo Italiano	Studio
+3.6746	3.86	75	Quarto Vuoto	Illusioni	2017	Rock Progressivo Italiano	Studio
+3.6734	4.40	19	Metamorfosi	Purgatorio	2016	Rock Progressivo Italiano	Studio
+3.6680	4.00	42	Sfaratthons	Appunti di Viaggio	2019	Rock Progressivo Italiano	Studio
+3.6675	4.01	40	Pandora	Alibi Filosofico	2013	Rock Progressivo Italiano	Studio
+3.6649	4.72	13	Maurizio Di Tollo	L'Uomo Trasparente	2012	Rock Progressivo Italiano	Studio
+3.6633	3.81	91	Opra Mediterranea	Isole	2019	Rock Progressivo Italiano	Studio
+3.6621	3.80	96	J.E.T.	Fede, Speranza, Carità	1972	Rock Progressivo Italiano	Studio
+3.6594	3.85	70	Taproban	Per Aspera Ad Astra	2017	Rock Progressivo Italiano	Studio
+3.6586	3.88	61	Nodo Gordiano	Flektogon	2009	Rock Progressivo Italiano	Studio
+3.6583	3.99	40	Panther & C.	Il Giusto Equilibrio	2017	Rock Progressivo Italiano	Studio
+3.6566	3.76	128	Randone	Ultreia (Canzoni Sulla Via - Atto 1)	2014	Rock Progressivo Italiano	Studio
+3.6547	3.72	199	Il Paese Dei Balocchi	Il Paese dei Balocchi	1972	Rock Progressivo Italiano	Studio
+3.6542	3.73	168	Banco Del Mutuo Soccorso	Canto Di Primavera	1979	Rock Progressivo Italiano	Studio
+3.6532	3.75	137	Goblin	Suspiria (OST)	1977	Rock Progressivo Italiano	Studio
+3.6521	3.84	70	Buon Vecchio Charlie	Buon Vecchio Charlie	1972	Rock Progressivo Italiano	Studio
+3.6518	3.98	39	Procession	Fiaba	1974	Rock Progressivo Italiano	Studio
+3.6502	3.97	39	Errata Corrige	Siegfried, il drago e altre storie (2015 version)	2015	Rock Progressivo Italiano	Studio
+3.6465	3.82	72	Syndone	Kama Sutra	2021	Rock Progressivo Italiano	Studio
+3.6453	4.10	28	Il Paradiso degli Orchi	Il Corponauta	2016	Rock Progressivo Italiano	Studio
+3.6448	4.19	23	Absenthia	Tenebrae Vincunt	2009	Rock Progressivo Italiano	Studio
+3.6438	3.75	117	Entity	Il Falso Centro	2013	Rock Progressivo Italiano	Studio
+3.6422	3.78	91	The Trip	Caronte	1971	Rock Progressivo Italiano	Studio
+3.6412	3.79	82	Edgar Allan Poe	Generazioni (Storia di Sempre)	1974	Rock Progressivo Italiano	Studio
+3.6401	3.88	51	Syndone	Eros & Thanatos	2016	Rock Progressivo Italiano	Studio
+3.6387	3.75	107	Malibran	Trasparenze	2009	Rock Progressivo Italiano	Studio
+3.6380	3.80	73	Pandora	Sempre E Ovunque Oltre Il Sogno	2011	Rock Progressivo Italiano	Studio
+3.6370	3.89	47	Submarine Silence	Journey Through Mine	2016	Rock Progressivo Italiano	Studio
+3.6357	3.89	47	Three Monks	Neogothic Progressive Toccatas	2010	Rock Progressivo Italiano	Studio
+3.6352	3.87	52	Mauro Pagani	Mauro Pagani	1978	Rock Progressivo Italiano	Studio
+3.6344	3.77	89	Acqua Fragile	A New Chant	2017	Rock Progressivo Italiano	Studio
+3.6339	3.95	37	Mangala Vallis	Microsolco	2012	Rock Progressivo Italiano	Studio
+3.6317	3.76	90	La Batteria	La Batteria II	2019	Rock Progressivo Italiano	Studio
+3.6307	4.37	16	Finisterre	In Limine	1996	Rock Progressivo Italiano	Studio
+3.6305	3.74	105	Franco Battiato	Genesi	1987	Rock Progressivo Italiano	Studio
+3.6278	3.83	57	Eris Pluvia	Rings of Earthly Light	1991	Rock Progressivo Italiano	Studio
+3.6248	3.93	37	Conqueror	74 Giorni	2007	Rock Progressivo Italiano	Studio
+3.6236	3.91	40	Court	Twenty Flying Kings	2012	Rock Progressivo Italiano	Studio
+3.6230	3.75	86	Conqueror	Istinto	2003	Rock Progressivo Italiano	Studio
+3.6224	4.01	29	Rustichelli & Bordini	Opera Prima	1973	Rock Progressivo Italiano	Studio
+3.6223	4.76	10	Nathan	Nebulosa	2016	Rock Progressivo Italiano	Studio
+3.6220	3.75	91	Angelo Branduardi	L'Infinitamente Piccolo	2000	Rock Progressivo Italiano	Studio
+3.6217	3.82	57	Höstsonaten	Höstsonaten	1997	Rock Progressivo Italiano	Studio
+3.6204	3.76	80	Maxophone	La Fabbrica Delle Nuvole	2017	Rock Progressivo Italiano	Studio
+3.6200	3.77	77	Triade	1998 - La Storia Di Sabazio	1973	Rock Progressivo Italiano	Studio
+3.6196	3.94	34	Quel Che Disse Il Tuono	Il Velo Dei Riflessi	2020	Rock Progressivo Italiano	Studio
+3.6176	3.85	48	Salis	Dopo Il Buio La Luce	1979	Rock Progressivo Italiano	Studio
+3.6169	3.80	62	Goblin	Four Of A Kind	2015	Rock Progressivo Italiano	Studio
+3.6168	3.72	106	L' Ombra Della Sera	L'Ombra Della Sera	2012	Rock Progressivo Italiano	Studio
+3.6166	3.68	165	L' Uovo di Colombo	L'Uovo Di Colombo	1973	Rock Progressivo Italiano	Studio
+3.6122	3.94	33	Corte Dei Miracoli	Corte Dei Miracoli	1976	Rock Progressivo Italiano	Studio
+3.6121	3.87	42	Aliante	Sul Confine	2019	Rock Progressivo Italiano	Studio
+3.6119	4.10	22	Biglietto Per L'Inferno	Vivi. Lotta. Pensa.	2015	Rock Progressivo Italiano	Studio
+3.6105	3.88	39	Panther & C.	L'Epoca Di Un Altro ...	2015	Rock Progressivo Italiano	Studio
+3.6099	3.79	59	Armonite	The Sun Is New Each Day	2015	Rock Progressivo Italiano	Studio
+3.6099	3.99	28	Ornithos	La Trasfigurazione	2012	Rock Progressivo Italiano	Studio
+3.6084	3.81	51	Sithonia	La Soluzione Semplice	2011	Rock Progressivo Italiano	Studio
+3.6065	3.86	41	Il Castello Di Atlante	Arx Atlantis	2016	Rock Progressivo Italiano	Studio
+3.6064	4.08	22	Mad Crayon	Preda	2009	Rock Progressivo Italiano	Studio
+3.6057	3.72	89	Andrea Orlando	Dalla Vita Autentica	2017	Rock Progressivo Italiano	Studio
+3.6055	3.82	49	Dalton	Riflessioni: Idea D'Infinito	1973	Rock Progressivo Italiano	Studio
+3.6048	3.70	105	Labirinto Di Specchi	Hanblecheya	2011	Rock Progressivo Italiano	Studio
+3.6046	3.67	168	De De Lind	Io Non So Da Dove Vengo E  Non So Dove Mai Andrò, Uomo È Il Nome Che Mi Han Dato	1973	Rock Progressivo Italiano	Studio
+3.6038	4.00	26	Osanna	L'Uomo	1971	Rock Progressivo Italiano	Studio
+3.6035	3.73	76	Paolo Siani ft. Nuova Idea	Castles, Wings, Stories & Dreams	2010	Rock Progressivo Italiano	Studio
+3.6010	3.85	40	Pholas Dactylus	Concerto Delle Menti	1973	Rock Progressivo Italiano	Studio
+3.5992	3.92	31	Riccardo Zappa	Celestion	1977	Rock Progressivo Italiano	Studio
+3.5978	3.77	57	Nathan	Uomini di Sabbia	2022	Rock Progressivo Italiano	Studio
+3.5974	3.78	55	Conqueror	Storie Fuori Dal Tempo	2005	Rock Progressivo Italiano	Studio
+3.5974	3.73	73	Latte E Miele	Marco Polo - Sogni E Viaggi	2009	Rock Progressivo Italiano	Studio
+3.5971	4.07	21	Maxophone	Maxophone (English lyrics)	1975	Rock Progressivo Italiano	Studio
+3.5960	3.69	99	Oscillazioni Alchemico Kreative (O.A.K.)	Giordano Bruno	2018	Rock Progressivo Italiano	Studio
+3.5945	4.25	15	Le Orme	Felona & Sorona (English language version)	1973	Rock Progressivo Italiano	Studio
+3.5940	3.75	63	Il Ballo delle Castagne	Soundtrack for an Unreleased Herzog Movie	2015	Rock Progressivo Italiano	Studio
+3.5930	3.90	31	Ubi Maior	Bestie, Uomini e Dèi	2020	Rock Progressivo Italiano	Studio
+3.5922	3.82	42	Sophya Baccini	Big Red Dragon (William Blake's Visions)	2013	Rock Progressivo Italiano	Studio
+3.5910	4.05	21	Il Rovescio Della Medaglia	Contamination	1975	Rock Progressivo Italiano	Studio
+3.5906	3.76	56	Bondage	Anima Terra	2000	Rock Progressivo Italiano	Studio
+3.5898	3.85	36	Il Castello Di Atlante	Quintessenza	2003	Rock Progressivo Italiano	Studio
+3.5872	3.98	24	Biglietto Per L'Inferno	Tra L'Assurdo E La Ragione	2009	Rock Progressivo Italiano	Studio
+3.5866			Il Porto Di Venere	E Pensa Che Mi Meraviglio Ancora	2021	Rock Progressivo Italiano	Studio

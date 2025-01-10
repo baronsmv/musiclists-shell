@@ -1,0 +1,137 @@
+4.2725	4.29	990	Caravan	In the Land of Grey and Pink	1971	Canterbury Scene	Studio
+4.2059	4.29	816	Robert Wyatt	Rock Bottom	1974	Canterbury Scene	Studio
+4.1959	4.26	1132	Khan	Space Shanty	1972	Canterbury Scene	Studio
+4.1903	4.27	883	Gong	Radio Gnome Invisible Vol. 3 - You	1974	Canterbury Scene	Studio
+4.1844	4.25	1172	Hatfield And The North	Hatfield and the North	1974	Canterbury Scene	Studio
+4.1823	4.28	517	Caravan	If I Could Do It All Over Again, I'd Do It All Over You	1970	Canterbury Scene	Studio
+4.1420	4.19	1149	National Health	Of Queues and Cures	1978	Canterbury Scene	Studio
+4.1331	4.22	652	The Soft Machine	Third	1970	Canterbury Scene	Studio
+4.1175	4.17	871	Hatfield And The North	The Rotters' Club	1975	Canterbury Scene	Studio
+4.0933	4.26	320	Caravan	For Girls Who Grow Plump in the Night	1973	Canterbury Scene	Studio
+4.0684	4.14	770	Supersister	To the Highest Bidder	1971	Canterbury Scene	Studio
+4.0594	4.30	191	Gong	Radio Gnome Invisible Vol. 2 - Angel's Egg	1973	Canterbury Scene	Studio
+4.0144	4.12	487	Moving Gelatine Plates	The World Of Genius Hans	1972	Canterbury Scene	Studio
+4.0119	4.13	455	Egg	The Polite Force	1971	Canterbury Scene	Studio
+4.0069	4.11	501	National Health	National Health	1978	Canterbury Scene	Studio
+4.0050	4.12	470	Steve Hillage	Fish Rising	1975	Canterbury Scene	Studio
+4.0031	4.12	367	The Soft Machine	Bundles	1975	Canterbury Scene	Studio
+3.9823	4.11	315	Quiet Sun	Mainstream	1975	Canterbury Scene	Studio
+3.9576	4.15	241	Picchio Dal Pozzo	Picchio Dal Pozzo	1976	Canterbury Scene	Studio
+3.9501	4.03	600	Cos	Viva Boma	1976	Canterbury Scene	Studio
+3.9477	3.97	655	The Soft Machine	Volume Two	1969	Canterbury Scene	Studio
+3.9040	4.08	233	The Soft Machine	The Soft Machine	1968	Canterbury Scene	Studio
+3.9025	4.19	138	Zopp	Zopp	2020	Canterbury Scene	Studio
+3.8957	4.04	266	Zopp	Dominion	2023	Canterbury Scene	Studio
+3.8913	4.19	129	Supersister	Present from Nancy	1970	Canterbury Scene	Studio
+3.8883	3.94	635	Cos	Postaeolian Train Robbery	1974	Canterbury Scene	Studio
+3.8805	4.15	124	Gong	Radio Gnome Invisible Part 1 - Flying Teapot	1973	Canterbury Scene	Studio
+3.8597	3.93	448	Moving Gelatine Plates	Moving Gelatine Plates	1971	Canterbury Scene	Studio
+3.8500	4.14	113	Gong	Gazeuse!	1976	Canterbury Scene	Studio
+3.8400	3.94	295	The Muffins	Manna/Mirage	1978	Canterbury Scene	Studio
+3.8336	4.20	87	The Soft Machine	Softs	1976	Canterbury Scene	Studio
+3.8307	4.01	153	Amoeba Split	Quiet Euphoria	2023	Canterbury Scene	Studio
+3.8134	3.92	256	Picchio Dal Pozzo	Abbiamo Tutti I Suoi Problemi	1980	Canterbury Scene	Studio
+3.8045	4.16	78	Egg	The Civil Surface	1974	Canterbury Scene	Studio
+3.7991	3.96	170	John Greaves	John Greaves, Peter Blegvad & Lisa Herman: Kew. Rhone.	1977	Canterbury Scene	Studio
+3.7963	3.91	237	Supersister	Pudding En Gisteren [Aka: Pudding & Yesterday]	1972	Canterbury Scene	Studio
+3.7937	4.06	103	Matching Mole	Little Red Record	1972	Canterbury Scene	Studio
+3.7928	4.17	72	Picchio Dal Pozzo	Camere Zimmer Rooms	2001	Canterbury Scene	Studio
+3.7909	4.06	99	Mr. Sirius	Barren Dream	1987	Canterbury Scene	Studio
+3.7892	3.93	182	Amoeba Split	Dance of the Goodbyes	2010	Canterbury Scene	Studio
+3.7839	3.90	220	Gong	Rejoice! I'm Dead	2016	Canterbury Scene	Studio
+3.7796	3.87	232	Steve Hillage	Green	1978	Canterbury Scene	Studio
+3.7650	3.88	195	The Soft Machine	Hidden Details	2018	Canterbury Scene	Studio
+3.7611	3.87	203	Gong	I See You	2014	Canterbury Scene	Studio
+3.7570	3.92	138	Gilgamesh	Gilgamesh	1975	Canterbury Scene	Studio
+3.7543	3.81	415	The Winstons	The Winstons	2016	Canterbury Scene	Studio
+3.7511	3.80	450	Gong	Shamal	1975	Canterbury Scene	Studio
+3.7488	3.97	99	Gong	Camembert Electrique	1971	Canterbury Scene	Studio
+3.7471	3.87	167	Amoeba Split	Second Split	2016	Canterbury Scene	Studio
+3.7444	4.06	64	Robert Wyatt	Shleep	1997	Canterbury Scene	Studio
+3.7379	3.77	653	De Lorians	De Lorians	2019	Canterbury Scene	Studio
+3.7370	3.80	340	Caravan	Waterloo Lily	1972	Canterbury Scene	Studio
+3.7363	3.92	105	Egg	Egg	1970	Canterbury Scene	Studio
+3.7291	4.06	56	Gong	Acid Motherhood	2004	Canterbury Scene	Studio
+3.7217	4.01	64	John G. Perry	Sunset Wading	1976	Canterbury Scene	Studio
+3.7207	4.13	46	Mr. Sirius	Dirge	1990	Canterbury Scene	Studio
+3.7202	3.96	74	Phil Miller	Cutting Both Ways	1987	Canterbury Scene	Studio
+3.7163	3.94	71	Zyma	Thoughts	1978	Canterbury Scene	Studio
+3.7035	4.13	39	Homunculus Res	Limiti All'Eguaglianza Della Parte Con Il Tutto	2013	Canterbury Scene	Studio
+3.7027	3.87	92	Homunculus Res	Ecco l'impero dei doppi sensi	2023	Canterbury Scene	Studio
+3.6975	3.73	316	Homunculus Res	Andiamo in Giro di Notte e ci Consumiamo nel Fuoco	2020	Canterbury Scene	Studio
+3.6827	3.91	62	Gong	Expresso II	1978	Canterbury Scene	Studio
+3.6813	3.89	66	Magic Bus	Magic Bus	2010	Canterbury Scene	Studio
+3.6795	3.70	604	Homunculus Res	Come Si Diventa Ciò Che Si Era	2015	Canterbury Scene	Studio
+3.6746	3.79	113	Caravan	Caravan	1968	Canterbury Scene	Studio
+3.6733	3.80	101	Homunculus Res	Della Stessa Sostanza Dei Sogni	2018	Canterbury Scene	Studio
+3.6729	4.32	19	Robert Wyatt	Dondestan	1991	Canterbury Scene	Studio
+3.6688	4.22	22	John G. Perry	Seabird	1995	Canterbury Scene	Studio
+3.6667	3.81	84	Manna / Mirage	Man Out of Time	2021	Canterbury Scene	Studio
+3.6664	3.81	76	Magic Bus	Phillip the Egg	2017	Canterbury Scene	Studio
+3.6600	3.77	95	Magic Bus	Transmission from Sogmore's Garden	2014	Canterbury Scene	Studio
+3.6579	4.42	13	Robert Wyatt	Comicopera	2007	Canterbury Scene	Studio
+3.6501	3.94	34	Phil Miller	In Cahoots: Mind Over Matter	2011	Canterbury Scene	Studio
+3.6484	3.86	45	Tortilla Flat	Für Ein ¾ Stündchen	1974	Canterbury Scene	Studio
+3.6480	4.18	18	Volaré	The Uncertainty Principle	1997	Canterbury Scene	Studio
+3.6466	3.79	60	Manna / Mirage	Autobiographie	2023	Canterbury Scene	Studio
+3.6421	3.78	62	Daevid Allen	Daevid Allen & Euterpe: Good Morning!	1976	Canterbury Scene	Studio
+3.6404	3.84	41	Hugh Hopper	Hopper Tunity Box	1976	Canterbury Scene	Studio
+3.6355	3.71	108	Moving Gelatine Plates	ReMoving	2006	Canterbury Scene	Studio
+3.6348	3.96	25	Kevin Ayers	Kevin Ayers & The Whole World: Shooting At The Moon	1970	Canterbury Scene	Studio
+3.6347	4.23	13	John Greaves	Songs	1994	Canterbury Scene	Studio
+3.6318	3.79	47	Hopper - Dean - Tippett - Gallivan	Mercy Dash	1985	Canterbury Scene	Studio
+3.6311	4.06	18	Soft Machine Legacy	Burden Of Proof	2013	Canterbury Scene	Studio
+3.6310	4.05	18	Daevid Allen	Australia Aquaria / She	1990	Canterbury Scene	Studio
+3.6308	3.68	140	Manna / Mirage	Rest of the World	2018	Canterbury Scene	Studio
+3.6286	3.78	47	Kevin Ayers	Joy Of A Toy	1969	Canterbury Scene	Studio
+3.6269	3.66	213	The Muffins	Chronometers	1993	Canterbury Scene	Studio
+3.6255	3.74	62	Steve Hillage	L	1976	Canterbury Scene	Studio
+3.6253	3.65	278	Gowen - Miller - Sinclair - Tomkins	Before A Word Is Said	1982	Canterbury Scene	Studio
+3.6243	3.77	48	Matching Mole	Matching Mole	1972	Canterbury Scene	Studio
+3.6240	3.79	38	Hugh Hopper	Hugh Hopper & Alan Gowen: Two Rainbows Daily	1980	Canterbury Scene	Studio
+3.6210	3.70	78	Jakko M. Jakszyk	Secrets & Lies	2020	Canterbury Scene	Studio
+3.6204	3.88	23	Gong	The Universe Also Collapses	2019	Canterbury Scene	Studio
+3.6184	3.71	63	The Muffins	Palindrome	2010	Canterbury Scene	Studio
+3.6178	3.95	18	Supersister	Supersister Projekt 2019: Retsis Repus	2019	Canterbury Scene	Studio
+3.6172	3.78	36	Phil Miller	In Cahoots: All That	2003	Canterbury Scene	Studio
+3.6171	3.67	98	Daevid Allen	Daevid Allen Weird Quartet: Elevenses	2016	Canterbury Scene	Studio
+3.6141	3.96	16	Kevin Ayers	Whatevershebringswesing	1972	Canterbury Scene	Studio
+3.6139	3.76	38	Manna / Mirage	Blue Dogs	2015	Canterbury Scene	Studio
+3.6135	3.75	38	The Muffins	185	1981	Canterbury Scene	Studio
+3.6125	3.63	317	Michael Giles	Progress	2002	Canterbury Scene	Studio
+3.6119	3.76	33	The Soft Machine	Seven	1973	Canterbury Scene	Studio
+3.6090	3.71	45	Soft Machine Legacy	Steam	2007	Canterbury Scene	Studio
+3.6070	3.79	25	Robert Wyatt	'68	2013	Canterbury Scene	Studio
+3.6068	3.84	20	Master Cylinder	Elsewhere	1981	Canterbury Scene	Studio
+3.6064	3.81	21	The Muffins	Bandwidth	2002	Canterbury Scene	Studio
+3.6042	4.13	8	Phil Miller	In Cahoots: Recent Discoveries	1994	Canterbury Scene	Studio
+3.6031	3.88	14	Tortilla Flat	SWF Session 1973	2019	Canterbury Scene	Studio
+3.6008	3.85	15	John Greaves	Accident	1982	Canterbury Scene	Studio
+3.6000	3.83	16	Manna / Mirage	Face	2020	Canterbury Scene	Studio
+3.5990	3.70	35	The Winstons	The Winstons & EdMsC: ‎Pictures At An Exhibition	2017	Canterbury Scene	Studio
+3.5977	3.66	58	The Winstons	Smith	2019	Canterbury Scene	Studio
+3.5975	3.85	13	Cos	Babel	1978	Canterbury Scene	Studio
+3.5957	3.66	48	Phil Miller	In Cahoots: Out Of The Blue	2001	Canterbury Scene	Studio
+3.5950	3.77	17	Jakko M. Jakszyk	The Bruised Romantic Glee Club	2006	Canterbury Scene	Studio
+3.5935	3.83	12	Daevid Allen	Divided Alien Playbax 80	1982	Canterbury Scene	Studio
+3.5927	4.00	7	Phil Miller	Phil Miller & Fred Baker: Double Up	1992	Canterbury Scene	Studio
+3.5924	3.89	9	John Greaves	La Petite Bouteille De Linge	1991	Canterbury Scene	Studio
+3.5913	3.89	9	Steve Hillage	Evan Marc & Steve Hillage: Dreamtime Submersible	2008	Canterbury Scene	Studio
+3.5910	3.68	25	John Greaves	The Caretaker	2001	Canterbury Scene	Studio
+3.5880	3.63	54	Big Hogg	Gargoyles	2017	Canterbury Scene	Studio
+3.5870	4.00	5	Nicholas Greenwood	Cold Cuts	1972	Canterbury Scene	Studio
+3.5861	3.96	5	John Greaves	Life Size	2018	Canterbury Scene	Studio
+3.5845	3.71	14	John Greaves	Greaves / Verlaine	2008	Canterbury Scene	Studio
+3.5841	3.92	5	Hugh Hopper	Hugh Hopper Band: Carousel	1995	Canterbury Scene	Studio
+3.5829	3.67	18	Miller & Coxhill	The Story So Far ... Oh Really ?	1974	Canterbury Scene	Studio
+3.5817	3.96	4	Volaré	Memoirs	1999	Canterbury Scene	Studio
+3.5815	3.70	10	John Greaves	Greaves, Cunningham	1991	Canterbury Scene	Studio
+3.5791	3.58	416	Pazop	Psychillis of a Lunatic Genius	2016	Canterbury Scene	Studio
+3.5769	3.64	14	The Soft Machine	Fourth	1971	Canterbury Scene	Studio
+3.5769	3.67	6	Phil Miller	In Cahoots: Parallel	1996	Canterbury Scene	Studio
+3.5739	3.61	10	Jakko M. Jakszyk	Jakko Jaksyk & Tom Robinson: We Never Had It So Good [Aka: Blood Brother]	1990	Canterbury Scene	Studio
+3.5721	3.58	12	Supply Demand & Curve	Supply Demand & Curve	1976	Canterbury Scene	Studio
+3.5706	3.60	5	Jakko M. Jakszyk	Waves Sweep The Sand	2009	Canterbury Scene	Studio
+3.5706	3.57	76	Hugh Hopper	Hopper & S. Klossner: Different	1999	Canterbury Scene	Studio
+3.5705	3.58	19	Steve Hillage	Open	1979	Canterbury Scene	Studio
+3.5703			Soft Mountain	Soft Mountain	2007	Canterbury Scene	Studio

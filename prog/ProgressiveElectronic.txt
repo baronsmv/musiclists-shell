@@ -1,0 +1,250 @@
+4.2396	4.24	1027	Klaus Schulze	Mirage	1977	Progressive Electronic	Studio
+4.2251	4.24	349	Tangerine Dream	Rubycon	1975	Progressive Electronic	Studio
+4.2094	4.16	896	Klaus Schulze	Timewind	1975	Progressive Electronic	Studio
+4.1538	4.82	13	Tangerine Dream	Phaedra	1974	Progressive Electronic	Studio
+4.1261	4.53	20	Oöphoi	Bardo	2002	Progressive Electronic	Studio
+4.1016	4.39	30	Alio Die	Deconsecrated And Pure	2012	Progressive Electronic	Studio
+4.0999	4.41	25	Syrinx	Long Lost Relatives	1971	Progressive Electronic	Studio
+4.0797	4.25	47	Alpha Wave Movement	Architexture of Silence	2013	Progressive Electronic	Studio
+4.0751	4.11	170	Zanov	In Course of Time	1982	Progressive Electronic	Studio
+4.0626	4.56	16	Edgar Froese	Epsilon in Malaysian Pale	1975	Progressive Electronic	Studio
+4.0535	4.07	282	Breidablik	Omicron	2020	Progressive Electronic	Studio
+4.0381	4.16	62	Klaus Schulze	X	1978	Progressive Electronic	Studio
+4.0343	4.23	39	Franco Leprino	Integrati... Disintegrati	1977	Progressive Electronic	Studio
+4.0308	4.73	11	Coil	Horse Rotorvator	1986	Progressive Electronic	Studio
+4.0304	4.22	39	Five Thousand Spirits	A Tapestry For Sourcerers	1995	Progressive Electronic	Studio
+4.0238	4.20	44	Anna Sjalv Tredje	Tussilago Fanfara	1977	Progressive Electronic	Studio
+4.0227	4.29	28	Takehisa Kosugi	Catch Wave	1975	Progressive Electronic	Studio
+4.0219	4.76	10	Coil	Love's Secret Domain	1991	Progressive Electronic	Studio
+4.0108	4.11	71	Ian MacFarlane	Back From Beyond	1980	Progressive Electronic	Studio
+4.0049	4.15	50	Klaus Schulze	Deus Arrakis	2022	Progressive Electronic	Studio
+4.0032	4.16	46	Throbbing Gristle	20 Jazz Funk Greats	1979	Progressive Electronic	Studio
+4.0009	4.01	534	Alio Die	Alio Die & Lorenzo Montana: Holographic Codex	2015	Progressive Electronic	Studio
+3.9998	4.41	18	Tangerine Dream	Force Majeure	1979	Progressive Electronic	Studio
+3.9987	4.01	622	Steve Roach	Trance Spirits	2002	Progressive Electronic	Studio
+3.9948	4.02	221	Tangerine Dream	Stratosfear	1976	Progressive Electronic	Studio
+3.9908	4.44	16	Ashra	New Age of Earth	1976	Progressive Electronic	Studio
+3.9888	4.85	8	Alio Die	Honeysuckle	2011	Progressive Electronic	Studio
+3.9751	4.48	14	Steve Roach	Spiral Meditations	2013	Progressive Electronic	Studio
+3.9747	3.99	368	Lustmord	The Place Where the Black Stars Hang	1994	Progressive Electronic	Studio
+3.9702	4.60	11	Brian Eno	Another Green World	1975	Progressive Electronic	Studio
+3.9693	4.66	10	László Benkö	Lexikon	1982	Progressive Electronic	Studio
+3.9658	4.00	213	Five Thousand Spirits	Quantum Consciousness	2006	Progressive Electronic	Studio
+3.9631	4.00	140	Brian Eno	Ambient 4 - On Land	1982	Progressive Electronic	Studio
+3.9520	3.97	357	Klaus Schulze	Body Love - Vol. 2	1977	Progressive Electronic	Studio
+3.9519	4.14	34	Tangerine Dream	Tangram	1980	Progressive Electronic	Studio
+3.9448	4.16	30	Günter Schickert	Überfällig	1979	Progressive Electronic	Studio
+3.9422	3.96	432	Steve Hauschildt	Dissolvi	2018	Progressive Electronic	Studio
+3.9413	4.12	36	Kraftwerk	The Man-Machine [Aka: Die Mensch-Maschine]	1978	Progressive Electronic	Studio
+3.9396	3.98	147	Roberto Cacciapaglia	Sonanze	1975	Progressive Electronic	Studio
+3.9351	3.95	372	Klaus Schulze	Body Love (OST)	1977	Progressive Electronic	Studio
+3.9351	4.74	8	Kraftwerk	Trans-Europe Express [Aka: Trans-Europa Express]	1977	Progressive Electronic	Studio
+3.9328	4.33	16	Rapoon	Conduits And Estuaries	2014	Progressive Electronic	Studio
+3.9309	4.64	9	Steve Roach	Spiral Revelation	2016	Progressive Electronic	Studio
+3.9295	4.19	24	Alpha Wave Movement	Harmonic Currents	2015	Progressive Electronic	Studio
+3.9233	4.02	64	Javier Miranda	Strange Imperfection	2021	Progressive Electronic	Studio
+3.9174	4.81	7	Zanov	Green Ray	1976	Progressive Electronic	Studio
+3.9158	4.02	58	Sil Muir	Sil Muir	2009	Progressive Electronic	Studio
+3.9156	3.99	84	Tangerine Dream	Raum	2022	Progressive Electronic	Studio
+3.9142	4.10	34	Harold Budd	Harold Budd & Brian Eno: Ambient 2 - The Plateaux Of Mirror	1980	Progressive Electronic	Studio
+3.9139	4.10	33	Edward Artemiev	Warmth of Earth	1985	Progressive Electronic	Studio
+3.9129	4.17	23	Conrad Schnitzler	Ballet Statique	1978	Progressive Electronic	Studio
+3.9059	4.52	10	Patrick Vian	Bruits Et Temps Analogues	1976	Progressive Electronic	Studio
+3.9059	4.52	10	Eric Malmberg	Den gåtfulla människan	2005	Progressive Electronic	Studio
+3.9059	4.57	9	Steve Roach	Tomorrow	2020	Progressive Electronic	Studio
+3.9015	4.06	36	Günter Schickert	Kinder In Der Wildnis	1983	Progressive Electronic	Studio
+3.8943	4.29	15	Igor Wakhévitch	Logos	1970	Progressive Electronic	Studio
+3.8942	4.63	8	Steve Roach	The Delicate Forever	2014	Progressive Electronic	Studio
+3.8904	4.48	10	Zoviet France	Shouting At The Ground	1988	Progressive Electronic	Studio
+3.8893	3.92	114	Steve Roach	A Deeper Silence	2008	Progressive Electronic	Studio
+3.8736	4.19	18	Heldon	Stand By	1979	Progressive Electronic	Studio
+3.8732	4.39	11	Radio Massacre International	Blacker	2007	Progressive Electronic	Studio
+3.8720	3.90	179	Steve Hauschildt	Strands	2016	Progressive Electronic	Studio
+3.8694	4.15	20	Brian Eno	Brian Eno &  David Byrne: My Life In The Bush Of Ghosts	1981	Progressive Electronic	Studio
+3.8686	4.80	6	Kitaro	Silk Road (OST)	1980	Progressive Electronic	Studio
+3.8664	4.03	33	Aidan Baker	Ecliptic Plane	2015	Progressive Electronic	Studio
+3.8644	4.32	12	Throbbing Gristle	D.o.A. The Third And Final Report	1978	Progressive Electronic	Studio
+3.8613	4.03	32	Bjørn Lynne	The Void	1997	Progressive Electronic	Studio
+3.8612	3.98	44	Breidablik	Alduorka	2022	Progressive Electronic	Studio
+3.8587	4.96	5	Richard Pinhas	Iceland	1980	Progressive Electronic	Studio
+3.8586	3.94	68	Aidan Baker	The Forever Tapes	2019	Progressive Electronic	Studio
+3.8581	4.76	6	Fripp & Eno	The Equatorial Stars	2004	Progressive Electronic	Studio
+3.8538	4.40	10	Pole	Inside The Dream	1975	Progressive Electronic	Studio
+3.8531	4.93	5	6LA8	The Last Strands of Fortitude	2013	Progressive Electronic	Studio
+3.8507	3.92	79	Nimh	Nimh & Amon: Sator	2007	Progressive Electronic	Studio
+3.8487	4.21	15	White Noise	An Electric Storm	1969	Progressive Electronic	Studio
+3.8482	3.90	97	Breidablik	Vinter	2017	Progressive Electronic	Studio
+3.8480	4.01	32	Brian Eno	Small Craft On A Milk Sea	2010	Progressive Electronic	Studio
+3.8471	3.99	35	Harold Budd	Abandoned Cities	1984	Progressive Electronic	Studio
+3.8415	4.10	20	Igor Wakhévitch	Docteur Faust	1971	Progressive Electronic	Studio
+3.8398	4.21	14	Numina	Numina & Zero Ohms: Broken Stars Through Brilliant Clouds	2015	Progressive Electronic	Studio
+3.8393	4.17	16	Kitaro	Silk Road II (OST)	1980	Progressive Electronic	Studio
+3.8389	3.89	102	Conrad Schnitzler	Zug	1973	Progressive Electronic	Studio
+3.8387	4.88	5	Harmonia	Musik Von Harmonia	1974	Progressive Electronic	Studio
+3.8354	3.90	73	Conrad Schnitzler	Conditions of the Gas Giant	2019	Progressive Electronic	Studio
+3.8319	4.08	21	Harold Budd	Harold Budd & Brian Eno: The Pearl	1984	Progressive Electronic	Studio
+3.8305	4.02	27	Steve Roach	Shadow of Time	2016	Progressive Electronic	Studio
+3.8269	3.96	38	Alio Die	They Grow Layers of Life Within	2017	Progressive Electronic	Studio
+3.8267	4.11	18	Steve Hauschildt	Nonlin	2019	Progressive Electronic	Studio
+3.8252	3.95	39	Didier Bocquet	Voyage Cérébral	1979	Progressive Electronic	Studio
+3.8246	4.12	17	Mort Garson	The Zodiac - Cosmic Sounds	1967	Progressive Electronic	Studio
+3.8221	4.54	7	Kitaro	Ki	1981	Progressive Electronic	Studio
+3.8216	3.99	30	Conrad Schnitzler	Electronegativity - The Cassette Concert Series No.3	1995	Progressive Electronic	Studio
+3.8213	3.84	291	Ose	Adonia	1978	Progressive Electronic	Studio
+3.8209	4.32	10	Kraftwerk	Computer World [Aka: Computerwelt]	1981	Progressive Electronic	Studio
+3.8183	4.43	8	Alio Die	Alio Die & Sylvi Alli: Amidst the Circling Spires	2014	Progressive Electronic	Studio
+3.8162	3.88	77	Omit	Tracer	2005	Progressive Electronic	Studio
+3.8143	3.96	33	Tangerine Dream	Quantum Gate	2017	Progressive Electronic	Studio
+3.8125	4.05	20	Tim Hecker	Ravedeath, 1972	2011	Progressive Electronic	Studio
+3.8087	4.50	7	Alio Die	Seamlessly bliss	2016	Progressive Electronic	Studio
+3.8081	3.90	53	Redshift	Turning Towards Us	2008	Progressive Electronic	Studio
+3.8074	4.33	9	Alpha Wave Movement	Earthen	2015	Progressive Electronic	Studio
+3.8028	4.39	8	Javier Miranda	Javier Miranda/Iago Méndez - Greyscale Dreamcoat (Split)	2021	Progressive Electronic	Studio
+3.7997	3.87	66	Jazzcomputer.org	Forest Stairways	2017	Progressive Electronic	Studio
+3.7962	4.02	21	Robert Rich	Filaments	2015	Progressive Electronic	Studio
+3.7947	4.46	7	Mort Garson	The Wozard Of Iz - An Electronic Odyssey	1968	Progressive Electronic	Studio
+3.7947	4.09	16	Sequentia Legenda	Ethereal	2017	Progressive Electronic	Studio
+3.7943	4.96	4	Breidablik	Penumbra	2017	Progressive Electronic	Studio
+3.7934	3.81	241	Zoviet France	Eostre	1984	Progressive Electronic	Studio
+3.7927	4.37	8	Brian Eno	Before And After Science	1977	Progressive Electronic	Studio
+3.7914	3.89	44	Fovea Hex	Here Is Where We Used to Sing	2011	Progressive Electronic	Studio
+3.7887	3.94	30	Bobby Beausoleil	Lucifer Rising (OST)	1980	Progressive Electronic	Studio
+3.7883	3.90	40	Robert Schroeder	Harmonic Ascendant	1979	Progressive Electronic	Studio
+3.7874	4.14	13	Galactic Explorers	Epitaph For Venus	1974	Progressive Electronic	Studio
+3.7860	4.91	4	Brian Eno	Brian & Roger Eno: Mixing Colours	2020	Progressive Electronic	Studio
+3.7832	4.91	4	Maurizio Bianchi	Mectpyo Bakterium	1982	Progressive Electronic	Studio
+3.7832	4.43	7	Marvin Ayres	Circadian Rhythms	2016	Progressive Electronic	Studio
+3.7831	3.81	145	Steve Roach	Strata	1990	Progressive Electronic	Studio
+3.7790	4.03	18	Brian Eno	Apollo - Atmospheres & Soundtracks (OST)	1983	Progressive Electronic	Studio
+3.7790	4.00	20	Javier Miranda	Mirror Games	2020	Progressive Electronic	Studio
+3.7776	4.00	20	Biosphere	Substrata	1997	Progressive Electronic	Studio
+3.7776	4.06	16	Radio Massacre International	Frozen North	1995	Progressive Electronic	Studio
+3.7776	4.87	4	Steve Roach	Molecules of Motion	2018	Progressive Electronic	Studio
+3.7730	4.87	4	Tim Hecker	Konoyo	2018	Progressive Electronic	Studio
+3.7730	4.87	4	Pete Namlook	Air II - Travelling Without Moving	1994	Progressive Electronic	Studio
+3.7730	4.50	6	Aidan Baker	The Confessional Tapes	2015	Progressive Electronic	Studio
+3.7717	4.50	6	Maurizio Bianchi	Armaghedon	1984	Progressive Electronic	Studio
+3.7717	4.50	6	Kitaro	Kojiki	1990	Progressive Electronic	Studio
+3.7717	4.20	10	Steve Roach	Soma (with Robert Rich)	1992	Progressive Electronic	Studio
+3.7679	3.80	121	Kitaro	Silver Cloud	1983	Progressive Electronic	Studio
+3.7672	4.10	13	Fripp & Eno	Evening Star	1975	Progressive Electronic	Studio
+3.7666	3.83	68	Zygoat	Zygoat	1974	Progressive Electronic	Studio
+3.7653	4.00	18	Klaus Schulze	In Blue	1995	Progressive Electronic	Studio
+3.7633	4.00	18	Radio Massacre International	Emissaries	2005	Progressive Electronic	Studio
+3.7633	3.97	20	Kitaro	Oasis	1979	Progressive Electronic	Studio
+3.7621	3.88	37	Javier Miranda	Doppelgänger	2022	Progressive Electronic	Studio
+3.7607	3.78	225	Bass Communion	Bass Communion (III)	2001	Progressive Electronic	Studio
+3.7593	4.60	5	Klaus Schulze	Moondawn	1976	Progressive Electronic	Studio
+3.7590	4.60	5	Steve Roach	Core	2001	Progressive Electronic	Studio
+3.7590	4.22	9	Kosmogon	Mässan	2021	Progressive Electronic	Studio
+3.7574	4.45	6	Kitaro	Mandala	1994	Progressive Electronic	Studio
+3.7573	3.99	18	Sinoia Caves	Beyond The Black Rainbow	2014	Progressive Electronic	Studio
+3.7571	4.10	12	Peter Frohmader	Nekropolis: Musik Aus Dem Schattenreich	1981	Progressive Electronic	Studio
+3.7529	4.44	6	Mort Garson	The Unexplained	1975	Progressive Electronic	Studio
+3.7528	4.78	4	Schloss Tegal	Oranur III	1994	Progressive Electronic	Studio
+3.7525	3.91	25	Pole	Kotrill	1975	Progressive Electronic	Studio
+3.7501	4.26	8	Hydrus	Midnight In Space	1978	Progressive Electronic	Studio
+3.7500	4.33	7	Yeti Rain	Stars Fall Darkly	2013	Progressive Electronic	Studio
+3.7498	3.91	24	Stellardrone	Light Years	2013	Progressive Electronic	Studio
+3.7456	4.01	15	Coil	Scatology	1984	Progressive Electronic	Studio
+3.7454	3.98	17	Dionne - Brégent	Deux	1977	Progressive Electronic	Studio
+3.7451	3.83	46	Harold Budd	Harold Budd & Cocteau Twins: The Moon and the Melodies	1986	Progressive Electronic	Studio
+3.7450	4.75	4	Zombi	Surface to Air	2006	Progressive Electronic	Studio
+3.7448	4.75	4	Robert Rich	Soma (with Steve Roach)	1991	Progressive Electronic	Studio
+3.7448	4.41	6	Steve Roach	Dynamic Stillness	2009	Progressive Electronic	Studio
+3.7430	3.98	17	Jean Guérin	Tacet	1971	Progressive Electronic	Studio
+3.7428	4.54	5	Peak	Ebondàzzar	1980	Progressive Electronic	Studio
+3.7428	4.74	4	Yeti Rain	III	2010	Progressive Electronic	Studio
+3.7423	3.87	31	Lambwool	Post (collaboration with Nicolas Dick)	2014	Progressive Electronic	Studio
+3.7413	4.00	15	Richard Pinhas	L'Ethique	1982	Progressive Electronic	Studio
+3.7379	4.00	15	Pascal Languirand	Minos	1978	Progressive Electronic	Studio
+3.7379	3.97	17	Coil	Black Antlers	2004	Progressive Electronic	Studio
+3.7367	4.09	11	Futuro Antico	D'ai primitivi all'elettronica	1980	Progressive Electronic	Studio
+3.7359	4.09	11	Robert Schroeder	Time Waves	1987	Progressive Electronic	Studio
+3.7359	3.84	38	Conrad Schnitzler	Schwarz (Eruption)	1971	Progressive Electronic	Studio
+3.7354	3.79	63	Tim Blake	Blake's New Jerusalem	1978	Progressive Electronic	Studio
+3.7327	3.88	26	Michael Hoenig	Departure from the Northern Wasteland	1978	Progressive Electronic	Studio
+3.7321	3.77	98	Zanov	Open Worlds	2016	Progressive Electronic	Studio
+3.7320	4.69	4	Klaus Schulze	Kontinuum	2007	Progressive Electronic	Studio
+3.7313	3.76	130	Peter Howell & The Radiophonic Workshop	Through A Glass Darkly	1978	Progressive Electronic	Studio
+3.7305	3.99	15	Ashra	Blackouts	1977	Progressive Electronic	Studio
+3.7305	3.85	30	Cosmic Ground	Cosmic Ground 2	2015	Progressive Electronic	Studio
+3.7268	4.14	9	Zanov	Moebius 256 301	1977	Progressive Electronic	Studio
+3.7249	4.10	10	Sequentia Legenda	Blue Dream	2014	Progressive Electronic	Studio
+3.7244	3.86	27	Kitaro	Queen Millennia (OST)	1982	Progressive Electronic	Studio
+3.7231	3.97	15	Harald Grosskopf	Synthesist	1980	Progressive Electronic	Studio
+3.7222	3.97	15	Bjørn Lynne	Wolves Of The Gods	1999	Progressive Electronic	Studio
+3.7222	3.75	151	Bruce Haack	The Electric Lucifer	1970	Progressive Electronic	Studio
+3.7219	4.65	4	Klaus Schulze	Picture Music	1975	Progressive Electronic	Studio
+3.7218	4.33	6	Alio Die	Elusive Metaphor by Alio Die & Parallel Worlds	2015	Progressive Electronic	Studio
+3.7191	3.91	19	Alpha Wave Movement	Transcendence	1996	Progressive Electronic	Studio
+3.7186	3.76	93	Kitaro	Ten Kai [Aka: Astral Voyage / Astral Trip]	1978	Progressive Electronic	Studio
+3.7173	3.82	35	Brian Eno	Eno, Moebius & Roedelius: After The Heat	1978	Progressive Electronic	Studio
+3.7172	3.94	16	Harold Budd	The Pavilion Of Dreams	1978	Progressive Electronic	Studio
+3.7154	3.73	247	Kitaro	The Light of the Spirit	1987	Progressive Electronic	Studio
+3.7138	3.88	22	Brian Eno	Here Come the Warm Jets	1973	Progressive Electronic	Studio
+3.7137	4.43	5	Space Art	Trip in the Center Head	1977	Progressive Electronic	Studio
+3.7114	4.07	10	Pekka Airaksinen	Buddhas Of Golden Light	1984	Progressive Electronic	Studio
+3.7110	3.78	49	Radio Massacre International	Burned & Frozen	1997	Progressive Electronic	Studio
+3.7106	3.78	48	Bass Communion	Bass Communion (II)	1999	Progressive Electronic	Studio
+3.7094	4.42	5	Yellow Magic Orchestra	Yellow Magic Orchestra	1978	Progressive Electronic	Studio
+3.7086	4.42	5	Maurizio Bianchi	The Plain Truth	1983	Progressive Electronic	Studio
+3.7086	4.00	12	Meerkat	Kapnos	2009	Progressive Electronic	Studio
+3.7065	3.75	78	Harold Budd	Harold Budd & Hector Zazou: Glyph	1996	Progressive Electronic	Studio
+3.7051	4.40	5	Brian Eno	Another Day On Earth	2005	Progressive Electronic	Studio
+3.7035	3.81	33	Sven Grünberg	Prana Symphony	1995	Progressive Electronic	Studio
+3.7025	3.84	25	Tangerine Dream	Paradiso	2006	Progressive Electronic	Studio
+3.7025	4.40	5	Coil	Musick To Play In The Dark	1999	Progressive Electronic	Studio
+3.7022	3.97	13	Hall Of Mirrors	Forgotten Realm	2009	Progressive Electronic	Studio
+3.7022	3.81	31	Steve Roach	The Magnificent Void	1996	Progressive Electronic	Studio
+3.7001	3.87	20	Igor Wakhévitch	Hathor	1973	Progressive Electronic	Studio
+3.6999	4.13	8	Sequentia Legenda	Renaissance	2018	Progressive Electronic	Studio
+3.6982	4.13	8	Peter Frohmader	Nekropolis: Cultes Des Goules	1985	Progressive Electronic	Studio
+3.6982	3.73	91	Radio Massacre International	The Clouds of Titan	2013	Progressive Electronic	Studio
+3.6970	3.94	14	Edgar Froese	Stuntman	1979	Progressive Electronic	Studio
+3.6968	4.03	10	Kitaro	Daichi [Aka: From the Full Moon Story]	1979	Progressive Electronic	Studio
+3.6960	4.03	10	Robert Rich	Numena	1987	Progressive Electronic	Studio
+3.6960	3.79	35	Radio Massacre International	Bothered Atmos	1999	Progressive Electronic	Studio
+3.6947	4.52	4	Yellow Magic Orchestra	Technodelic	1981	Progressive Electronic	Studio
+3.6916	3.76	49	Jazzcomputer.org	Elsewhere	2007	Progressive Electronic	Studio
+3.6892	3.89	16	Automat	Automat	1978	Progressive Electronic	Studio
+3.6865	4.50	4	Hans-Joachim Roedelius	Lustwandel	1981	Progressive Electronic	Studio
+3.6860	4.50	4	László Benkö	Lexikon 2	1984	Progressive Electronic	Studio
+3.6860	4.50	4	Robert Schroeder	Driftin'	1988	Progressive Electronic	Studio
+3.6860	4.50	4	Eberhard Schoener	Events	1980	Progressive Electronic	Studio
+3.6860	4.50	4	Mort Garson	Signs of the Zodiac: Sagittarius	1969	Progressive Electronic	Studio
+3.6860	4.50	4	Mort Garson	Signs of the Zodiac: Libra	1969	Progressive Electronic	Studio
+3.6860	4.50	4	Mort Garson	Signs of the Zodiac: Capricorn	1969	Progressive Electronic	Studio
+3.6860	4.50	4	Mort Garson	Signs of the Zodiac: Taurus	1969	Progressive Electronic	Studio
+3.6860	4.50	4	Mort Garson	Signs of the Zodiac: Gemini	1969	Progressive Electronic	Studio
+3.6860	3.69	457	Mort Garson	Signs of the Zodiac: Scorpio	1969	Progressive Electronic	Studio
+3.6845	3.70	208	Tangerine Dream	Zeit	1972	Progressive Electronic	Studio
+3.6836	3.83	22	Brian Eno	Taking Tiger Mountain (By Strategy)	1974	Progressive Electronic	Studio
+3.6830	3.71	108	Harold Budd	Lovely Thunder	1986	Progressive Electronic	Studio
+3.6822	3.70	180	Edgar Froese	Aqua	1974	Progressive Electronic	Studio
+3.6812	4.04	9	Klaus Schulze	Cyborg	1973	Progressive Electronic	Studio
+3.6811	4.00	10	Steve Roach	Atmosphere for Dreaming	2018	Progressive Electronic	Studio
+3.6810	3.97	11	Roberto Cacciapaglia	Quarto Tempo	2007	Progressive Electronic	Studio
+3.6790	3.82	22	Coil	Astral Disaster	1999	Progressive Electronic	Studio
+3.6790	4.07	8	Elektriktus	Electronic Mind Waves	1976	Progressive Electronic	Studio
+3.6788	4.07	8	Radio Massacre International	Star Tide	2001	Progressive Electronic	Studio
+3.6788	4.46	4	Steve Hauschildt	Where All Is Fled	2015	Progressive Electronic	Studio
+3.6770	3.69	214	Alio Die	Vayu Rouah  (With Aglaia)	2011	Progressive Electronic	Studio
+3.6758	4.02	9	Tangerine Dream	Underwater Sunlight	1986	Progressive Electronic	Studio
+3.6752	3.99	10	Steve Roach	Darkest Before Dawn	2002	Progressive Electronic	Studio
+3.6745	3.68	407	Conrad Schnitzler	Grun	1981	Progressive Electronic	Studio
+3.6741	3.80	25	Tangerine Dream	Cyclone	1978	Progressive Electronic	Studio
+3.6723	3.81	22	Klaus Schulze	Virtual Outback	2008	Progressive Electronic	Studio
+3.6710	3.72	63	Coil	Musick To Play In The Dark Vol. 2	2000	Progressive Electronic	Studio
+3.6699	3.94	11	Heldon	Heldon IV - Agneta Nilsson	1976	Progressive Electronic	Studio
+3.6673	3.87	15	Sperm	Shh!	1970	Progressive Electronic	Studio
+3.6665	4.00	9	Kitaro	Tenku	1986	Progressive Electronic	Studio
+3.6665	4.00	9	Dieter Moebius	Tonspuren	1983	Progressive Electronic	Studio
+3.6665	4.00	9	Günter Schickert	Nachtfalter	2019	Progressive Electronic	Studio
+3.6665	4.17	6	Oneohtrix Point Never	Replica	2011	Progressive Electronic	Studio
+3.6664	3.97	10	Nik Raicevic	The Sixth Ear	1972	Progressive Electronic	Studio
+3.6660	3.97	10	Robert Rich	Fissures (with Alio Die)	1997	Progressive Electronic	Studio
+3.6660	3.97	10	Biosphere	Autour de la Lune	2004	Progressive Electronic	Studio
+3.6658	4.04	8	Conrad Schnitzler	Gelb	1981	Progressive Electronic	Studio
+3.6647	3.98	9	Radio Massacre International	Organ Harvest	1997	Progressive Electronic	Studio
+3.6603			Alio Die	Aura Seminalis	2008	Progressive Electronic	Studio

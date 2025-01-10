@@ -1,0 +1,250 @@
+4.3472	4.47	109	Frank Zappa	Hot Rats	1969	RIO/Avant-Prog	Studio
+4.3373	4.38	181	Art Zoyd	Häxan	1997	RIO/Avant-Prog	Studio
+4.3068	4.32	1090	Cardiacs	On Land And In The Sea	1989	RIO/Avant-Prog	Studio
+4.3046	4.31	1101	Frank Zappa	The Grand Wazoo	1972	RIO/Avant-Prog	Studio
+4.2967	4.29	315	Frank Zappa	The Mothers of Invention: One Size Fits All	1975	RIO/Avant-Prog	Studio
+4.2508	4.28	381	Cardiacs	A Little Man And A House And The Whole World Window	1988	RIO/Avant-Prog	Studio
+4.2459	4.27	386	Cardiacs	Sing to God	1996	RIO/Avant-Prog	Studio
+4.2413	4.28	303	Univers Zero	Uzed	1984	RIO/Avant-Prog	Studio
+4.2358	4.33	126	Henry Cow	Western Culture	1979	RIO/Avant-Prog	Studio
+4.2347	4.41	70	This Heat	Deceit	1981	RIO/Avant-Prog	Studio
+4.2315	4.40	73	News From Babel	Letters Home	1986	RIO/Avant-Prog	Studio
+4.2300	4.30	168	News From Babel	Sirens And Silences / Work Resumed On The Tower	1983	RIO/Avant-Prog	Studio
+4.2266	4.31	138	Höyry-Kone	Huono Parturi	1997	RIO/Avant-Prog	Studio
+4.2235	4.33	109	The Residents	Duck Stab / Buster & Glen	1978	RIO/Avant-Prog	Studio
+4.2220	4.26	339	Secret Chiefs 3	Book M	2001	RIO/Avant-Prog	Studio
+4.2199	4.62	30	Univers Zero	Heresie	1979	RIO/Avant-Prog	Studio
+4.2186	4.28	196	Ground Zero	Plays Standards	1997	RIO/Avant-Prog	Studio
+4.2148	4.24	335	Thinking Plague	In Extremis	1998	RIO/Avant-Prog	Studio
+4.2052	4.29	133	Samla Mammas Manna	Måltid	1973	RIO/Avant-Prog	Studio
+4.2038	4.58	31	Present	Triskaïdékaphobie	1980	RIO/Avant-Prog	Studio
+4.2024	4.21	405	Hermann Szobel	Szobel	1976	RIO/Avant-Prog	Studio
+4.1844	4.25	148	Kayo Dot	Choirs Of The Eye	2003	RIO/Avant-Prog	Studio
+4.1715	4.68	21	Present	Barbaro (Ma Non Troppo)	2009	RIO/Avant-Prog	Studio
+4.1637	4.20	272	John Zorn	Interzone	2010	RIO/Avant-Prog	Studio
+4.1612	4.30	75	Univers Zero	Univers Zero [Aka: 1313]	1977	RIO/Avant-Prog	Studio
+4.1585	4.30	73	Vezhlivy Otkaz	Гуси-Лебеди / Geese And Swans	2010	RIO/Avant-Prog	Studio
+4.1552	4.43	38	OOIOO	Taiga	2006	RIO/Avant-Prog	Studio
+4.1552	4.24	102	Las Orejas Y La Lengua	Error	2003	RIO/Avant-Prog	Studio
+4.1436	4.23	107	Present	Nº 6	1999	RIO/Avant-Prog	Studio
+4.1389	4.29	63	Estradasphere	Palace Of Mirrors	2006	RIO/Avant-Prog	Studio
+4.1337	4.21	133	Boredoms	Vision Creation Newsun	1999	RIO/Avant-Prog	Studio
+4.1317	4.23	98	Present	Le poison qui rend fou	1985	RIO/Avant-Prog	Studio
+4.1313	4.51	26	U Totem	U Totem	1990	RIO/Avant-Prog	Studio
+4.1276	4.65	19	The Camberwell Now	The Ghost Trade	1986	RIO/Avant-Prog	Studio
+4.1261	4.28	66	Thinking Fellers Union Local 282	Strangers From The Universe	1994	RIO/Avant-Prog	Studio
+4.1251	4.21	115	Miasma & The Carousel Of Headless Horses	Perils	2005	RIO/Avant-Prog	Studio
+4.1215	4.63	19	Miriodor	Avanti!	2009	RIO/Avant-Prog	Studio
+4.1182	4.13	611	Dunaj	Rosol	1991	RIO/Avant-Prog	Studio
+4.1141	4.30	50	Frank Zappa	Joe's Garage, Act I	1979	RIO/Avant-Prog	Studio
+4.1119	4.39	34	Greco Bastián	With a Little Hell from My Friends	2022	RIO/Avant-Prog	Studio
+4.1096	4.22	85	José Luis Fernández Ledesma	José Luis Fernández Ledesma & Margarita Botello: Sol Central	2000	RIO/Avant-Prog	Studio
+4.1078	4.23	73	Jean Louis	Jean Louis	2008	RIO/Avant-Prog	Studio
+4.1048	4.12	747	Miriodor	Rencontres	1986	RIO/Avant-Prog	Studio
+4.1033	4.18	122	Frank Zappa	The Mothers of Invention: We're Only in It for the Money	1968	RIO/Avant-Prog	Studio
+4.0992	4.52	22	Cardiacs	The Seaside	1983	RIO/Avant-Prog	Studio
+4.0979	4.13	247	Masada String Trio / Bar Kokhba Sextet	The Circle Maker	1998	RIO/Avant-Prog	Studio
+4.0960	4.21	80	Sleepytime Gorilla Museum	Of Natural History	2004	RIO/Avant-Prog	Studio
+4.0921	4.16	130	PoiL	BrossaKlitt	2014	RIO/Avant-Prog	Studio
+4.0911	4.15	167	Captain Beefheart	Shiny Beast (Bat Chain Puller)	1978	RIO/Avant-Prog	Studio
+4.0905	4.55	20	Roz Vitalis	The Hidden Man of the Heart	2018	RIO/Avant-Prog	Studio
+4.0901	4.41	28	Cosa Brava	The Letter	2012	RIO/Avant-Prog	Studio
+4.0890	4.13	235	Superstring	Rationalis Impetus (as Arkitekture)	2022	RIO/Avant-Prog	Studio
+4.0882	4.34	36	Mr. Bungle	California	1999	RIO/Avant-Prog	Studio
+4.0869	4.25	55	Taylor's Universe	Certain Undiscoveries	2006	RIO/Avant-Prog	Studio
+4.0861	4.28	46	Volapük	Polyglöt	2000	RIO/Avant-Prog	Studio
+4.0854	4.24	58	Korekyojinn	Jackson	2006	RIO/Avant-Prog	Studio
+4.0836	4.15	120	Estradasphere	Buck Fever	2001	RIO/Avant-Prog	Studio
+4.0796	4.22	63	The Residents	The Third Reich 'N' Roll	1976	RIO/Avant-Prog	Studio
+4.0782	4.14	131	Vortex	Les Cycles De Thanatos	1979	RIO/Avant-Prog	Studio
+4.0774	4.59	17	Zamla Mammaz Manna	Familjesprickor	1980	RIO/Avant-Prog	Studio
+4.0768	4.28	43	José Luis Fernández Ledesma	Designios	2003	RIO/Avant-Prog	Studio
+4.0750	4.46	23	Arrigo Barnabé	Clara Crocodilo	1980	RIO/Avant-Prog	Studio
+4.0749	4.80	12	I Am Above On The Left	An A-Bomb to Wake Up	2006	RIO/Avant-Prog	Studio
+4.0733	4.15	108	Le Silo	Yamai	2019	RIO/Avant-Prog	Studio
+4.0722	4.58	17	French TV	The Violence Of Amateurs	1999	RIO/Avant-Prog	Studio
+4.0720	4.29	39	3 Mice	Send Me a Postcard	2012	RIO/Avant-Prog	Studio
+4.0691	4.25	48	Cartoon	Cartoon	1982	RIO/Avant-Prog	Studio
+4.0683	4.48	21	Le Silo	8.8	2004	RIO/Avant-Prog	Studio
+4.0668	4.12	157	Art Zoyd	Eyecatcher	2011	RIO/Avant-Prog	Studio
+4.0645	4.40	25	Far Corner	Risk	2018	RIO/Avant-Prog	Studio
+4.0632	4.17	74	Chris Cutler	Chris Cutler & Lutz Glandien: Domestic Stories	1992	RIO/Avant-Prog	Studio
+4.0601	4.22	52	Shining	Grindstone	2007	RIO/Avant-Prog	Studio
+4.0592	4.15	91	Buldozer	Pljuni Istini U Oci	1975	RIO/Avant-Prog	Studio
+4.0590	4.27	39	Art Zoyd	Symphonie Pour Le Jour Où Brûleront Les Cités	1981	RIO/Avant-Prog	Studio
+4.0581	4.18	71	Secret Chiefs 3	Xaphan - Book Of Angels, Vol. 9	2008	RIO/Avant-Prog	Studio
+4.0580	4.16	78	Miriodor	Jongleries élastiques	1996	RIO/Avant-Prog	Studio
+4.0573	4.16	74	Buldozer	Zabranjeno Plakatirati	1977	RIO/Avant-Prog	Studio
+4.0528	4.27	37	Miriodor	Parade	2005	RIO/Avant-Prog	Studio
+4.0519	4.15	82	The Residents	Stars & Hank	1986	RIO/Avant-Prog	Studio
+4.0516	4.12	108	miRthkon	Snack(s)	2013	RIO/Avant-Prog	Studio
+4.0488	4.14	87	Samla Mammas Manna	Gregory Allan Fitzpatrick's Snorungarnas Symfoni	1976	RIO/Avant-Prog	Studio
+4.0482	4.38	24	Taylor's Universe	Evidence	2013	RIO/Avant-Prog	Studio
+4.0448	4.18	58	Tipographica	Floating Opera	1997	RIO/Avant-Prog	Studio
+4.0439	4.17	66	Vortex	Vortex	1975	RIO/Avant-Prog	Studio
+4.0434	4.43	21	Discus	... tot licht	2003	RIO/Avant-Prog	Studio
+4.0429	4.12	99	Sonar	Sonar & David Torn: Tranceportation Vol.1	2019	RIO/Avant-Prog	Studio
+4.0416	4.09	166	Thinking Plague	A History Of Madness	2003	RIO/Avant-Prog	Studio
+4.0395	4.14	80	Univers Zero	Heatwave	1986	RIO/Avant-Prog	Studio
+4.0385	4.28	33	NeBeLNeST	NoVa eXPReSS	2002	RIO/Avant-Prog	Studio
+4.0381	4.19	50	Secret Chiefs 3	Book of Souls - Folio A	2013	RIO/Avant-Prog	Studio
+4.0364	4.52	16	Nichelodeon	Incidenti - Lo Schianto	2021	RIO/Avant-Prog	Studio
+4.0323	4.17	54	Zevious	Passing Through The Wall	2013	RIO/Avant-Prog	Studio
+4.0310	4.89	9	Compassionizer	An Ambassador in Bonds	2021	RIO/Avant-Prog	Studio
+4.0310	4.11	94	Rascal Reporters	The Strainge Case of Steve	2023	RIO/Avant-Prog	Studio
+4.0296	4.24	37	Art Zoyd	Berlin	1987	RIO/Avant-Prog	Studio
+4.0296	4.12	84	Mike Keneally	Mike Keneally & Metropole Orkest: The Universe Will Provide	2004	RIO/Avant-Prog	Studio
+4.0278	4.08	150	5uu's	Hunger's Teeth	1994	RIO/Avant-Prog	Studio
+4.0275	4.04	800	black midi	Hellfire	2022	RIO/Avant-Prog	Studio
+4.0275	4.20	45	Frank Zappa	Apostrophe (')	1974	RIO/Avant-Prog	Studio
+4.0274	4.04	598	Mike Keneally	Scambot 1	2009	RIO/Avant-Prog	Studio
+4.0266	4.05	295	Frank Zappa	The Mothers Of Invention: Uncle Meat	1969	RIO/Avant-Prog	Studio
+4.0259	4.50	16	Henry Cow	The Henry Cow Legend [Aka: Legend or Leg End]	1973	RIO/Avant-Prog	Studio
+4.0247	4.86	9	Ben Levin Group	Freak Machine	2015	RIO/Avant-Prog	Studio
+4.0234	4.08	131	Upsilon Acrux	Radian Futura	2009	RIO/Avant-Prog	Studio
+4.0203	4.11	85	Naked City	Naked City	1990	RIO/Avant-Prog	Studio
+4.0183	4.17	50	Thinking Plague	In This Life	1989	RIO/Avant-Prog	Studio
+4.0178	4.51	15	Ensemble Nimbus	Garmonbozia	2000	RIO/Avant-Prog	Studio
+4.0168	4.55	14	José Luis Fernández Ledesma	José Luis Fernández Ledesma & Margarita Botello: La Paciencia De Job	2006	RIO/Avant-Prog	Studio
+4.0162	4.08	113	John Zorn	Simulacrum	2015	RIO/Avant-Prog	Studio
+4.0154	4.12	68	Captain Beefheart	Doc At The Radar Station	1980	RIO/Avant-Prog	Studio
+4.0137	4.05	207	Free Salamander Exhibit	Undestroyed	2016	RIO/Avant-Prog	Studio
+4.0136	4.25	31	Mr. Bungle	Mr. Bungle	1991	RIO/Avant-Prog	Studio
+4.0132	4.06	168	Arrigo Barnabé	Tubarões Voadores	1984	RIO/Avant-Prog	Studio
+4.0121	4.09	93	Samla Mammas Manna	Klossa Knapitatet	1974	RIO/Avant-Prog	Studio
+4.0119	4.22	35	Secret Chiefs 3	Book Of Horizons	2004	RIO/Avant-Prog	Studio
+4.0112	4.19	40	The Residents	Demons Dance Alone	2002	RIO/Avant-Prog	Studio
+4.0104	4.39	19	Secret Chiefs 3	Second Grand Constitution And Bylaws - Hurqalya	1998	RIO/Avant-Prog	Studio
+4.0102	4.15	50	Tom Moto	Junk	2008	RIO/Avant-Prog	Studio
+4.0077	4.02	609	Compassionizer	Caress of Compassion	2020	RIO/Avant-Prog	Studio
+4.0074	4.41	18	Frank Zappa	The Mothers Of Invention: Absolutely Free	1967	RIO/Avant-Prog	Studio
+4.0064	4.23	32	Satanique Samba Trio	Sangrou	2007	RIO/Avant-Prog	Studio
+4.0051	4.27	27	Mike Keneally	Boil That Dust Speck	1994	RIO/Avant-Prog	Studio
+4.0047	4.04	208	Nichelodeon	UKIYOE - Mondi Fluttuanti (with Insonar)	2014	RIO/Avant-Prog	Studio
+4.0043	4.04	215	Univers Zero	Ceux Du Dehors	1981	RIO/Avant-Prog	Studio
+4.0043	4.20	36	Univers Zero	Clivages	2010	RIO/Avant-Prog	Studio
+4.0028	4.01	718	Factor Burzaco	Factor Burzaco	2007	RIO/Avant-Prog	Studio
+4.0027	4.18	41	Frank Zappa	The Mothers of Invention: Over-Nite Sensation	1973	RIO/Avant-Prog	Studio
+4.0023	4.44	16	Panzerpappa	Farlig Vandring	2004	RIO/Avant-Prog	Studio
+4.0001	4.44	16	Afenginn	OPUS	2016	RIO/Avant-Prog	Studio
+4.0001	4.30	23	John Zorn	Templars-In Sacred Blood	2012	RIO/Avant-Prog	Studio
+3.9992	4.29	24	Cthulhu Rise	42	2012	RIO/Avant-Prog	Studio
+3.9979	4.13	54	Yeti	Things to Come...	2000	RIO/Avant-Prog	Studio
+3.9979	4.05	138	Naked City	Grand Guignol	1992	RIO/Avant-Prog	Studio
+3.9977	4.21	32	Samla Mammas Manna	Samla Mammas Manna	1971	RIO/Avant-Prog	Studio
+3.9968	4.16	43	Sarlo Akrobata	Bistriji Ili Tuplji Covek Biva Kad...	1981	RIO/Avant-Prog	Studio
+3.9961	4.46	15	Moonchild Trio	Six Litanies for Heliogabalus	2007	RIO/Avant-Prog	Studio
+3.9958	4.02	240	HardScore	Monkey Trial	2004	RIO/Avant-Prog	Studio
+3.9938	4.10	62	Mr. Bungle	Disco Volante	1995	RIO/Avant-Prog	Studio
+3.9908	4.20	32	Far Corner	Endangered	2007	RIO/Avant-Prog	Studio
+3.9899	4.19	33	Mike Keneally	Hat.	1992	RIO/Avant-Prog	Studio
+3.9877	4.34	19	Art Zoyd	Marathonnerre I	1992	RIO/Avant-Prog	Studio
+3.9865	4.03	138	The Science Group	A Mere Coincidence	1999	RIO/Avant-Prog	Studio
+3.9863	4.11	54	Guapo	Five Suns	2004	RIO/Avant-Prog	Studio
+3.9841	4.04	121	Panzerpappa	Koralrevens Klagesang	2006	RIO/Avant-Prog	Studio
+3.9832	4.13	46	Univers Zero	Implosion	2004	RIO/Avant-Prog	Studio
+3.9829	4.01	229	French TV	This Is What We Do	2006	RIO/Avant-Prog	Studio
+3.9795	4.53	12	Frank Zappa	Läther	1996	RIO/Avant-Prog	Studio
+3.9790	4.18	33	Harry Roesli	Titik Api	1976	RIO/Avant-Prog	Studio
+3.9784	4.16	35	Hamster Theatre	Carnival Detournement	2001	RIO/Avant-Prog	Studio
+3.9782	4.02	147	Birdsongs Of The Mesozoic	The Iridium Controversy	2003	RIO/Avant-Prog	Studio
+3.9778	4.17	34	Captain Beefheart	Lick My Decals Off, Baby	1970	RIO/Avant-Prog	Studio
+3.9768	4.04	109	Pochakaite Malko	Laya	2004	RIO/Avant-Prog	Studio
+3.9762	4.10	51	miRthkon	Vehicle	2009	RIO/Avant-Prog	Studio
+3.9761	4.03	127	Stephan Thelen	Fractal Guitar	2019	RIO/Avant-Prog	Studio
+3.9744	4.27	22	The Residents	Not Available	1978	RIO/Avant-Prog	Studio
+3.9740	4.88	7	Inner Ear Brigade	Rainbro	2012	RIO/Avant-Prog	Studio
+3.9719	4.35	17	Secret Chiefs 3	Malkhut	2019	RIO/Avant-Prog	Studio
+3.9712	4.32	18	Ut Gret	Radical Symmetry	2011	RIO/Avant-Prog	Studio
+3.9708	4.18	30	a.P.A.t.T.	Fun With Music	2016	RIO/Avant-Prog	Studio
+3.9702	4.14	37	Sonar	Black Light	2015	RIO/Avant-Prog	Studio
+3.9675	4.36	16	Nazca	Estacion De Sombra	1986	RIO/Avant-Prog	Studio
+3.9673	4.20	27	Non Credo	Happy Wretched Family	1995	RIO/Avant-Prog	Studio
+3.9673	4.25	22	Cazuela de Côndor	Pasion, Panico, Locura y Muerte	2009	RIO/Avant-Prog	Studio
+3.9673	4.20	27	Ground Zero	Consume Red	1997	RIO/Avant-Prog	Studio
+3.9649	4.03	93	Kauhukakara	Eläinten Fanfaari	2011	RIO/Avant-Prog	Studio
+3.9641	4.04	81	Guapo	Black Oni	2005	RIO/Avant-Prog	Studio
+3.9633	3.98	494	Stormy Six	L'Apprendista	1977	RIO/Avant-Prog	Studio
+3.9626	4.07	56	Frank Zappa	Joe's Garage, Acts II & III	1979	RIO/Avant-Prog	Studio
+3.9616	4.19	27	Birdsongs Of The Mesozoic	Petrophonics	2000	RIO/Avant-Prog	Studio
+3.9593	4.83	7	French TV	13: Stories Without Fingerprints	2020	RIO/Avant-Prog	Studio
+3.9588	4.12	37	MeTaL-O-PHoNe	MeTaL-O-PHoNe	2009	RIO/Avant-Prog	Studio
+3.9586	4.36	15	Debile Menthol	Emile Au Jardin Patrologique	1981	RIO/Avant-Prog	Studio
+3.9584	4.21	24	Doctor Nerve	Armed Observation	1987	RIO/Avant-Prog	Studio
+3.9583	4.06	59	Mike Keneally	Wooden Smoke	2001	RIO/Avant-Prog	Studio
+3.9574	4.24	21	Etron Fou Leloublan	Les Poumons Gonflés	1982	RIO/Avant-Prog	Studio
+3.9570	4.12	38	Patrick Gauthier	Bébé Godzilla	1981	RIO/Avant-Prog	Studio
+3.9568	4.31	17	Komintern	Le Bal Du Rat Mort	1971	RIO/Avant-Prog	Studio
+3.9562	4.08	48	Yog Sothoth	Yog Sothoth	1984	RIO/Avant-Prog	Studio
+3.9554	4.23	22	Akinetón Retard	Akranania	2002	RIO/Avant-Prog	Studio
+3.9548	4.00	117	Ars de Er	Symbole	2020	RIO/Avant-Prog	Studio
+3.9535	4.09	44	PinioL	Bran Coucou	2018	RIO/Avant-Prog	Studio
+3.9527	4.23	21	Akinetón Retard	21 Canapés	2003	RIO/Avant-Prog	Studio
+3.9515	4.28	18	Jono El Grande	Phantom Stimulance	2010	RIO/Avant-Prog	Studio
+3.9500	4.05	57	Arteria	Cuatro Visiones	2011	RIO/Avant-Prog	Studio
+3.9499	4.11	37	Taylor's Universe	Worn Out	2013	RIO/Avant-Prog	Studio
+3.9488	4.37	14	Naked City	Radio	1993	RIO/Avant-Prog	Studio
+3.9481	3.99	133	John Zorn	Ipsissimus (with The Moonchild Trio)	2010	RIO/Avant-Prog	Studio
+3.9448	4.06	50	Kayo Dot	Hubardo	2013	RIO/Avant-Prog	Studio
+3.9447	4.04	61	Karmic Juggernaut	The Dreams That Stuff Are Made Of	2018	RIO/Avant-Prog	Studio
+3.9431	4.04	60	Estradasphere	It's Understood	2000	RIO/Avant-Prog	Studio
+3.9423	4.06	50	Aranis	Made in Belgium	2012	RIO/Avant-Prog	Studio
+3.9420	4.18	24	Calomito	Cane di Schiena	2011	RIO/Avant-Prog	Studio
+3.9409	4.08	40	Light Coorporation	Chapter IV / Before the Murmur of Silence	2014	RIO/Avant-Prog	Studio
+3.9407	3.99	115	Akinetón Retard	Akinetón Retard	1999	RIO/Avant-Prog	Studio
+3.9402	4.65	8	Art Bears	Winter Songs	1979	RIO/Avant-Prog	Studio
+3.9400	4.45	11	Hoppy Kamiyama	A Meaningful Meaningnessless	2005	RIO/Avant-Prog	Studio
+3.9387	4.00	91	Non Credo	Impropera	2006	RIO/Avant-Prog	Studio
+3.9383	4.07	44	Cardiacs	Heaven Born and Ever Bright	1992	RIO/Avant-Prog	Studio
+3.9378	4.20	21	5uu's	Abandonship	2002	RIO/Avant-Prog	Studio
+3.9375	4.73	7	Kruzenshtern & Parohod	The Craft of Primitive Klezmer	2003	RIO/Avant-Prog	Studio
+3.9360	4.73	7	Kultur Shock	Kultura-Diktatura	2004	RIO/Avant-Prog	Studio
+3.9360	4.63	8	Bob Drake	The Shunned Country	2005	RIO/Avant-Prog	Studio
+3.9343	3.99	92	Ars de Er	Le Temps Passe	2017	RIO/Avant-Prog	Studio
+3.9334	4.24	18	Art Zoyd	Le Mariage Du Ciel Et De L'Enfer	1985	RIO/Avant-Prog	Studio
+3.9334	3.98	124	Motor Totemist Guild	City of Mirrors	1999	RIO/Avant-Prog	Studio
+3.9327	4.01	74	Lost Crowns	Every Night Something Happens	2019	RIO/Avant-Prog	Studio
+3.9320	4.10	32	Present	High Infidelity	2001	RIO/Avant-Prog	Studio
+3.9313	4.23	18	Taylor's Universe	Return to Whatever	2009	RIO/Avant-Prog	Studio
+3.9303	3.97	124	Charming Hostess	Eat	1999	RIO/Avant-Prog	Studio
+3.9298	4.83	6	The Residents	Meet The Residents	1974	RIO/Avant-Prog	Studio
+3.9298	3.95	224	Greco Bastián	No Cover	2020	RIO/Avant-Prog	Studio
+3.9296	3.99	91	Henry Cow	In Praise Of Learning	1975	RIO/Avant-Prog	Studio
+3.9292	4.08	35	Guapo	History Of The Visitation	2013	RIO/Avant-Prog	Studio
+3.9290	4.00	76	Sebkha Chott	Nagah Mahdi - Opuscrits En 48 Rouleaux	2006	RIO/Avant-Prog	Studio
+3.9289	4.06	42	Yugen	Labirinto D'Acqua	2006	RIO/Avant-Prog	Studio
+3.9287	3.94	583	French TV	Pardon Our French	2004	RIO/Avant-Prog	Studio
+3.9283	4.10	31	Frank Zappa	Waka / Jawaka	1972	RIO/Avant-Prog	Studio
+3.9280	4.24	17	Secret Chiefs 3	Traditionalists: Le Mani Destre Recise Degli Ultimi Uomini	2009	RIO/Avant-Prog	Studio
+3.9275	4.01	63	Jean Cohen-Solal	Captain Tarthopom	1973	RIO/Avant-Prog	Studio
+3.9265	3.99	80	Fred Frith	Gravity	1980	RIO/Avant-Prog	Studio
+3.9264	4.01	65	Zu	Carboniferous	2009	RIO/Avant-Prog	Studio
+3.9261	4.22	18	Miriodor	Mekano	2001	RIO/Avant-Prog	Studio
+3.9260	4.06	40	Tom Moto	Allob Allen	2014	RIO/Avant-Prog	Studio
+3.9257	3.99	88	John Zorn	Simulacrum - The Garden Of Earthly Delights	2017	RIO/Avant-Prog	Studio
+3.9249	4.03	51	Aranis	Made in Belgium II	2014	RIO/Avant-Prog	Studio
+3.9248	4.16	22	NeBeLNeST	NeBeLNeST	1999	RIO/Avant-Prog	Studio
+3.9235	3.95	181	Tipographica	Tipographica	1993	RIO/Avant-Prog	Studio
+3.9233	3.98	88	Univers Zero	Phosphorescent Dreams	2014	RIO/Avant-Prog	Studio
+3.9228	4.04	45	This Heat	This Heat	1979	RIO/Avant-Prog	Studio
+3.9205	4.08	31	Rational Diet	At Work	2008	RIO/Avant-Prog	Studio
+3.9180	4.29	14	Simon Steensland	Fat Again	2009	RIO/Avant-Prog	Studio
+3.9180	3.95	148	Cosa Brava	Ragged Atlas	2010	RIO/Avant-Prog	Studio
+3.9176	4.00	62	black midi	Cavalcade	2021	RIO/Avant-Prog	Studio
+3.9172	4.31	13	PoiL	Sus	2019	RIO/Avant-Prog	Studio
+3.9157	4.15	22	Die Anarchistische Abendunterhaltung	Eight Definitions	2013	RIO/Avant-Prog	Studio
+3.9152	4.02	48	X-Legged Sally	The Land Of The Giant Dwarfs	1996	RIO/Avant-Prog	Studio
+3.9151	4.05	38	Taylor's Universe	Almost Perfected	2017	RIO/Avant-Prog	Studio
+3.9146	3.92	736	Tipographica	God Says I Can't Dance	1996	RIO/Avant-Prog	Studio
+3.9145	3.97	92	Frank Zappa	The Mothers Of Invention: Freak Out!	1966	RIO/Avant-Prog	Studio
+3.9142	3.96	115	Art Bears	The World As It Is Today	1980	RIO/Avant-Prog	Studio
+3.9133	3.92	494	Art Zoyd	Génération Sans Futur	1980	RIO/Avant-Prog	Studio
+3.9130	4.08	31	Frank Zappa	The Mothers Of Invention: Burnt Weeny Sandwich	1970	RIO/Avant-Prog	Studio
+3.9128	4.92	5	Naked City	Heretic - Jeux Des Dames Cruelles (OST)	1992	RIO/Avant-Prog	Studio
+3.9124	4.63	7	Thinking Fellers Union Local 282	I Hope It Lands	1996	RIO/Avant-Prog	Studio
+3.9113	4.05	36	Alex's Hand	Künstler Scheiße	2016	RIO/Avant-Prog	Studio
+3.9110	4.10	27	Boredoms	Super æ	1998	RIO/Avant-Prog	Studio
+3.9107	4.40	10	Factor Burzaco	3	2014	RIO/Avant-Prog	Studio
+3.9080	3.98	69	Albert Marcoeur	Ma vie avec elles	1990	RIO/Avant-Prog	Studio
+3.9069	4.15	20	black midi	Schlagenheim	2019	RIO/Avant-Prog	Studio
+3.9062			Sebkha Chott	De L'Existence. De La Mythologie Chottienne En 7 Cycles	2003	RIO/Avant-Prog	Studio

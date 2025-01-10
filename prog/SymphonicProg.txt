@@ -1,0 +1,250 @@
+4.6466	4.65	4602	Yes	Close to the Edge	1972	Symphonic Prog	Studio
+4.6145	4.61	4004	Genesis	Selling England by the Pound	1973	Symphonic Prog	Studio
+4.5748	4.46	3990	Genesis	Foxtrot	1972	Symphonic Prog	Studio
+4.4318	4.42	3537	Yes	Fragile	1971	Symphonic Prog	Studio
+4.3860	4.41	3013	Genesis	Nursery Cryme	1971	Symphonic Prog	Studio
+4.3738	4.39	2573	Camel	Mirage	1974	Symphonic Prog	Studio
+4.3489	4.38	3429	Camel	Moonmadness	1976	Symphonic Prog	Studio
+4.3460	4.35	1841	Yes	Relayer	1974	Symphonic Prog	Studio
+4.2958	4.31	3259	Änglagård	Hybris	1992	Symphonic Prog	Studio
+4.2820	4.31	3312	Yes	The Yes Album	1971	Symphonic Prog	Studio
+4.2780	4.30	2568	Genesis	The Lamb Lies Down on Broadway	1974	Symphonic Prog	Studio
+4.2594	4.32	1390	Camel	The Snow Goose	1975	Symphonic Prog	Studio
+4.2486	4.28	2910	Renaissance	Scheherazade and Other Stories	1975	Symphonic Prog	Studio
+4.2471	4.35	848	Genesis	A Trick of the Tail	1976	Symphonic Prog	Studio
+4.2303	4.23	2329	Wobbler	From Silence to Somewhere	2017	Symphonic Prog	Studio
+4.1939	4.28	926	Emerson Lake & Palmer	Emerson Lake & Palmer	1970	Symphonic Prog	Studio
+4.1820	4.26	1167	Bacamarte	Depois do Fim	1983	Symphonic Prog	Studio
+4.1774	4.25	1125	Änglagård	Viljans Öga	2012	Symphonic Prog	Studio
+4.1710	4.26	862	Focus	Hamburger Concerto	1974	Symphonic Prog	Studio
+4.1557	4.22	1275	Renaissance	Ashes Are Burning	1973	Symphonic Prog	Studio
+4.1551	4.29	562	Kansas	Leftoverture	1976	Symphonic Prog	Studio
+4.1397	4.33	441	All Traps On Earth	A Drop of Light	2018	Symphonic Prog	Studio
+4.1364	4.16	2088	Wobbler	Dwellers of the Deep	2020	Symphonic Prog	Studio
+4.1197	4.20	944	Emerson Lake & Palmer	Brain Salad Surgery	1973	Symphonic Prog	Studio
+4.1129	4.14	2598	Transatlantic	Bridge Across Forever	2001	Symphonic Prog	Studio
+4.1115	4.14	1806	Genesis	Trespass	1970	Symphonic Prog	Studio
+4.0960	4.21	705	Emerson Lake & Palmer	Trilogy	1972	Symphonic Prog	Studio
+4.0951	4.20	708	Discipline	To Shatter All Accord	2011	Symphonic Prog	Studio
+4.0897	4.18	881	Neal Morse	Sola Scriptura	2007	Symphonic Prog	Studio
+4.0876	4.20	677	Kansas	Point of Know Return	1977	Symphonic Prog	Studio
+4.0832	4.25	452	Neal Morse	? [Aka: Question Mark]	2005	Symphonic Prog	Studio
+4.0798	4.17	879	Discipline	Unfolded Like Staircase	1997	Symphonic Prog	Studio
+4.0779	4.11	2198	Spock's Beard	V	2000	Symphonic Prog	Studio
+4.0752	4.15	812	Genesis	Wind & Wuthering	1976	Symphonic Prog	Studio
+4.0581	4.18	636	Kansas	Song for America	1975	Symphonic Prog	Studio
+4.0568	4.24	382	Camel	The Snow Goose (Re-recording)	2013	Symphonic Prog	Studio
+4.0467	4.15	736	Solaris	Marsbéli Krónikák (Martian Chronicles)	1984	Symphonic Prog	Studio
+4.0449	4.12	903	Renaissance	Turn of the Cards	1974	Symphonic Prog	Studio
+4.0423	4.17	502	Rick Wakeman	The Six Wives of Henry VIII	1973	Symphonic Prog	Studio
+4.0296	4.06	2044	Neal Morse	The Neal Morse Band: The Similitude of a Dream	2016	Symphonic Prog	Studio
+4.0279	4.16	547	Emerson Lake & Palmer	Tarkus	1971	Symphonic Prog	Studio
+4.0261	4.05	2328	Moon Safari	Blomljud	2008	Symphonic Prog	Studio
+4.0224	4.07	973	Yes	Going for the One	1977	Symphonic Prog	Studio
+4.0025	4.09	783	Camel	Rajaz	1999	Symphonic Prog	Studio
+4.0017	4.06	1023	Focus	Focus II [Aka: Moving Waves]	1971	Symphonic Prog	Studio
+3.9958	4.07	855	Transatlantic	The Whirlwind	2009	Symphonic Prog	Studio
+3.9952	4.12	533	Transatlantic	SMPT:e	2000	Symphonic Prog	Studio
+3.9918	4.08	726	Neal Morse	One	2004	Symphonic Prog	Studio
+3.9891	4.17	353	Änglagård	Epilog	1994	Symphonic Prog	Studio
+3.9854	4.16	385	Echolyn	Suffocating the Bloom	1992	Symphonic Prog	Studio
+3.9849	4.06	889	Asia Minor	Between Flesh And Divine	1980	Symphonic Prog	Studio
+3.9823	4.25	246	The Flower Kings	Banks of Eden	2012	Symphonic Prog	Studio
+3.9801	4.24	248	The Enid	In the Region Of The Summer Stars (1984)	1984	Symphonic Prog	Studio
+3.9774	4.15	363	Triana	Triana (El Patio)	1975	Symphonic Prog	Studio
+3.9688	4.26	213	Echolyn	Mei	2002	Symphonic Prog	Studio
+3.9640	4.15	324	José Cid	10.000 Anos Depois Entre Vénus E Marte	1978	Symphonic Prog	Studio
+3.9569	4.03	719	Roine Stolt	The Flower King	1994	Symphonic Prog	Studio
+3.9482	4.03	697	Spock's Beard	Brief Nocturnes and Dreamless Sleep	2013	Symphonic Prog	Studio
+3.9461	4.06	505	The Flower Kings	Back in the World of Adventures	1995	Symphonic Prog	Studio
+3.9420	4.07	450	Karmakanic	Who's the Boss in the Factory?	2008	Symphonic Prog	Studio
+3.9373	4.05	508	Anthony Phillips	The Geese and the Ghost	1977	Symphonic Prog	Studio
+3.9325	4.13	287	Neal Morse	Testimony	2003	Symphonic Prog	Studio
+3.9253	4.01	700	Jordsjø	Nattfiolen	2019	Symphonic Prog	Studio
+3.9251	4.16	250	Kansas	Kansas	1974	Symphonic Prog	Studio
+3.9246	4.02	555	Solaris	Nostradamus Book Of Prophecies	1999	Symphonic Prog	Studio
+3.9201	4.20	207	Echolyn	Echolyn	2012	Symphonic Prog	Studio
+3.9188	4.13	267	Anthony Phillips	Slow Dance	1990	Symphonic Prog	Studio
+3.9176	4.09	332	Refugee	Refugee	1974	Symphonic Prog	Studio
+3.9176	4.18	219	Karfagen	Echoes from Within Dragon Island	2019	Symphonic Prog	Studio
+3.9175	3.95	1490	Atlas	Blå Vardag	1979	Symphonic Prog	Studio
+3.9139	4.00	624	Camel	Camel	1973	Symphonic Prog	Studio
+3.9090	4.00	618	Neal Morse	Testimony 2	2011	Symphonic Prog	Studio
+3.9083	4.17	212	Wobbler	Rites at Dawn	2011	Symphonic Prog	Studio
+3.9074	4.00	512	Crucis	Los Delirios Del Mariscal	1976	Symphonic Prog	Studio
+3.8917	3.91	2729	Chris Squire	Fish Out Of Water	1975	Symphonic Prog	Studio
+3.8917	3.97	659	Yes	Tales from Topographic Oceans	1973	Symphonic Prog	Studio
+3.8840	3.95	779	The Flower Kings	Desolation Rose	2013	Symphonic Prog	Studio
+3.8837	4.08	267	Camel	A Nod and a Wink	2002	Symphonic Prog	Studio
+3.8828	4.06	301	Kotebel	Concerto for Piano and Electric Ensemble	2012	Symphonic Prog	Studio
+3.8826	4.12	225	Solaris	Martian Chronicles II	2014	Symphonic Prog	Studio
+3.8819	4.15	201	Earth And Fire	Song of the Marching Children	1971	Symphonic Prog	Studio
+3.8810	4.08	257	Finch	Glory Of The Inner Force	1975	Symphonic Prog	Studio
+3.8746	3.96	595	Transatlantic	The Absolute Universe - Forevermore (Extended Version)	2021	Symphonic Prog	Studio
+3.8725	3.94	704	The Flower Kings	Flower Power	1999	Symphonic Prog	Studio
+3.8665	4.06	268	The Flower Kings	Stardust We Are	1997	Symphonic Prog	Studio
+3.8663	3.97	460	Anima Mundi	The Way	2010	Symphonic Prog	Studio
+3.8624	4.11	197	Triumvirat	Illusions on a Double Dimple	1974	Symphonic Prog	Studio
+3.8581	3.96	485	Nexus	Metanoia	2001	Symphonic Prog	Studio
+3.8578	4.09	217	Neal Morse	Momentum	2012	Symphonic Prog	Studio
+3.8554	4.32	105	Atoll	L'araignée-mal	1975	Symphonic Prog	Studio
+3.8500	4.13	175	Lars Fredrik Frøislie	Fire Fortellinger	2023	Symphonic Prog	Studio
+3.8500	4.07	220	Los Canarios	Ciclos	1974	Symphonic Prog	Studio
+3.8482	3.94	511	Simon Says	Tardigrade	2008	Symphonic Prog	Studio
+3.8479	3.99	337	Aphrodite's Child	666	1972	Symphonic Prog	Studio
+3.8431	4.10	181	Ange	Au-delà du délire	1974	Symphonic Prog	Studio
+3.8390	4.12	168	Pollen	Pollen	1976	Symphonic Prog	Studio
+3.8376	4.05	213	Invisible	El jardín de los presentes	1976	Symphonic Prog	Studio
+3.8310	4.09	180	Anyone's Daughter	Adonis	1979	Symphonic Prog	Studio
+3.8301	3.97	338	Citizen Cain	Somewhere but Yesterday	1994	Symphonic Prog	Studio
+3.8290	4.17	138	Neal Morse	The Neal Morse Band: The Great Adventure	2019	Symphonic Prog	Studio
+3.8288	4.02	235	Cast	Vigesimus	2021	Symphonic Prog	Studio
+3.8240	4.45	71	Kaipa	Solo	1978	Symphonic Prog	Studio
+3.8185	4.19	120	The Enid	Aerie Faerie Nonsense	1977	Symphonic Prog	Studio
+3.8167	3.95	333	MIA	Cornonstipicum	1978	Symphonic Prog	Studio
+3.8166	4.00	247	Echolyn	As the World	1995	Symphonic Prog	Studio
+3.8166	3.88	714	Kaipa	Inget Nytt Under Solen	1976	Symphonic Prog	Studio
+3.8139	3.91	448	Spock's Beard	The Light	1995	Symphonic Prog	Studio
+3.8118	3.88	624	Magic Pie	The Suffering Joy	2011	Symphonic Prog	Studio
+3.8074	3.97	261	The Flower Kings	Space Revolver	2000	Symphonic Prog	Studio
+3.8068	3.88	624	Fright Pig	Out Of The Barnyard	2013	Symphonic Prog	Studio
+3.8061	4.11	143	The Flower Kings	Unfold the Future	2002	Symphonic Prog	Studio
+3.8037	4.03	194	Gòtic	Escenes	1978	Symphonic Prog	Studio
+3.8035	4.08	157	Pulsar	Halloween	1977	Symphonic Prog	Studio
+3.8020	4.35	78	Finch	Beyond Expression	1976	Symphonic Prog	Studio
+3.8008	4.03	185	Pazzo Fanfano Di Musica	Pazzo Fanfano Di Musica	1989	Symphonic Prog	Studio
+3.7990	3.96	259	Deluge Grander	August in the Urals	2006	Symphonic Prog	Studio
+3.7971	3.85	731	Agents Of Mercy	The Black Forest	2011	Symphonic Prog	Studio
+3.7970	4.02	191	Spock's Beard	Snow	2002	Symphonic Prog	Studio
+3.7952	4.00	207	After Crying	Megalázottak És Megszomorítottak	1992	Symphonic Prog	Studio
+3.7948	3.98	227	After Crying	Overground Music	1990	Symphonic Prog	Studio
+3.7947	4.21	102	Neuschwanstein	Battlement	1979	Symphonic Prog	Studio
+3.7943	4.15	119	Anthony Phillips	Field Day	2005	Symphonic Prog	Studio
+3.7934	4.13	123	Pär Lindh Project	Mundus Incompertus	1997	Symphonic Prog	Studio
+3.7925	4.18	108	Sinkadus	Cirkus	1999	Symphonic Prog	Studio
+3.7907	4.04	163	Hands	Hands	1996	Symphonic Prog	Studio
+3.7900	3.88	448	La Máquina De Hacer Pájaros	La Máquina De Hacer Pájaros	1976	Symphonic Prog	Studio
+3.7895	4.08	142	Moon Safari	Lover's End	2010	Symphonic Prog	Studio
+3.7888	4.05	159	Mezquita	Recuerdos De Mi Tierra	1979	Symphonic Prog	Studio
+3.7885	3.97	225	Nexus	Perpetuum Karma	2006	Symphonic Prog	Studio
+3.7864	3.90	340	Jordsjø	Jord	2017	Symphonic Prog	Studio
+3.7840	3.93	272	Moon Safari	Himlabacken Vol. 1	2013	Symphonic Prog	Studio
+3.7837	4.03	165	Karmakanic	Dot	2016	Symphonic Prog	Studio
+3.7832	3.90	332	Ange	Guet-Apens	1978	Symphonic Prog	Studio
+3.7829	3.93	255	Kaipa	Vittjar	2012	Symphonic Prog	Studio
+3.7777	3.99	189	Karfagen	Birds of Passage	2020	Symphonic Prog	Studio
+3.7773	4.06	142	Karfagen	Messages from Afar: First Contact	2017	Symphonic Prog	Studio
+3.7763	4.15	105	Antony Kalugin	Marshmallow Moondust	2020	Symphonic Prog	Studio
+3.7756	4.03	155	Seven Reizh	Strinkadenn' Ys	2001	Symphonic Prog	Studio
+3.7747	3.91	287	Izz	The Darkened Room	2009	Symphonic Prog	Studio
+3.7744	4.06	139	Karfagen	Lost Symphony	2011	Symphonic Prog	Studio
+3.7744	3.93	250	Karfagen	Land of Green and Gold	2022	Symphonic Prog	Studio
+3.7734	4.11	116	England	Garden Shed	1977	Symphonic Prog	Studio
+3.7726	3.87	401	Crack	Si Todo Hiciera Crack	1979	Symphonic Prog	Studio
+3.7707	4.13	108	Triumvirat	Spartacus	1975	Symphonic Prog	Studio
+3.7696	3.83	673	Gustavo Santhiago	Animam	2016	Symphonic Prog	Studio
+3.7693	4.05	136	Transatlantic	Kaleidoscope	2014	Symphonic Prog	Studio
+3.7692	3.98	176	Nexus	Detrás Del Umbral	1999	Symphonic Prog	Studio
+3.7650	4.12	108	The Enid	Invicta	2012	Symphonic Prog	Studio
+3.7645	3.92	239	O Terço	Criaturas Da Noite	1975	Symphonic Prog	Studio
+3.7629	3.87	369	Fruupp	Future Legends	1973	Symphonic Prog	Studio
+3.7625	4.05	132	Spock's Beard	The Oblivion Particle	2015	Symphonic Prog	Studio
+3.7623	3.85	456	Kotebel	Ouroboros	2009	Symphonic Prog	Studio
+3.7621	3.82	621	Wobbler	Hinterland	2005	Symphonic Prog	Studio
+3.7618	4.10	110	The Flower Kings	The Sum of No Evil	2007	Symphonic Prog	Studio
+3.7612	3.87	339	Atila	Reviure	1978	Symphonic Prog	Studio
+3.7607	4.19	87	Glass Hammer	If	2010	Symphonic Prog	Studio
+3.7605	3.78	1939	Mona Lisa	Avant Qu'il Ne Soit Trop Tard	1977	Symphonic Prog	Studio
+3.7599	3.89	290	Yes	Drama	1980	Symphonic Prog	Studio
+3.7594	3.90	264	Magic Pie	Circus Of Life	2007	Symphonic Prog	Studio
+3.7593	4.11	106	Kaipa	Kaipa	1975	Symphonic Prog	Studio
+3.7579	3.91	241	Collegium Musicum	Konvergencie	1971	Symphonic Prog	Studio
+3.7571	4.13	99	Izz	Don't Panic	2019	Symphonic Prog	Studio
+3.7571	3.95	190	Life Line Project	Armenia	2013	Symphonic Prog	Studio
+3.7570	3.93	217	Citizen Cain	Skies Darken	2012	Symphonic Prog	Studio
+3.7569	3.89	283	Shadow Circus	On A Dark And Stormy Night	2012	Symphonic Prog	Studio
+3.7566	4.03	134	White Willow	Terminal Twilight	2011	Symphonic Prog	Studio
+3.7537	4.02	138	Pär Lindh Project	Gothic Impressions	1994	Symphonic Prog	Studio
+3.7535	3.96	182	Karfagen	Spektra	2016	Symphonic Prog	Studio
+3.7535	3.93	205	White Willow	Storm Season	2004	Symphonic Prog	Studio
+3.7510	3.94	191	Anima Mundi	I Me Myself	2016	Symphonic Prog	Studio
+3.7498	3.84	403	Cast	Power And Outcome	2017	Symphonic Prog	Studio
+3.7490	3.90	240	Wobbler	Afterglow	2009	Symphonic Prog	Studio
+3.7477	3.85	345	Echolyn	The End Is Beautiful	2005	Symphonic Prog	Studio
+3.7470	3.97	158	Neal Morse	The Neal Morse Band: The Grand Experiment	2015	Symphonic Prog	Studio
+3.7466	3.91	213	Roine Stolt	Hydrophonia	1998	Symphonic Prog	Studio
+3.7432	3.81	563	Agents Of Mercy	Dramarama	2010	Symphonic Prog	Studio
+3.7430	3.83	408	Focus	3	1973	Symphonic Prog	Studio
+3.7416	3.91	202	Kaipa	In the Wake of Evolution	2010	Symphonic Prog	Studio
+3.7404	3.97	152	Grobschnitt	Grobschnitt	1972	Symphonic Prog	Studio
+3.7400	3.87	275	Trace	Birds	1975	Symphonic Prog	Studio
+3.7387	4.29	63	Grobschnitt	Rockpommel's Land	1977	Symphonic Prog	Studio
+3.7369	3.85	309	The Chronicles of Father Robin	The Songs & Tales of Airoea Book I: The Tale of Father Robin (State of Nature)	2023	Symphonic Prog	Studio
+3.7357	4.03	116	Magic Pie	Motions of Desire	2005	Symphonic Prog	Studio
+3.7356	3.95	151	Pentacle	La Clef des Songes	1975	Symphonic Prog	Studio
+3.7308	4.02	112	Kotebel	Cosmology	2017	Symphonic Prog	Studio
+3.7263	3.80	461	Zoundworks	2014	2014	Symphonic Prog	Studio
+3.7263	3.97	138	Renaissance	Novella	1977	Symphonic Prog	Studio
+3.7255	3.78	591	Karfagen	Solitary Sandpiper Journey	2010	Symphonic Prog	Studio
+3.7241	3.98	126	Spock's Beard	X	2010	Symphonic Prog	Studio
+3.7237	4.14	78	Triana	Hijos Del Agobio	1977	Symphonic Prog	Studio
+3.7232	3.85	255	Seven Reizh	Samsara	2006	Symphonic Prog	Studio
+3.7223	3.98	124	Kaipa	Sattyg	2014	Symphonic Prog	Studio
+3.7213	3.97	129	Amenophis	Amenophis	1983	Symphonic Prog	Studio
+3.7205	4.12	82	La Máquina De Hacer Pájaros	Peliculas	1977	Symphonic Prog	Studio
+3.7202	3.99	117	Grand Stand	Tricks Of Time	2002	Symphonic Prog	Studio
+3.7186	4.02	108	Solaris	Nostradamus 2.0 - Returnity	2019	Symphonic Prog	Studio
+3.7185	3.97	125	Life Line Project	20 Years After	2012	Symphonic Prog	Studio
+3.7167	3.99	114	Traumhaus	Das Geheimnis	2013	Symphonic Prog	Studio
+3.7157	4.26	58	Karfagen	Principles and Theory of Spektra	2020	Symphonic Prog	Studio
+3.7153	3.91	161	Pär Lindh and Björn Johansson	Dreamsongs From Middle Earth	2004	Symphonic Prog	Studio
+3.7149	3.89	178	Neal Morse	NMB: Innocence & Danger	2021	Symphonic Prog	Studio
+3.7149	3.88	188	Kaipa Da Capo	Dårskapens Monotoni	2016	Symphonic Prog	Studio
+3.7137	3.86	217	Izz	Crush Of Night	2012	Symphonic Prog	Studio
+3.7124	3.81	325	Glass Hammer	Perilous	2012	Symphonic Prog	Studio
+3.7117	4.04	96	Kansas	The Prelude Implicit	2016	Symphonic Prog	Studio
+3.7107	4.08	84	Antony Kalugin	Chameleon Shapeshifter	2021	Symphonic Prog	Studio
+3.7100	3.94	132	Clearlight	Impressionist Symphony	2014	Symphonic Prog	Studio
+3.7089	3.94	135	Babylon	Babylon	1978	Symphonic Prog	Studio
+3.7085	3.90	162	Ellesmere	II - From Sea And Beyond	2018	Symphonic Prog	Studio
+3.7083	3.85	223	David Minasian	Random Acts of Beauty	2010	Symphonic Prog	Studio
+3.7080	3.75	694	Clearlight	Clearlight Symphony	1975	Symphonic Prog	Studio
+3.7066	3.84	236	Camel	Harbour Of Tears	1996	Symphonic Prog	Studio
+3.7062	3.76	519	Kaipa	Notes from the Past	2002	Symphonic Prog	Studio
+3.7055	3.92	142	Renaissance	Prologue	1972	Symphonic Prog	Studio
+3.7055	4.01	99	Druckfarben	Second Sound	2014	Symphonic Prog	Studio
+3.7047	3.73	1278	Exodus	The Most Beautiful Day	1980	Symphonic Prog	Studio
+3.7037	3.88	170	Yes	Magnification	2001	Symphonic Prog	Studio
+3.7037	3.81	290	White Willow	Sacrament	2000	Symphonic Prog	Studio
+3.7025	3.93	128	Rick Wakeman	Criminal Record	1977	Symphonic Prog	Studio
+3.7005	3.89	157	Sinkadus	Aurum Nostrum	1997	Symphonic Prog	Studio
+3.7002	3.98	107	Trace	Trace	1974	Symphonic Prog	Studio
+3.7001	3.85	197	Antony Kalugin	Stellar Gardener	2021	Symphonic Prog	Studio
+3.6989	3.77	426	Echolyn	Cowboy Poems Free	2000	Symphonic Prog	Studio
+3.6985	3.75	611	Renaissance	Renaissance	1969	Symphonic Prog	Studio
+3.6982	4.01	94	The Flower Kings	Retropolis	1996	Symphonic Prog	Studio
+3.6981	3.89	153	Glass Hammer	Skallagrim: Into the Breach	2021	Symphonic Prog	Studio
+3.6972	3.87	166	Proto-Kaw	Before Became After	2004	Symphonic Prog	Studio
+3.6952	3.90	143	Karfagen	7	2015	Symphonic Prog	Studio
+3.6949	3.94	117	Neal Morse	Sola Gratia	2020	Symphonic Prog	Studio
+3.6939	3.75	539	Cast	Arsis	2014	Symphonic Prog	Studio
+3.6936	3.92	127	Spock's Beard	The Kindness of Strangers	1998	Symphonic Prog	Studio
+3.6932	3.97	104	5Bridges	The Thomas Tracks	2008	Symphonic Prog	Studio
+3.6930	4.06	79	Schicke & Führs & Fröhling	Symphonic Pictures	1976	Symphonic Prog	Studio
+3.6922	4.16	61	Jordsjø	Jordsjø	2015	Symphonic Prog	Studio
+3.6904	4.07	73	Karfagen	Passage to the Forest of Mysterious	2023	Symphonic Prog	Studio
+3.6879	3.81	228	Kvazar	A Giant's Lullaby	2005	Symphonic Prog	Studio
+3.6864	4.06	75	The Flower Kings	Islands	2020	Symphonic Prog	Studio
+3.6854	3.98	96	Horizont	The Portrait Of A Boy	1989	Symphonic Prog	Studio
+3.6853	4.44	37	Trion	Pilgrim	2007	Symphonic Prog	Studio
+3.6848	4.05	75	Holy Lamb	Beneath The Skin (A Transgressive Rock Tale)	2002	Symphonic Prog	Studio
+3.6844	3.81	223	Cai	Noche Abierta	1980	Symphonic Prog	Studio
+3.6832	3.75	437	Cathedral	Stained Glass Stories	1978	Symphonic Prog	Studio
+3.6830	3.80	230	Renaissance	A Song for All Seasons	1978	Symphonic Prog	Studio
+3.6824	3.86	158	Echolyn	I Heard You Listening	2015	Symphonic Prog	Studio
+3.6820	3.81	210	Arachnoid	Arachnoid	1979	Symphonic Prog	Studio
+3.6806	3.78	276	Rick Wakeman	The Red Planet	2020	Symphonic Prog	Studio
+3.6797	4.14	59	Kaipa	Keyholder	2003	Symphonic Prog	Studio
+3.6790	3.87	140	Mister Robot	Fables for Robots	2020	Symphonic Prog	Studio
+3.6789	3.85	162	Magic Pie	Fragments Of The 5th Element	2019	Symphonic Prog	Studio
+3.6787			Pulsar	The Strands Of The Future	1976	Symphonic Prog	Studio

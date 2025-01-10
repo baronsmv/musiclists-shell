@@ -1,0 +1,250 @@
+4.3426	4.33	1432	Miles Davis	Kind of Blue	1959	Jazz Rock/Fusion	Studio
+4.3161	4.30	813	Mahavishnu Orchestra	Birds of Fire	1973	Jazz Rock/Fusion	Studio
+4.2758	4.29	1096	Return To Forever	Romantic Warrior	1976	Jazz Rock/Fusion	Studio
+4.2736	4.27	836	Mahavishnu Orchestra	The Inner Mounting Flame	1971	Jazz Rock/Fusion	Studio
+4.2483	4.34	179	Miles Davis	In A Silent Way	1969	Jazz Rock/Fusion	Studio
+4.2460	4.26	829	Sloche	Stadaconé	1976	Jazz Rock/Fusion	Studio
+4.2457	4.33	188	Miles Davis	Bitches Brew	1970	Jazz Rock/Fusion	Studio
+4.2433	4.29	343	Blue Effect (Modrý Efekt)	Svitanie	1977	Jazz Rock/Fusion	Studio
+4.2432	4.27	659	Nucleus	We'll Talk About It Later	1971	Jazz Rock/Fusion	Studio
+4.2416	4.25	879	Billy Cobham	Spectrum	1973	Jazz Rock/Fusion	Studio
+4.2343	4.27	394	Al Di Meola	Elegant Gypsy	1977	Jazz Rock/Fusion	Studio
+4.2294	4.27	332	Jean-Luc Ponty	Enigmatic Ocean	1977	Jazz Rock/Fusion	Studio
+4.2267	4.59	42	Hiromi Uehara	Hiromi's Sonicbloom: Time Control	2007	Jazz Rock/Fusion	Studio
+4.2249	4.25	676	Eddie Henderson	Realization	1973	Jazz Rock/Fusion	Studio
+4.2227	4.31	160	Santana	Abraxas	1970	Jazz Rock/Fusion	Studio
+4.2177	4.27	292	Blue Effect (Modrý Efekt)	Svět Hledačů	1979	Jazz Rock/Fusion	Studio
+4.2173	4.27	256	Maneige	Les Porches	1975	Jazz Rock/Fusion	Studio
+4.2157	4.28	185	Arti E Mestieri	Tilt - Immagini Per Un Orecchio	1974	Jazz Rock/Fusion	Studio
+4.2019	4.31	135	Blue Effect (Modrý Efekt)	A Benefit of Radim Hladík [Aka: Modrý Efekt & Radim Hladík]	1974	Jazz Rock/Fusion	Studio
+4.1991	4.22	773	Dewa Budjana	Mahandini	2018	Jazz Rock/Fusion	Studio
+4.1962	4.24	349	Santana	Caravanserai	1972	Jazz Rock/Fusion	Studio
+4.1952	4.22	448	Herbie Hancock	Crossings	1972	Jazz Rock/Fusion	Studio
+4.1862	4.24	253	Colosseum	Valentyne Suite	1969	Jazz Rock/Fusion	Studio
+4.1823	4.40	64	Pat Metheny	Pat Metheny Group: The Way Up	2005	Jazz Rock/Fusion	Studio
+4.1793	4.24	204	Arco Iris	Sudamérica - O el regreso a la aurora	1972	Jazz Rock/Fusion	Studio
+4.1739	4.33	88	Sloche	J'un oeil	1975	Jazz Rock/Fusion	Studio
+4.1687	4.72	25	Forgas Band Phenomena	L'Axe Du Fou - Axis Of Madness	2009	Jazz Rock/Fusion	Studio
+4.1670	4.26	133	Dark	Tamna Voda	1988	Jazz Rock/Fusion	Studio
+4.1601	4.64	28	Miles Davis	Big Fun	1974	Jazz Rock/Fusion	Studio
+4.1567	4.43	50	Guillaume Perret & The Electric Epic	Guillaume Perret & The Electric Epic	2012	Jazz Rock/Fusion	Studio
+4.1554	4.40	55	Gunesh Ensemble	Вижу Землю / Looking At The Earth	1984	Jazz Rock/Fusion	Studio
+4.1524	4.21	225	Wayne Shorter	Speak No Evil	1965	Jazz Rock/Fusion	Studio
+4.1500	4.22	184	Herbie Hancock	Maiden Voyage	1965	Jazz Rock/Fusion	Studio
+4.1495	4.36	64	Pekka Pohjola	Harakka Bialoipokku [Aka: B The Magpie]	1974	Jazz Rock/Fusion	Studio
+4.1480	4.18	388	Syrinx	Qualia	2009	Jazz Rock/Fusion	Studio
+4.1468	4.20	238	Steely Dan	Aja	1977	Jazz Rock/Fusion	Studio
+4.1442	4.18	369	Mahavishnu Orchestra	The Lost Trident Sessions	1999	Jazz Rock/Fusion	Studio
+4.1435	4.26	109	Return To Forever	Hymn of the Seventh Galaxy	1973	Jazz Rock/Fusion	Studio
+4.1385	4.25	112	Eberhard Weber	The Colours Of Chloë	1974	Jazz Rock/Fusion	Studio
+4.1374	4.38	53	Spinetta Jade	Alma De Diamante	1980	Jazz Rock/Fusion	Studio
+4.1373	4.32	73	Terje Rypdal	Terje Rypdal	1971	Jazz Rock/Fusion	Studio
+4.1369	4.30	76	Arco Iris	Agitor Lucens V	1975	Jazz Rock/Fusion	Studio
+4.1294	4.18	231	Leb I Sol	Leb I Sol 2	1978	Jazz Rock/Fusion	Studio
+4.1285	4.19	198	Herbie Hancock	Sextant	1973	Jazz Rock/Fusion	Studio
+4.1283	4.18	239	Jean-Luc Ponty	Mystical Adventures	1982	Jazz Rock/Fusion	Studio
+4.1264	4.17	302	Chicago	Chicago [Aka: Chicago  II]	1970	Jazz Rock/Fusion	Studio
+4.1262	4.17	266	Jeff Beck	Blow By Blow	1975	Jazz Rock/Fusion	Studio
+4.1255	4.20	155	Miles Davis	A Tribute To Jack Johnson	1971	Jazz Rock/Fusion	Studio
+4.1196	4.18	210	Pat Metheny	Secret Story	1992	Jazz Rock/Fusion	Studio
+4.1173	4.15	368	Dixie Dregs	What If	1978	Jazz Rock/Fusion	Studio
+4.1151	4.21	129	Bill Bruford	Bruford: One of a Kind	1979	Jazz Rock/Fusion	Studio
+4.1131	4.21	133	Miles Davis	Get Up With It	1974	Jazz Rock/Fusion	Studio
+4.1126	4.25	85	Dedalus	Dedalus	1973	Jazz Rock/Fusion	Studio
+4.1085	4.13	445	The Keith Tippett Group	Dedicated To You, But You Weren't Listening	1971	Jazz Rock/Fusion	Studio
+4.1011	4.18	146	Santana	Santana	1969	Jazz Rock/Fusion	Studio
+4.1002	4.22	100	Accordo Dei Contrari	Violato Intatto	2017	Jazz Rock/Fusion	Studio
+4.0993	4.27	73	One Shot	Dark Shot	2008	Jazz Rock/Fusion	Studio
+4.0993	4.29	63	Arco Iris	Los Elementales	1977	Jazz Rock/Fusion	Studio
+4.0991	4.18	144	Smak	Crna Dama [Aka: Black Lady]	1977	Jazz Rock/Fusion	Studio
+4.0966	4.12	396	Pat Metheny	Pat Metheny & Lyle Mays: As Falls Wichita, So Falls Wichita Falls	1981	Jazz Rock/Fusion	Studio
+4.0932	4.17	147	Brand X	Unorthodox Behaviour	1976	Jazz Rock/Fusion	Studio
+4.0919	4.22	92	Miles Davis	Miles Davis Quintet: Miles Smiles	1966	Jazz Rock/Fusion	Studio
+4.0912	4.58	24	Opus-5	Contre-Courant	1976	Jazz Rock/Fusion	Studio
+4.0883	4.19	115	Solar Plexus	Solar Plexus [Aka: Concerto Grosso]	1972	Jazz Rock/Fusion	Studio
+4.0863	4.32	50	Tasavallan Presidentti	Lambertland	1972	Jazz Rock/Fusion	Studio
+4.0843	4.15	182	Ralph Towner	Solstice	1975	Jazz Rock/Fusion	Studio
+4.0823	4.33	48	Miles Davis	Milestones	1958	Jazz Rock/Fusion	Studio
+4.0823	4.23	78	Jukka Tolonen	The Hook	1974	Jazz Rock/Fusion	Studio
+4.0821	4.16	151	Rahmann	Rahmann	1979	Jazz Rock/Fusion	Studio
+4.0815	4.12	285	Miles Davis	'Round About Midnight	1957	Jazz Rock/Fusion	Studio
+4.0813	4.24	71	Return To Forever	Where Have I Known You Before	1974	Jazz Rock/Fusion	Studio
+4.0799	4.18	105	One Shot	Ewaz Vader	2006	Jazz Rock/Fusion	Studio
+4.0744	4.19	102	Pekka Pohjola	Pihkasilmä Kaarnakorva	1972	Jazz Rock/Fusion	Studio
+4.0741	4.21	81	Iceberg	Sentiments	1977	Jazz Rock/Fusion	Studio
+4.0705	4.12	239	Jan Hammer	Jan Hammer Group: Oh,Yeah?	1976	Jazz Rock/Fusion	Studio
+4.0704	4.13	179	Wigwam	Fairyport	1971	Jazz Rock/Fusion	Studio
+4.0694	4.14	151	Pekka Pohjola	Visitation	1979	Jazz Rock/Fusion	Studio
+4.0694	4.14	138	Pat Metheny	Pat Metheny Group: Offramp	1982	Jazz Rock/Fusion	Studio
+4.0601	4.20	79	Fermáta	Huascaran	1977	Jazz Rock/Fusion	Studio
+4.0596	4.18	88	Tony Williams Lifetime	Believe It	1975	Jazz Rock/Fusion	Studio
+4.0578	4.21	72	Niacin	Organik	2005	Jazz Rock/Fusion	Studio
+4.0547	4.12	145	Demon Fuzz	Afreaka!	1970	Jazz Rock/Fusion	Studio
+4.0456	4.43	28	Guthrie Govan	Erotic Cakes	2006	Jazz Rock/Fusion	Studio
+4.0440	4.12	143	Música Urbana	Iberia	1978	Jazz Rock/Fusion	Studio
+4.0432	4.11	159	Herbie Hancock	Thrust	1974	Jazz Rock/Fusion	Studio
+4.0402	4.22	60	Maneige	Maneige	1975	Jazz Rock/Fusion	Studio
+4.0394	4.14	100	Leb I Sol	Rucni Rad	1979	Jazz Rock/Fusion	Studio
+4.0391	4.34	35	Secret Oyster	Straight to the Krankenhaus	1976	Jazz Rock/Fusion	Studio
+4.0391	4.08	259	Larry Coryell	Barefoot Boy	1971	Jazz Rock/Fusion	Studio
+4.0386	4.07	303	Chicago	The Chicago Transit Authority	1969	Jazz Rock/Fusion	Studio
+4.0373	4.30	39	Brand X	Moroccan Roll	1977	Jazz Rock/Fusion	Studio
+4.0345	4.22	56	Companyia Elèctrica Dharma	Diumenge	1975	Jazz Rock/Fusion	Studio
+4.0324	4.27	44	McLuhan	Anomaly	1972	Jazz Rock/Fusion	Studio
+4.0317	4.39	29	Antoine Fafard	Ad Perpetuum	2014	Jazz Rock/Fusion	Studio
+4.0311	4.17	76	Carla Bley	Escalator Over the Hill (with Paul Haines)	1971	Jazz Rock/Fusion	Studio
+4.0306	4.12	114	Kenso	Fabulis Mirabilibus De Bombycosi Scriptis	2002	Jazz Rock/Fusion	Studio
+4.0306	4.07	259	Blue Effect (Modrý Efekt)	33	1981	Jazz Rock/Fusion	Studio
+4.0304	4.11	134	Steely Dan	Countdown to Ecstasy	1973	Jazz Rock/Fusion	Studio
+4.0290	4.21	56	Pat Metheny	Pat Metheny Group	1978	Jazz Rock/Fusion	Studio
+4.0290	4.34	33	John Abercrombie	Gateway: Gateway	1975	Jazz Rock/Fusion	Studio
+4.0274	4.59	18	Eberhard Weber	The Following Morning	1977	Jazz Rock/Fusion	Studio
+4.0264	4.28	41	Sintesis	Sintesis	1976	Jazz Rock/Fusion	Studio
+4.0262	4.37	30	David Torn	Cloud About Mercury	1987	Jazz Rock/Fusion	Studio
+4.0261	4.08	192	Marbin	Last Chapter Of Dreaming	2013	Jazz Rock/Fusion	Studio
+4.0260	4.19	61	Planet X	Quantum	2007	Jazz Rock/Fusion	Studio
+4.0250	4.18	64	D.F.A.	Lavori In Corso	1996	Jazz Rock/Fusion	Studio
+4.0233	4.11	122	Eberhard Weber	Yellow Fields	1976	Jazz Rock/Fusion	Studio
+4.0232	4.13	95	Chicago	Chicago VII	1974	Jazz Rock/Fusion	Studio
+4.0229	4.28	40	Mar De Robles	Indígena	2007	Jazz Rock/Fusion	Studio
+4.0226	4.31	35	I Know You Well Miss Clara	Chapter One	2013	Jazz Rock/Fusion	Studio
+4.0209	4.07	199	Smak	Zasto Ne Volim Sneg	1981	Jazz Rock/Fusion	Studio
+4.0196	4.13	90	Brand X	Masques	1978	Jazz Rock/Fusion	Studio
+4.0171	4.13	89	Fermáta	Fermáta	1975	Jazz Rock/Fusion	Studio
+4.0167	4.11	107	Crimson Jazz Trio	King Crimson Songbook, Volume One	2005	Jazz Rock/Fusion	Studio
+4.0160	4.30	35	Pat Metheny	Watercolors	1977	Jazz Rock/Fusion	Studio
+4.0138	4.05	303	Ángel Ontalva	Mundo Flotante	2012	Jazz Rock/Fusion	Studio
+4.0137	4.46	22	Return To Forever	Chick Corea: Return to Forever	1972	Jazz Rock/Fusion	Studio
+4.0136	4.31	33	David Sancious	Just As I Thought	1979	Jazz Rock/Fusion	Studio
+4.0134	4.15	69	Good God	Good God	1972	Jazz Rock/Fusion	Studio
+4.0099	4.14	75	KBB	Lost And Found	2000	Jazz Rock/Fusion	Studio
+4.0076	4.19	53	Jazz Q	Symbiosis	1974	Jazz Rock/Fusion	Studio
+4.0073	4.40	25	Accordo Dei Contrari	UR-	2021	Jazz Rock/Fusion	Studio
+4.0071	4.10	103	Material	Hallucination Engine	1994	Jazz Rock/Fusion	Studio
+4.0059	4.36	27	D.F.A.	4th	2008	Jazz Rock/Fusion	Studio
+4.0040	4.16	61	Mouse on the Keys	An Anxious Object	2009	Jazz Rock/Fusion	Studio
+4.0038	4.07	150	A Triggering Myth	The Remedy Of Abstraction	2006	Jazz Rock/Fusion	Studio
+4.0024	4.14	69	Miles Davis	Miles Davis Quintet: Nefertiti	1968	Jazz Rock/Fusion	Studio
+4.0009	4.04	227	D.F.A.	Duty Free Area	1999	Jazz Rock/Fusion	Studio
+4.0007	4.12	78	Miles Davis	Sketches Of Spain	1960	Jazz Rock/Fusion	Studio
+4.0003	4.07	135	Kenso	Yume No Oka	1991	Jazz Rock/Fusion	Studio
+3.9966	4.05	190	Pat Metheny	From This Place	2020	Jazz Rock/Fusion	Studio
+3.9961	4.35	26	Allan Holdsworth	Metal Fatigue	1985	Jazz Rock/Fusion	Studio
+3.9925	4.09	98	Terje Rypdal	Terje Rypdal, Miroslav Vitous & Jack DeJohnette: To Be Continued	1981	Jazz Rock/Fusion	Studio
+3.9913	4.84	11	Herbie Hancock	Mwandishi	1971	Jazz Rock/Fusion	Studio
+3.9909	4.28	32	Ginga Rale Band	Wir Bedauern...	1980	Jazz Rock/Fusion	Studio
+3.9907	4.10	82	Jan Garbarek	Rites	1998	Jazz Rock/Fusion	Studio
+3.9900	4.02	302	Flamengo	Kuře v Hodinkách	1972	Jazz Rock/Fusion	Studio
+3.9899	4.15	59	Weather Report	Black Market	1976	Jazz Rock/Fusion	Studio
+3.9895	4.45	20	Gadi Caplan	Morning Sun	2016	Jazz Rock/Fusion	Studio
+3.9882	4.08	104	Hermeto Pascoal	Zabumbê-bum-á	1979	Jazz Rock/Fusion	Studio
+3.9881	4.53	17	Miles Davis	Porgy and Bess	1958	Jazz Rock/Fusion	Studio
+3.9874	4.07	107	Bill Frisell	Unspeakable	2004	Jazz Rock/Fusion	Studio
+3.9866	4.19	44	Deus Ex Machina	Cinque	2002	Jazz Rock/Fusion	Studio
+3.9858	4.05	146	A Triggering Myth	Forgiving Eden	2002	Jazz Rock/Fusion	Studio
+3.9858	4.20	43	Maneige	Ni Vent... Ni Nouvelle	1977	Jazz Rock/Fusion	Studio
+3.9844	4.08	92	L' Orchestre Sympathique	En concert à la Grande Passe	1979	Jazz Rock/Fusion	Studio
+3.9838	4.14	58	The Web	I Spider	1970	Jazz Rock/Fusion	Studio
+3.9833	4.24	35	Imán Califato Independiente	Califato Independiente	1978	Jazz Rock/Fusion	Studio
+3.9817	4.16	52	Farmers Market	Slav To The Rhythm	2012	Jazz Rock/Fusion	Studio
+3.9814	4.21	40	Herbie Hancock	Speak Like A Child	1968	Jazz Rock/Fusion	Studio
+3.9804	4.80	11	Panzerballett	Hart Genossen Von ABBA Bis Zappa	2009	Jazz Rock/Fusion	Studio
+3.9800	4.54	16	Sukellusvene	Vesi- Ja Lintumusiikkia	1979	Jazz Rock/Fusion	Studio
+3.9796	4.00	342	John McLaughlin	Molom - A Legend Of Mongolia (OST)	1995	Jazz Rock/Fusion	Studio
+3.9781	4.05	126	Santana	Santana 3	1971	Jazz Rock/Fusion	Studio
+3.9773	4.17	47	Allan Holdsworth	I.O.U.	1982	Jazz Rock/Fusion	Studio
+3.9766	4.47	18	Terje Rypdal	Descendre	1980	Jazz Rock/Fusion	Studio
+3.9764	4.10	70	Tiemko	Clône	1995	Jazz Rock/Fusion	Studio
+3.9761	4.14	54	Al Di Meola	Flesh On Flesh	2002	Jazz Rock/Fusion	Studio
+3.9747	4.61	14	Uzva	Uoma	2006	Jazz Rock/Fusion	Studio
+3.9745	4.06	100	Ascorbic Acid	People	2016	Jazz Rock/Fusion	Studio
+3.9742	4.07	93	Derek Sherinian	Blood of the Snake	2006	Jazz Rock/Fusion	Studio
+3.9727	4.24	33	Embryo	Embryo's Rache	1971	Jazz Rock/Fusion	Studio
+3.9715	4.09	77	Virgil Donati	In This Life	2013	Jazz Rock/Fusion	Studio
+3.9713	4.05	114	Kenso	Kenso II	1982	Jazz Rock/Fusion	Studio
+3.9706	4.14	53	Hiromi Uehara	The Trio Project: Voice	2011	Jazz Rock/Fusion	Studio
+3.9705	4.05	104	Embryo	Embryo's Reise	1979	Jazz Rock/Fusion	Studio
+3.9705	4.09	74	Osibisa	Woyaya	1971	Jazz Rock/Fusion	Studio
+3.9703	4.14	50	Secret Oyster	Secret Oyster [Aka: Furtive Pearl]	1973	Jazz Rock/Fusion	Studio
+3.9694	4.34	23	Spaced Out	Slow Gin	2003	Jazz Rock/Fusion	Studio
+3.9666	4.40	20	Wayne Shorter	Night Dreamer	1964	Jazz Rock/Fusion	Studio
+3.9665	4.54	15	Firyuza	Фирюза / Firyuza	1979	Jazz Rock/Fusion	Studio
+3.9655	4.04	115	Jan Garbarek	Jan Garbarek Group: It's OK to Listen to the Gray Voice	1985	Jazz Rock/Fusion	Studio
+3.9650	4.19	39	Miles Davis	Miles Davis Quintet: Miles in the Sky	1968	Jazz Rock/Fusion	Studio
+3.9649	4.06	88	Eyot	Similarity	2014	Jazz Rock/Fusion	Studio
+3.9641	4.12	56	Miles Davis	Seven Steps To Heaven	1963	Jazz Rock/Fusion	Studio
+3.9640	4.50	16	Panzerballett	Starke Stücke	2008	Jazz Rock/Fusion	Studio
+3.9633	4.50	16	Wayne Shorter	Adam's Apple	1966	Jazz Rock/Fusion	Studio
+3.9633	4.50	16	Bill Frisell	East/West	2005	Jazz Rock/Fusion	Studio
+3.9633	4.50	16	Bill Frisell	Good Dog, Happy Man	1999	Jazz Rock/Fusion	Studio
+3.9633	4.06	89	Ghost Rhythms	Sept Cercles	2012	Jazz Rock/Fusion	Studio
+3.9632	4.05	100	Iceberg	Coses Nostres	1976	Jazz Rock/Fusion	Studio
+3.9632	4.03	132	The Wrong Object	After The Exhibition	2013	Jazz Rock/Fusion	Studio
+3.9624	4.08	72	Kraan	Kraan	1972	Jazz Rock/Fusion	Studio
+3.9600	4.11	57	Klan	Mrowisko	1971	Jazz Rock/Fusion	Studio
+3.9580	4.06	82	However	Sudden Dusk	1981	Jazz Rock/Fusion	Studio
+3.9578	4.38	20	Embryo	We Keep On	1973	Jazz Rock/Fusion	Studio
+3.9575	4.02	128	Bela Fleck and The Flecktones	Outbound	2000	Jazz Rock/Fusion	Studio
+3.9560	4.23	31	Utopianisti	The Third Frontier	2016	Jazz Rock/Fusion	Studio
+3.9550	4.01	146	Antoine Fafard	Solus Operandi	2011	Jazz Rock/Fusion	Studio
+3.9532	4.59	13	Dean Watson	Elements	2012	Jazz Rock/Fusion	Studio
+3.9523	4.18	37	Tigran Hamasyan	Red Hail [Aratta Rebirth]	2009	Jazz Rock/Fusion	Studio
+3.9522	4.50	15	Hermeto Pascoal	Slaves Mass	1977	Jazz Rock/Fusion	Studio
+3.9502	4.12	48	Screaming Headless Torsos	Screaming Headless Torsos [also known as 1995]	1995	Jazz Rock/Fusion	Studio
+3.9485	4.07	66	Arti E Mestieri	Universi Paralleli	2015	Jazz Rock/Fusion	Studio
+3.9472	4.32	22	Deus Ex Machina	Equilibrismo da Insofferenza	1998	Jazz Rock/Fusion	Studio
+3.9471	4.15	40	Jan Garbarek	Legend Of The Seven Dreams	1988	Jazz Rock/Fusion	Studio
+3.9464	4.17	36	Alas	Mímame Bandoneón	2003	Jazz Rock/Fusion	Studio
+3.9459	4.15	39	CAB	CAB	2000	Jazz Rock/Fusion	Studio
+3.9455	4.35	20	David Sancious	Forest Of Feelings	1975	Jazz Rock/Fusion	Studio
+3.9448	4.17	35	Eberhard Weber	Endless Days	2001	Jazz Rock/Fusion	Studio
+3.9438	4.37	19	Kenso	Utsuroi Yuku Mono	2006	Jazz Rock/Fusion	Studio
+3.9435	4.13	42	Arcana	Arc of the Testimony	1997	Jazz Rock/Fusion	Studio
+3.9430	4.03	89	Energit	Energit	1975	Jazz Rock/Fusion	Studio
+3.9426	4.06	66	Maneige	Libre Service - Self Service	1978	Jazz Rock/Fusion	Studio
+3.9421	4.04	80	Leb I Sol	Leb I Sol	1978	Jazz Rock/Fusion	Studio
+3.9419	4.06	70	Perigeo	Azimut	1972	Jazz Rock/Fusion	Studio
+3.9408	4.01	123	Out Of Focus	Not Too Late	1999	Jazz Rock/Fusion	Studio
+3.9403	4.05	76	Ain Soph	A Story of Mysterious Forest	1980	Jazz Rock/Fusion	Studio
+3.9403	4.14	39	Moogg	Italian Luxury Style	2016	Jazz Rock/Fusion	Studio
+3.9401	4.07	61	Jukka Tolonen	Hysterica	1975	Jazz Rock/Fusion	Studio
+3.9399	4.06	69	Forgas Band Phenomena	Acte V	2012	Jazz Rock/Fusion	Studio
+3.9397	4.47	15	Etna	Etna	1975	Jazz Rock/Fusion	Studio
+3.9395	4.10	50	Placebo	Marc Moulin - Sam Suffy	1975	Jazz Rock/Fusion	Studio
+3.9385	4.47	15	Bill Bruford's Earthworks	The Sound of Surprise	2001	Jazz Rock/Fusion	Studio
+3.9380	3.97	267	John Scofield	Hand Jive	1994	Jazz Rock/Fusion	Studio
+3.9379	4.24	26	Herbie Hancock	The Herbie Hancock Group: Head Hunters	1973	Jazz Rock/Fusion	Studio
+3.9370	4.09	51	Música Urbana	Música Urbana	1976	Jazz Rock/Fusion	Studio
+3.9367	4.54	13	Jan Hammer	The First Seven Days	1975	Jazz Rock/Fusion	Studio
+3.9349	3.97	204	Simon Phillips	Protocol II	2013	Jazz Rock/Fusion	Studio
+3.9348	4.07	58	Al Di Meola	Land Of The Midnight Sun	1976	Jazz Rock/Fusion	Studio
+3.9345	4.58	12	Dewa Budjana	Hasta Karma	2015	Jazz Rock/Fusion	Studio
+3.9331	4.19	30	Bill Frisell	Gone, Just Like a Train	1997	Jazz Rock/Fusion	Studio
+3.9330	4.01	107	CAB	CAB4	2003	Jazz Rock/Fusion	Studio
+3.9325	4.22	27	Pat Metheny	Pat Metheny Group: Imaginary Day	1997	Jazz Rock/Fusion	Studio
+3.9321	3.98	165	Steve Tibbetts	Yr	1980	Jazz Rock/Fusion	Studio
+3.9300	4.36	18	Planet X	MoonBabies	2002	Jazz Rock/Fusion	Studio
+3.9293	4.00	108	Farmers Market	Surfin' USSR	2008	Jazz Rock/Fusion	Studio
+3.9288	4.16	33	Miles Davis	Miles Davis Quintet: Sorcerer	1967	Jazz Rock/Fusion	Studio
+3.9284	4.11	42	Eberhard Weber	Eberhard Weber Colours: Silent Feet	1977	Jazz Rock/Fusion	Studio
+3.9283	4.06	60	Oregon	Out Of The Woods	1978	Jazz Rock/Fusion	Studio
+3.9282	4.00	105	Al Di Meola	World Sinfonia: The Grande Passion	2000	Jazz Rock/Fusion	Studio
+3.9272	4.69	10	Out Of Focus	Four Letter Monday Afternoon	1972	Jazz Rock/Fusion	Studio
+3.9266	3.98	147	Bushman's Revenge	Thou Shalt Boogie!	2013	Jazz Rock/Fusion	Studio
+3.9258	4.18	30	Carlos Santana	Carlos Santana & John McLaughlin: Love Devotion Surrender	1973	Jazz Rock/Fusion	Studio
+3.9258	4.56	12	Laboratorium	Quasimodo	1979	Jazz Rock/Fusion	Studio
+3.9256	4.20	28	From	Power On!	1972	Jazz Rock/Fusion	Studio
+3.9255	4.29	21	Wayne Shorter	JuJu	1964	Jazz Rock/Fusion	Studio
+3.9247	4.10	42	Bill Frisell	Have a Little Faith	1993	Jazz Rock/Fusion	Studio
+3.9235	3.95	250	Lenny White	Venusian Summer	1975	Jazz Rock/Fusion	Studio
+3.9230	4.46	14	Bill Bruford	Bruford: Feels Good to Me	1978	Jazz Rock/Fusion	Studio
+3.9230	4.15	33	Medeski  Martin & Wood	Radiolarians III	2009	Jazz Rock/Fusion	Studio
+3.9222	4.09	45	Terje Rypdal	Terje Rypdal - Miroslav Vitous - Jack DeJohnette	1979	Jazz Rock/Fusion	Studio
+3.9216	4.04	64	Jazz Q	Elegie (as Jazz Q Martina Kratochvila)	1976	Jazz Rock/Fusion	Studio
+3.9212	4.00	100	7 for 4	Contact	2001	Jazz Rock/Fusion	Studio
+3.9209	4.00	89	Carlos Santana	Carlos Santana & Alice Coltrane: Illuminations	1974	Jazz Rock/Fusion	Studio
+3.9205	3.97	161	Embryo	Rocksession	1973	Jazz Rock/Fusion	Studio
+3.9193	4.06	51	Nucleus	Elastic Rock	1970	Jazz Rock/Fusion	Studio
+3.9167	3.98	122	Korni Grupa (Kornelyans)	Kornelyans: Not an Ordinary Life	1974	Jazz Rock/Fusion	Studio
+3.9159	4.08	45	Hiromi Uehara	The Trio Project: Spark	2016	Jazz Rock/Fusion	Studio
+3.9158			Panzerballett	Planet Z	2020	Jazz Rock/Fusion	Studio

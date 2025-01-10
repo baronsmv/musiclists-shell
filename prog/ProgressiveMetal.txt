@@ -1,0 +1,250 @@
+4.2982	4.31	3141	Dream Theater	Metropolis Part 2 - Scenes from a Memory	1999	Progressive Metal	Studio
+4.2978	4.24	1852	Dream Theater	Images and Words	1992	Progressive Metal	Studio
+4.2276	4.24	1192	Riverside	Second Life Syndrome	2005	Progressive Metal	Studio
+4.2209	4.24	1275	Queensrÿche	Operation: Mindcrime	1988	Progressive Metal	Studio
+4.2152	4.23	1328	Pain Of Salvation	Remedy Lane	2002	Progressive Metal	Studio
+4.2063	4.22	1412	Pain Of Salvation	The Perfect Element - Part 1	2000	Progressive Metal	Studio
+4.2040	4.20	1237	Riverside	Anno Domini High Definition	2009	Progressive Metal	Studio
+4.1824	4.20	1294	Ayreon	The Human Equation	2004	Progressive Metal	Studio
+4.1786	4.16	2292	Riverside	Out of Myself	2003	Progressive Metal	Studio
+4.1505	4.16	2152	Dream Theater	Awake	1994	Progressive Metal	Studio
+4.1479	4.14	783	Dream Theater	Six Degrees of Inner Turbulence	2002	Progressive Metal	Studio
+4.1159	4.14	811	Symphony X	V - The New Mythology Suite	2000	Progressive Metal	Studio
+4.1147	4.16	446	Ayreon	Into the Electric Castle	1998	Progressive Metal	Studio
+4.1119	4.15	415	Fates Warning	A Pleasant Shade Of Gray	1997	Progressive Metal	Studio
+4.1041	4.13	641	Sieges Even	The Art of Navigating by the Stars	2005	Progressive Metal	Studio
+4.1019	4.17	279	Symphony X	The Divine Wings of Tragedy	1997	Progressive Metal	Studio
+4.0988	4.37	75	Angra	Temple of Shadows	2004	Progressive Metal	Studio
+4.0974	4.15	324	Scardust	Strangers	2020	Progressive Metal	Studio
+4.0900	4.20	172	Redemption	The Fullness of Time	2005	Progressive Metal	Studio
+4.0895	4.13	462	Royal Hunt	Paradox	1997	Progressive Metal	Studio
+4.0851	4.11	631	Fates Warning	Perfect Symmetry	1989	Progressive Metal	Studio
+4.0828	4.09	941	Liquid Tension Experiment	Liquid Tension Experiment 2	1999	Progressive Metal	Studio
+4.0679	4.14	255	Pain Of Salvation	Be	2004	Progressive Metal	Studio
+4.0676	4.11	448	Psychotic Waltz	Into The Everflow	1992	Progressive Metal	Studio
+4.0659	4.09	618	Shadow Gallery	Room V	2005	Progressive Metal	Studio
+4.0646	4.26	96	Pain Of Salvation	Entropia	1997	Progressive Metal	Studio
+4.0624	4.07	852	David Maxim Micic	Bilo 3.0	2013	Progressive Metal	Studio
+4.0529	4.07	1140	Riverside	Love, Fear And The Time Machine	2015	Progressive Metal	Studio
+4.0514	4.19	122	Riverside	Shrine of New Generation Slaves	2013	Progressive Metal	Studio
+4.0466	4.10	327	Zero Hour	The Towers of Avarice	2001	Progressive Metal	Studio
+4.0423	4.11	253	Kamelot	The Black Halo	2005	Progressive Metal	Studio
+4.0407	4.08	385	Savatage	Streets - A Rock Opera	1991	Progressive Metal	Studio
+4.0379	4.10	273	Fates Warning	Disconnected	2000	Progressive Metal	Studio
+4.0365	4.09	317	Psychotic Waltz	A Social Grace	1990	Progressive Metal	Studio
+4.0343	4.15	154	Threshold	Critical Mass	2002	Progressive Metal	Studio
+4.0333	4.07	424	Diablo Swing Orchestra	Pacifisticuffs	2017	Progressive Metal	Studio
+4.0332	4.12	193	Fates Warning	Parallels	1991	Progressive Metal	Studio
+4.0303	4.10	246	Therion	Theli	1996	Progressive Metal	Studio
+4.0280	4.21	90	Angra	Holy Land	1996	Progressive Metal	Studio
+4.0239	4.11	188	Katatonia	Viva Emptiness	2003	Progressive Metal	Studio
+4.0202	4.04	663	Therion	Vovin	1998	Progressive Metal	Studio
+4.0190	4.07	312	Ayreon	The Theory of Everything	2013	Progressive Metal	Studio
+4.0183	4.07	309	Arch / Matheos	Sympathetic Resonance	2011	Progressive Metal	Studio
+4.0158	4.08	247	Blind Guardian	Nightfall In Middle-Earth	1998	Progressive Metal	Studio
+4.0120	4.09	200	Caligula's Horse	The Tide, the Thief & River's End	2013	Progressive Metal	Studio
+4.0101	4.19	87	Mind's Eye	A Gentleman's Hurricane	2007	Progressive Metal	Studio
+4.0066	4.15	107	Matraz	Gritaré	2004	Progressive Metal	Studio
+4.0047	4.05	327	Soul Doubt	The Dance Of Light And Shade	2017	Progressive Metal	Studio
+4.0024	4.07	219	Shadow Gallery	Tyranny	1998	Progressive Metal	Studio
+4.0006	4.05	267	Redemption	The Origins of Ruin	2007	Progressive Metal	Studio
+3.9938	4.07	200	Seventh Wonder	The Great Escape	2010	Progressive Metal	Studio
+3.9930	4.14	104	Evergrey	In Search of Truth	2001	Progressive Metal	Studio
+3.9896	4.13	99	Shaman	Ritual	2002	Progressive Metal	Studio
+3.9825	4.07	170	Katatonia	Last Fair Deal Gone Down	2001	Progressive Metal	Studio
+3.9819	4.02	398	Pagan's Mind	Celestial Entrance	2002	Progressive Metal	Studio
+3.9799	4.01	469	Queensrÿche	Rage For Order	1986	Progressive Metal	Studio
+3.9790	4.27	51	Threshold	March of Progress	2012	Progressive Metal	Studio
+3.9775	4.41	34	Toehider	I Have Little to No Memory of these Memories	2022	Progressive Metal	Studio
+3.9769	4.03	263	Thought Industry	Songs for Insects	1992	Progressive Metal	Studio
+3.9717	4.03	233	Ark	Burn The Sun	2001	Progressive Metal	Studio
+3.9709	4.04	211	Katatonia	The Fall Of Hearts	2016	Progressive Metal	Studio
+3.9706	4.14	84	Diablo Swing Orchestra	Sing-Along Songs for the Damned & Delirious	2009	Progressive Metal	Studio
+3.9700	4.04	193	Spheric Universe Experience	Mental Torments	2005	Progressive Metal	Studio
+3.9661	4.05	173	Savatage	Edge of Thorns	1993	Progressive Metal	Studio
+3.9640	4.06	147	Sieges Even	A Sense Of Change	1991	Progressive Metal	Studio
+3.9635	4.43	30	Darkwater	Calling The Earth To Witness	2007	Progressive Metal	Studio
+3.9621	4.57	23	Avenged Sevenfold	The Stage	2016	Progressive Metal	Studio
+3.9615	4.34	37	Sithu Aye	Invent the Universe	2012	Progressive Metal	Studio
+3.9613	4.14	77	Ok Goodnight	The Fox and the Bird	2023	Progressive Metal	Studio
+3.9611	3.98	550	Nekropsi	Mi Kubbesi	1996	Progressive Metal	Studio
+3.9568	4.50	25	Riverside	Wasteland	2018	Progressive Metal	Studio
+3.9544	4.02	199	Thought Industry	Mods Carve The Pig - Assassins, Toads And God's Flesh	1993	Progressive Metal	Studio
+3.9521	4.07	114	Seventh Wonder	Mercy Falls	2008	Progressive Metal	Studio
+3.9513	3.99	305	To-Mera	Delusions	2008	Progressive Metal	Studio
+3.9492	4.01	207	Threshold	Hypothetical	2001	Progressive Metal	Studio
+3.9492	4.07	107	Savatage	Gutter Ballet	1989	Progressive Metal	Studio
+3.9485	4.00	276	Beyond Twilight	Section X	2005	Progressive Metal	Studio
+3.9473	4.06	120	Myrath	Tales of the Sands	2011	Progressive Metal	Studio
+3.9467	4.04	140	Abydos	The Little Boy's Heavy Mental Shadow Opera About the Inhabitants of His Diary	2004	Progressive Metal	Studio
+3.9452	3.98	409	Adagio	Underworld	2003	Progressive Metal	Studio
+3.9448	3.97	607	Queensrÿche	Promised Land	1994	Progressive Metal	Studio
+3.9441	4.00	248	Symphony X	The Odyssey	2002	Progressive Metal	Studio
+3.9430	4.02	175	Vanden Plas	Christ 0	2006	Progressive Metal	Studio
+3.9424	4.00	230	Votum	Harvest Moon	2013	Progressive Metal	Studio
+3.9396	4.24	42	Riverside	ID.Entity	2023	Progressive Metal	Studio
+3.9364	3.98	279	Vauxdvihl	To Dimension Logic	1994	Progressive Metal	Studio
+3.9347	4.01	159	Threshold	Legends of the Shires	2017	Progressive Metal	Studio
+3.9317	4.00	171	Circle of Illusion	Jeremias - Foreshadow of Forgotten Realms	2013	Progressive Metal	Studio
+3.9307	3.97	279	Crimson Glory	Transcendence	1988	Progressive Metal	Studio
+3.9274	4.64	17	Threshold	Subsurface	2004	Progressive Metal	Studio
+3.9226	4.15	53	Sithu Aye	Cassini	2011	Progressive Metal	Studio
+3.9218	3.99	188	Voyager	I Am The ReVolution	2009	Progressive Metal	Studio
+3.9214	4.03	114	Vanden Plas	Beyond Daylight	2002	Progressive Metal	Studio
+3.9205	4.07	80	Conception	In Your Multitude	1995	Progressive Metal	Studio
+3.9204	4.00	149	Shaolin Death Squad	Intelligent Design	2006	Progressive Metal	Studio
+3.9166	4.09	69	Shaolin Death Squad	Five Deadly Venoms	2010	Progressive Metal	Studio
+3.9153	4.17	46	Vanden Plas	The Ghost Xperiment - Illumination	2020	Progressive Metal	Studio
+3.9123	3.95	308	Fughu	Human (The Facts)	2013	Progressive Metal	Studio
+3.9120	3.95	263	Fates Warning	Theories of Flight	2016	Progressive Metal	Studio
+3.9102	4.11	59	Nightwish	Oceanborn	1998	Progressive Metal	Studio
+3.9094	3.98	162	Mindflow	Just The Two of US Me and Them	2004	Progressive Metal	Studio
+3.9081	4.03	95	Beyond Twilight	For the Love of Art and the Making	2006	Progressive Metal	Studio
+3.9075	4.01	114	Inside The Sound	Wizard's Eyes	2017	Progressive Metal	Studio
+3.9069	3.95	234	Earthside	A Dream In Static	2015	Progressive Metal	Studio
+3.9053	3.96	187	Blind Guardian	Imaginations From The Other Side	1995	Progressive Metal	Studio
+3.9038	3.94	317	Caligula's Horse	In Contact	2017	Progressive Metal	Studio
+3.9031	3.95	236	Fates Warning	Awaken The Guardian	1986	Progressive Metal	Studio
+3.9001	4.07	67	Hemina	Synthetic	2012	Progressive Metal	Studio
+3.8993	4.34	25	Dreamscape	5th Season	2007	Progressive Metal	Studio
+3.8976	4.10	54	Hubi Meisel	EmOcean	2003	Progressive Metal	Studio
+3.8975	4.03	84	Mind Key	Journey Of A Rough Diamond	2004	Progressive Metal	Studio
+3.8962	3.91	588	Umpfel	As the Waters Cover the Sea	2019	Progressive Metal	Studio
+3.8959	3.98	132	Pain Of Salvation	One Hour By The Concrete Lake	1998	Progressive Metal	Studio
+3.8946	4.04	74	Therion	Secret of the Runes	2001	Progressive Metal	Studio
+3.8930	4.01	93	Skyharbor	Guiding Lights	2014	Progressive Metal	Studio
+3.8928	3.94	224	Katatonia	Night Is The New Day	2009	Progressive Metal	Studio
+3.8926	3.96	156	Distorted Harmony	Utopia	2012	Progressive Metal	Studio
+3.8923	4.10	51	Ephemeral Sun	Harvest Aorta	2010	Progressive Metal	Studio
+3.8901	4.21	33	Poverty's No Crime	The Chemical Chaos	2003	Progressive Metal	Studio
+3.8890	4.00	91	Persona Grata	Reaching Places High Above	2013	Progressive Metal	Studio
+3.8879	3.94	181	Ice Age	The Great Divide	1999	Progressive Metal	Studio
+3.8865	3.97	124	Amaran's Plight	Voice In The Light	2007	Progressive Metal	Studio
+3.8857	3.96	149	Amaseffer	Slaves For Life	2008	Progressive Metal	Studio
+3.8852	3.94	183	Flaming Row	Mirage - A Portrayal Of Figures	2014	Progressive Metal	Studio
+3.8846	3.92	277	Angra	Angels Cry	1993	Progressive Metal	Studio
+3.8842	4.24	29	Ayreon	The Source	2017	Progressive Metal	Studio
+3.8835	3.99	93	Wilderun	Sleep at the Edge of the Earth	2015	Progressive Metal	Studio
+3.8823	3.90	690	Katatonia	Dead End Kings	2012	Progressive Metal	Studio
+3.8817	3.97	121	Ayreon	01011001	2008	Progressive Metal	Studio
+3.8814	3.93	216	Joseph Magazine	Night Of The Red Sky	2011	Progressive Metal	Studio
+3.8810	4.05	60	Redemption	Snowfall on Judgment Day	2009	Progressive Metal	Studio
+3.8807	4.23	29	Threshold	Dividing Lines	2022	Progressive Metal	Studio
+3.8807	4.00	84	Eumeria	Rebel Mind	2011	Progressive Metal	Studio
+3.8789	3.98	101	Votum	Metafiction	2009	Progressive Metal	Studio
+3.8780	4.36	21	Kingcrow	The Persistence	2018	Progressive Metal	Studio
+3.8776	3.93	177	Azazello	Upstairs	2001	Progressive Metal	Studio
+3.8769	3.92	216	Diablo Swing Orchestra	Pandora's Piñata	2012	Progressive Metal	Studio
+3.8765	3.90	406	Blind Guardian	A Night At The Opera	2002	Progressive Metal	Studio
+3.8748	3.91	260	Pain Of Salvation	In the Passing Light of Day	2017	Progressive Metal	Studio
+3.8744	3.94	138	Caligula's Horse	Bloom	2015	Progressive Metal	Studio
+3.8731	3.92	196	Epica	The Divine Conspiracy	2007	Progressive Metal	Studio
+3.8730	3.94	148	Sieges Even	Paramount	2007	Progressive Metal	Studio
+3.8704	3.97	95	To-Mera	Exile	2012	Progressive Metal	Studio
+3.8681	3.94	130	Mägo De Oz	Gaia	2003	Progressive Metal	Studio
+3.8671	4.10	40	Psychotic Waltz	Bleeding	1996	Progressive Metal	Studio
+3.8656	4.43	17	Pantommind	Shade Of Fate	2005	Progressive Metal	Studio
+3.8651	4.02	62	Artificial Silence	Negative Space	2018	Progressive Metal	Studio
+3.8648	3.93	142	Konom	Konom	2021	Progressive Metal	Studio
+3.8639	3.91	183	Myrath	Hope	2007	Progressive Metal	Studio
+3.8632	4.14	34	Diablo Swing Orchestra	The Butcher's Ballroom	2006	Progressive Metal	Studio
+3.8626	4.65	12	Pomegranate Tiger	Entities	2013	Progressive Metal	Studio
+3.8621	3.99	75	Bumblefoot	Ron Thal/The Adventures Of Bumblefoot	1995	Progressive Metal	Studio
+3.8611	4.22	26	Flaming Row	Elinoire	2011	Progressive Metal	Studio
+3.8606	3.91	201	Flaming Row	The Pure Shine	2019	Progressive Metal	Studio
+3.8602	4.00	65	Guilt Machine	On This Perfect Day	2009	Progressive Metal	Studio
+3.8582	3.90	229	Voyager	The Meaning Of I	2011	Progressive Metal	Studio
+3.8575	3.96	93	TesseracT	Altered State	2013	Progressive Metal	Studio
+3.8573	3.93	133	Royal Hunt	Moving Target	1995	Progressive Metal	Studio
+3.8570	4.02	56	Ark	Ark	1999	Progressive Metal	Studio
+3.8564	3.90	188	Periphery	Periphery IV: Hail Stan	2019	Progressive Metal	Studio
+3.8558	3.89	289	Circus Maximus	Nine	2012	Progressive Metal	Studio
+3.8555	3.98	74	Fates Warning	No Exit	1988	Progressive Metal	Studio
+3.8554	4.18	28	Wilderun	Veil of Imagination	2019	Progressive Metal	Studio
+3.8549	4.31	20	Tony MacAlpine	Edge Of Insanity	1986	Progressive Metal	Studio
+3.8548	3.95	95	Tolerance	When Time Stops	2013	Progressive Metal	Studio
+3.8547	3.91	147	Voyager	V	2014	Progressive Metal	Studio
+3.8527	3.94	100	Distorted Harmony	Chain Reaction	2014	Progressive Metal	Studio
+3.8503	3.90	167	Katatonia	The Great Cold Distance	2006	Progressive Metal	Studio
+3.8480	4.08	37	Caligula's Horse	Moments from Ephemeral City	2011	Progressive Metal	Studio
+3.8465	3.96	75	Vola	Applause of a Distant Crowd	2018	Progressive Metal	Studio
+3.8463	3.94	88	Zero Hour	Dark Deceiver	2008	Progressive Metal	Studio
+3.8442	4.06	40	Dropshard	Silk	2014	Progressive Metal	Studio
+3.8440	4.45	14	Turbulence	Frontal	2021	Progressive Metal	Studio
+3.8438	3.92	112	Dynahead	Antigen	2008	Progressive Metal	Studio
+3.8432	4.49	13	Adagio	Sanctus Ignis	2001	Progressive Metal	Studio
+3.8407	4.15	27	Digital Ruin	Listen	1997	Progressive Metal	Studio
+3.8407	4.89	8	Aeon Zen	Transversal	2021	Progressive Metal	Studio
+3.8402	4.07	37	Aviations	Luminaria	2023	Progressive Metal	Studio
+3.8401	4.07	36	Cynthesis	ReEvolution	2013	Progressive Metal	Studio
+3.8400	4.22	22	Tony MacAlpine	Maximum Security	1987	Progressive Metal	Studio
+3.8396	3.91	124	Wuthering Heights	To Travel for Evermore	2002	Progressive Metal	Studio
+3.8392	3.94	80	Epica	Design Your Universe	2009	Progressive Metal	Studio
+3.8387	3.84	1759	Sieges Even	Sophisticated	1995	Progressive Metal	Studio
+3.8387	3.96	70	Dream Theater	A Dramatic Turn of Events	2011	Progressive Metal	Studio
+3.8375	4.47	13	Charlie Griffiths	Tiktaalika	2022	Progressive Metal	Studio
+3.8365	4.04	40	Polkadot Cadaver	Purgatory Dance Party	2007	Progressive Metal	Studio
+3.8360	4.16	25	Toehider	I Like It!	2020	Progressive Metal	Studio
+3.8349	4.38	15	Outworld	Outworld	2006	Progressive Metal	Studio
+3.8342	3.92	89	Ricochet	Among the Elements	1996	Progressive Metal	Studio
+3.8331	3.90	128	Epica	The Phantom Agony	2003	Progressive Metal	Studio
+3.8330	3.96	64	Savatage	Poets & Madmen	2001	Progressive Metal	Studio
+3.8326	3.88	159	An Endless Sporadic	An Endless Sporadic	2009	Progressive Metal	Studio
+3.8318	3.93	78	Myrath	Desert Call	2010	Progressive Metal	Studio
+3.8315	3.85	477	Lalu	Paint the Sky	2022	Progressive Metal	Studio
+3.8310	4.71	9	Liquid Tension Experiment	Liquid Tension Experiment	1998	Progressive Metal	Studio
+3.8307	4.02	42	Bumblefoot	Hands	1998	Progressive Metal	Studio
+3.8290	4.29	17	Nightingale	Retribution	2014	Progressive Metal	Studio
+3.8281	4.10	29	Alex Argento	EGO	2007	Progressive Metal	Studio
+3.8279	4.20	21	Octopus	Bonsai	2006	Progressive Metal	Studio
+3.8278	3.87	175	Extrovert	Making the Ocean Awake	2005	Progressive Metal	Studio
+3.8270	4.09	29	Savatage	Hall of the Mountain King	1987	Progressive Metal	Studio
+3.8268	3.90	106	Pantommind	Lunasense	2009	Progressive Metal	Studio
+3.8259	3.88	135	Thought Chamber	Psykerion	2013	Progressive Metal	Studio
+3.8249	3.94	68	Vanden Plas	The God Thing	1997	Progressive Metal	Studio
+3.8249	3.88	141	Toxic Smile	Farewell	2015	Progressive Metal	Studio
+3.8248	4.14	24	Therion	Lemuria	2004	Progressive Metal	Studio
+3.8242	3.96	56	Epysode	Fantasmagoria	2013	Progressive Metal	Studio
+3.8232	4.17	22	Until Rain	Anthem to Creation	2013	Progressive Metal	Studio
+3.8225	4.29	16	Suspyre	A Great Divide	2007	Progressive Metal	Studio
+3.8221	4.11	26	Ihlo	Union	2019	Progressive Metal	Studio
+3.8215	3.92	73	Superior	Ultima Ratio	2002	Progressive Metal	Studio
+3.8202	3.86	189	Gru	Cosmogenesis	2010	Progressive Metal	Studio
+3.8197	4.00	41	Kamelot	Epica	2003	Progressive Metal	Studio
+3.8191	3.84	335	Art of Illusion	Cold War Of Solipsism	2018	Progressive Metal	Studio
+3.8189	4.13	24	Fates Warning	Darkness In A Different Light	2013	Progressive Metal	Studio
+3.8180	4.38	13	TesseracT	War of Being	2023	Progressive Metal	Studio
+3.8180	3.88	118	Umpfel	Cactus	2015	Progressive Metal	Studio
+3.8158	3.88	111	Scale The Summit	The Collective	2011	Progressive Metal	Studio
+3.8158	4.20	19	Anubis Gate	Andromeda Unchained	2007	Progressive Metal	Studio
+3.8153	3.89	92	Kiko Loureiro	Universo Inverso	2006	Progressive Metal	Studio
+3.8144	3.85	203	Votum	Time Must Have a Stop	2008	Progressive Metal	Studio
+3.8142	3.90	85	Wolverine	Communication Lost	2011	Progressive Metal	Studio
+3.8138	3.88	101	After Forever	After Forever	2007	Progressive Metal	Studio
+3.8127	3.84	265	John Petrucci	Terminal Velocity	2020	Progressive Metal	Studio
+3.8125	4.09	26	Shadow Gallery	Digital Ghosts	2009	Progressive Metal	Studio
+3.8124	4.15	21	Altesia	Embryo	2021	Progressive Metal	Studio
+3.8119	4.03	32	Heaven's Cry	Food For Thought Substitute	1997	Progressive Metal	Studio
+3.8119	4.13	22	Azazello	MegaDream	2013	Progressive Metal	Studio
+3.8114	3.93	60	Fragile Vastness	A Tribute to Life	2005	Progressive Metal	Studio
+3.8111	3.91	74	Toxic Smile	7	2013	Progressive Metal	Studio
+3.8108	4.81	7	Lacrimosa	Elodia	1999	Progressive Metal	Studio
+3.8104	4.16	20	Noah Histeria	Hautefaye	2017	Progressive Metal	Studio
+3.8094	4.08	26	Cosmosquad	Cosmosquad	1997	Progressive Metal	Studio
+3.8092	4.20	18	Toehider	Good	2017	Progressive Metal	Studio
+3.8091	3.85	146	Glass Mind	Dodecaedro	2017	Progressive Metal	Studio
+3.8074	4.15	20	Hemina	Nebulae	2014	Progressive Metal	Studio
+3.8070	4.13	21	Anasazi	1000 Yard Stare	2014	Progressive Metal	Studio
+3.8069	3.87	106	Adramelch	Broken History	2005	Progressive Metal	Studio
+3.8066	4.30	14	For All We Know	For All We Know	2011	Progressive Metal	Studio
+3.8066	4.08	25	Soul Cages	Moments	1996	Progressive Metal	Studio
+3.8065	4.07	26	Avenged Sevenfold	City of Evil	2005	Progressive Metal	Studio
+3.8055	3.84	188	Lake Of Tears	The Neonai	2002	Progressive Metal	Studio
+3.8049	3.87	108	Evergrey	The Inner Circle	2004	Progressive Metal	Studio
+3.8046	3.92	56	Seventh Wonder	Waiting in the Wings	2006	Progressive Metal	Studio
+3.8041	4.16	19	Vangough	Between The Madness	2013	Progressive Metal	Studio
+3.8040	4.47	10	Zierler	ESC	2015	Progressive Metal	Studio
+3.8036	4.14	20	Bumblefoot	9.11	2001	Progressive Metal	Studio
+3.8033	4.92	6	Critical Point	Critical Point	2020	Progressive Metal	Studio
+3.8031	4.08	24	Far From Reality	Reminiscence	2014	Progressive Metal	Studio
+3.8015			Marty Friedman	Introduction	1995	Progressive Metal	Studio

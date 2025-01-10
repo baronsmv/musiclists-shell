@@ -1,0 +1,109 @@
+4.2478	4.26	753	Magma	Mekanïk Destruktïw Kommandöh	1973	Zeuhl	Studio
+4.2125	4.34	279	Magma	K.A (Köhntarkösz Anteria)	2004	Zeuhl	Studio
+4.2108	4.24	559	Eskaton	4 visions	1981	Zeuhl	Studio
+4.1778	4.24	510	Magma	Ëmëhntëhtt-Ré	2009	Zeuhl	Studio
+4.1746	4.25	194	Dün	Eros	1981	Zeuhl	Studio
+4.1031	4.17	376	Universal Totem Orchestra	Mathematical Mother	2016	Zeuhl	Studio
+4.0920	4.14	544	Magma	Christian Vander: Tristan et Iseult [Aka: Ẁurdah Ïtah] (OST)	1974	Zeuhl	Studio
+4.0851	4.17	237	Magma	Köhntarkösz	1974	Zeuhl	Studio
+4.0616	4.10	488	Weidorje	Weidorje	1978	Zeuhl	Studio
+4.0517	4.30	92	Magma	1001° Centigrades [Aka: 2]	1971	Zeuhl	Studio
+4.0297	4.08	420	Laurent Thibault	Mais on ne peut pas rêver tout le temps	1979	Zeuhl	Studio
+4.0215	4.13	156	Magma	Félicité Thösz	2012	Zeuhl	Studio
+3.9895	4.31	66	Universal Totem Orchestra	The Magus	2008	Zeuhl	Studio
+3.9804	4.01	536	Bondage Fruit	Bondage Fruit II	1996	Zeuhl	Studio
+3.9742	4.08	159	Magma	Magma [Aka: Kobaïa]	1970	Zeuhl	Studio
+3.9564	4.09	145	Shub-Niggurath	Les morts vont vite	1986	Zeuhl	Studio
+3.9531	4.10	126	Jannick Top	Infernal Machina	2008	Zeuhl	Studio
+3.9441	4.57	29	Universal Totem Orchestra	Rituale Alieno	1999	Zeuhl	Studio
+3.9315	4.16	75	Zwoyld	200 000	2014	Zeuhl	Studio
+3.9199	4.70	22	Vak	Budo	2018	Zeuhl	Studio
+3.9122	4.01	168	Ga'an	Black Equus	2011	Zeuhl	Studio
+3.9093	4.08	90	Koenji Hyakkei	Angherr Shisspa	2005	Zeuhl	Studio
+3.8956	4.04	103	Setna	Guérison	2013	Zeuhl	Studio
+3.8848	4.35	32	Koenji Hyakkei	弌 (Two) [Aka: Viva Koenji !]	1997	Zeuhl	Studio
+3.8779	4.05	86	Serge Bringolf	Vision	1981	Zeuhl	Studio
+3.8774	4.11	62	Koenji Hyakkei	Dhorimviskha	2018	Zeuhl	Studio
+3.8717	4.00	110	Zao	Kawana	1976	Zeuhl	Studio
+3.8682	4.04	66	Eider Stellaire	Eider Stellaire I	1981	Zeuhl	Studio
+3.8457	4.00	72	Archaia	Archaïa	1977	Zeuhl	Studio
+3.8308	4.02	58	Bondage Fruit	Bondage Fruit I	1994	Zeuhl	Studio
+3.8190	4.14	35	Rhùn	Fanfare Du Chaos	2013	Zeuhl	Studio
+3.8182	4.33	22	Bondage Fruit	Bondage Fruit VI	2005	Zeuhl	Studio
+3.8173	3.96	74	Caillou	Caillou	2013	Zeuhl	Studio
+3.8138	4.04	41	Eskaton	Fiction	1983	Zeuhl	Studio
+3.7961	3.89	97	Vak	Aedividea	2015	Zeuhl	Studio
+3.7891	3.86	129	Koenji Hyakkei	Nivraym	2001	Zeuhl	Studio
+3.7880	3.93	60	Happy Family	Toscco	1997	Zeuhl	Studio
+3.7798	4.28	18	Potemkine	Nicolas II	1978	Zeuhl	Studio
+3.7788	3.98	44	Ikarus	Plasma	2022	Zeuhl	Studio
+3.7781	4.89	8	Rialzu	U rigiru	1978	Zeuhl	Studio
+3.7776	4.17	22	Zig Zag	Pièces Manquantes 1976	2014	Zeuhl	Studio
+3.7737	4.15	23	Yochk'o Seffer	Neffesh Music: Ghilgoul	1978	Zeuhl	Studio
+3.7733	3.93	53	Paga (Paga Group)	Paga	1985	Zeuhl	Studio
+3.7714	3.79	463	Setna	Cycle I	2007	Zeuhl	Studio
+3.7701	3.93	48	Magma	Üdü Ẁüdü	1976	Zeuhl	Studio
+3.7653	3.96	40	Ruins	Symphonica	1998	Zeuhl	Studio
+3.7602	4.70	8	Ruins	Pallaschtom	2000	Zeuhl	Studio
+3.7565	3.82	97	Évohé	Evohé	2018	Zeuhl	Studio
+3.7461	4.17	15	Koenji Hyakkei	Hundred Sights Of Koenji	1994	Zeuhl	Studio
+3.7380	3.95	30	Ruins	Alone	2011	Zeuhl	Studio
+3.7366	3.83	66	Shub-Niggurath	Introduction	2009	Zeuhl	Studio
+3.7358	3.83	63	Zao	Osiris	1975	Zeuhl	Studio
+3.7320	3.88	38	Zao	Shekina	1975	Zeuhl	Studio
+3.7261	3.98	22	Dai Kaht	Dai Kaht II	2020	Zeuhl	Studio
+3.7256	3.85	45	Ga'an	Ga'an	2009	Zeuhl	Studio
+3.7231	3.94	25	Bondage Fruit	Bondage Fruit III - Récit	1997	Zeuhl	Studio
+3.7218	3.85	41	Unit Wail	Retort	2013	Zeuhl	Studio
+3.7210	3.98	18	Corima	Quetzalcoatl	2012	Zeuhl	Studio
+3.7125	3.72	413	Zwoyld	Zgond	2018	Zeuhl	Studio
+3.7082	3.93	21	Magma	Attahk	1978	Zeuhl	Studio
+3.7078	3.75	110	Corima	Amaterasu	2016	Zeuhl	Studio
+3.7058	4.05	13	Xing Sa	Création de l'univers	2010	Zeuhl	Studio
+3.7055	3.85	30	Scherzoo	05	2020	Zeuhl	Studio
+3.7055	3.83	34	Offering	Offering Part I / Part II	1986	Zeuhl	Studio
+3.7047	3.77	59	Happy Family	Minimal Gods	2014	Zeuhl	Studio
+3.7028	3.92	19	Happy Family	Happy Family	1995	Zeuhl	Studio
+3.7015	3.90	21	Scherzoo	02	2012	Zeuhl	Studio
+3.7010	3.94	16	Neom	Arkana Temporis	2009	Zeuhl	Studio
+3.6975	3.78	39	Christian Vander	Les cygnes et les corbeaux	2002	Zeuhl	Studio
+3.6908	3.94	13	Potemkine	Foetus	1976	Zeuhl	Studio
+3.6874	3.81	27	Elephant Tok	Tok 1	2016	Zeuhl	Studio
+3.6870	4.14	7	Offering	Offering Part III / Part IV	1990	Zeuhl	Studio
+3.6858	3.85	19	Elephant Tok	Sitting with Bull	2018	Zeuhl	Studio
+3.6842	4.00	9	François Thollot	Contact	2002	Zeuhl	Studio
+3.6806	3.70	168	Kenta Shimakawa	Glimpse	2019	Zeuhl	Studio
+3.6805	4.13	6	Magma	Zëss - Le Jour Du Néant	2019	Zeuhl	Studio
+3.6783	3.81	21	Yochk'o Seffer	Adama	1986	Zeuhl	Studio
+3.6781	3.79	24	Amygdala	Complex Combat	2008	Zeuhl	Studio
+3.6777	3.85	15	Unit Wail	Pangaea Proxima	2012	Zeuhl	Studio
+3.6768	3.78	23	Vazytouille	Vazytouille	2011	Zeuhl	Studio
+3.6746	4.08	6	Offering	A Fïïèh	1993	Zeuhl	Studio
+3.6736	3.76	27	Ikarus	Mosaismic	2019	Zeuhl	Studio
+3.6710	3.85	13	Ruins	Vrresto	1998	Zeuhl	Studio
+3.6710	3.94	8	Scherzoo	04	2018	Zeuhl	Studio
+3.6697	3.74	32	Rhùn	Tozïh	2023	Zeuhl	Studio
+3.6696	3.71	48	Lagger Blues Machine	Lagger Blues Machine [Aka: Tanit]	1972	Zeuhl	Studio
+3.6681	3.81	14	Ruins	Hyderomastgroningem	1995	Zeuhl	Studio
+3.6665	3.89	9	Yochk'o Seffer	Neffesh Music: Ima	1976	Zeuhl	Studio
+3.6665	3.68	151	Zao	Zao Family	2006	Zeuhl	Studio
+3.6644	4.00	5	Magma	Mekanïk Kommandöh	1989	Zeuhl	Studio
+3.6615	3.79	12	Runaway Totem	Affreschi E Meditazione	2012	Zeuhl	Studio
+3.6600	3.72	27	Runaway Totem	Esameron	2007	Zeuhl	Studio
+3.6598	4.04	4	Jannick Top	Soleil D'Ork	2001	Zeuhl	Studio
+3.6590	4.04	4	Ikarus	Echo	2015	Zeuhl	Studio
+3.6590	4.04	4	Ryorchestra	DMK	2018	Zeuhl	Studio
+3.6590	3.96	5	Ryoko Ono	Undine	2012	Zeuhl	Studio
+3.6584	3.67	81	Zoikhem	Vox Clamantis In Deserto	1997	Zeuhl	Studio
+3.6573	4.00	4	Eskaton	Ardeur	1980	Zeuhl	Studio
+3.6564	3.71	26	Ruins	SaxRuins - Blimmguass	2013	Zeuhl	Studio
+3.6558	3.96	4	Ruins	Burning Stone	1992	Zeuhl	Studio
+3.6538	3.88	5	Ryoko Ono	Ryoko Ono & Rogier Smal: Woodmoon	2016	Zeuhl	Studio
+3.6522	3.83	6	Laktating Yak	Origin Of The Yak	2018	Zeuhl	Studio
+3.6518	3.68	24	Orvalians	The Great Filter	2017	Zeuhl	Studio
+3.6461	3.83	4	Serge Bringolf	Strave	1980	Zeuhl	Studio
+3.6459	3.68	19	Vaults Of Zin	Kadath	2016	Zeuhl	Studio
+3.6455	3.71	7	Noa	Noa	1980	Zeuhl	Studio
+3.6424	3.69	4	Corima	Corima	2007	Zeuhl	Studio
+3.6375	3.63	16	Archaia	1976, La Bande Perdue	2021	Zeuhl	Studio
+3.6344			Super Freego	Pourquoi Es-Tu Si Méchant?	1982	Zeuhl	Studio

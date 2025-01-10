@@ -1,0 +1,250 @@
+4.2756	4.28	1808	Gorguts	Obscura	1998	Tech/Extreme Prog Metal	Studio
+4.2635	4.26	1879	Opeth	Still Life	1999	Tech/Extreme Prog Metal	Studio
+4.2448	4.28	657	Opeth	Blackwater Park	2001	Tech/Extreme Prog Metal	Studio
+4.2420	4.26	1757	Death	Symbolic	1995	Tech/Extreme Prog Metal	Studio
+4.2417	4.27	528	Opeth	Ghost Reveries	2005	Tech/Extreme Prog Metal	Studio
+4.2292	4.29	264	Edge Of Sanity	Crimson	1996	Tech/Extreme Prog Metal	Studio
+4.2055	4.25	530	Voivod	Dimension Hatross	1988	Tech/Extreme Prog Metal	Studio
+4.2044	4.24	360	Death	The Sound of Perseverance	1998	Tech/Extreme Prog Metal	Studio
+4.1813	4.21	462	Voivod	Nothingface	1989	Tech/Extreme Prog Metal	Studio
+4.1629	4.21	377	Death	Human	1991	Tech/Extreme Prog Metal	Studio
+4.1519	4.20	365	Atheist	Unquestionable Presence	1991	Tech/Extreme Prog Metal	Studio
+4.1491	4.16	1255	Between The Buried And Me	The Parallax II - Future Sequence	2012	Tech/Extreme Prog Metal	Studio
+4.1428	4.16	556	Opeth	Pale Communion	2014	Tech/Extreme Prog Metal	Studio
+4.1268	4.15	700	Cynic	Traced in Air	2008	Tech/Extreme Prog Metal	Studio
+4.1220	4.15	593	Mastodon	Crack the Skye	2009	Tech/Extreme Prog Metal	Studio
+4.1205	4.19	258	Cynic	Focus	1993	Tech/Extreme Prog Metal	Studio
+4.1166	4.17	377	Gojira	The Way of All Flesh	2008	Tech/Extreme Prog Metal	Studio
+4.1150	4.45	54	Death	Individual Thought Patterns	1993	Tech/Extreme Prog Metal	Studio
+4.1049	4.19	205	Demilich	Nespithe	1993	Tech/Extreme Prog Metal	Studio
+4.1017	4.16	305	Disillusion	Back to Times of Splendor	2004	Tech/Extreme Prog Metal	Studio
+4.1005	4.14	439	Atheist	Elements	1993	Tech/Extreme Prog Metal	Studio
+4.0996	4.15	234	Leprous	Tall Poppy Syndrome	2009	Tech/Extreme Prog Metal	Studio
+4.0726	4.11	460	Enslaved	Isa	2004	Tech/Extreme Prog Metal	Studio
+4.0708	4.14	236	Between The Buried And Me	Colors	2007	Tech/Extreme Prog Metal	Studio
+4.0685	4.24	97	Arcturus	The Sham Mirrors	2002	Tech/Extreme Prog Metal	Studio
+4.0652	4.15	183	Diabolical Masquerade	Death's Design	2001	Tech/Extreme Prog Metal	Studio
+4.0622	4.18	121	Voivod	The Outer Limits	1993	Tech/Extreme Prog Metal	Studio
+4.0483	4.25	81	Pestilence	Spheres	1993	Tech/Extreme Prog Metal	Studio
+4.0463	4.64	27	Mekong Delta	Visions Fugitives	1994	Tech/Extreme Prog Metal	Studio
+4.0442	4.09	336	Sculptured	Embodiment	2008	Tech/Extreme Prog Metal	Studio
+4.0405	4.15	143	Between The Buried And Me	The Great Misdirect	2009	Tech/Extreme Prog Metal	Studio
+4.0389	4.12	189	Gorguts	Colored Sands	2013	Tech/Extreme Prog Metal	Studio
+4.0351	4.09	249	Ne Obliviscaris	Portal of I	2012	Tech/Extreme Prog Metal	Studio
+4.0275	4.21	86	Gojira	From Mars to Sirius	2005	Tech/Extreme Prog Metal	Studio
+4.0270	4.12	173	Moonsorrow	Viides Luku - Hävitetty	2007	Tech/Extreme Prog Metal	Studio
+4.0270	4.10	203	Watchtower	Control And Resistance	1989	Tech/Extreme Prog Metal	Studio
+4.0236	4.13	131	Negura Bunget	Om	2006	Tech/Extreme Prog Metal	Studio
+4.0188	4.10	164	Between The Buried And Me	Colors II	2021	Tech/Extreme Prog Metal	Studio
+4.0081	4.11	142	Blotted Science	The Machinations Of Dementia	2007	Tech/Extreme Prog Metal	Studio
+4.0060	4.11	143	Control Denied	The Fragile Art Of Existence	1999	Tech/Extreme Prog Metal	Studio
+4.0038	4.05	319	Enslaved	Below the Lights	2003	Tech/Extreme Prog Metal	Studio
+4.0015	4.00	1310	Leprous	Malina	2017	Tech/Extreme Prog Metal	Studio
+3.9924	4.00	1439	Opeth	Watershed	2008	Tech/Extreme Prog Metal	Studio
+3.9877	4.08	152	Opeth	Damnation	2003	Tech/Extreme Prog Metal	Studio
+3.9856	4.06	194	Enslaved	Vertebrae	2008	Tech/Extreme Prog Metal	Studio
+3.9843	4.10	110	Voivod	Killing Technology	1987	Tech/Extreme Prog Metal	Studio
+3.9759	4.17	70	Ihsahn	The Adversary	2006	Tech/Extreme Prog Metal	Studio
+3.9754	4.04	219	Burst	Lazarus Bird	2008	Tech/Extreme Prog Metal	Studio
+3.9753	4.21	56	Enslaved	Axioma Ethica Odini	2010	Tech/Extreme Prog Metal	Studio
+3.9738	4.02	295	Persefone	Shin-Ken	2009	Tech/Extreme Prog Metal	Studio
+3.9717	3.99	537	Animals As Leaders	Animals as Leaders	2009	Tech/Extreme Prog Metal	Studio
+3.9699	4.08	113	Opeth	In Cauda Venenum	2019	Tech/Extreme Prog Metal	Studio
+3.9675	4.07	127	Deathspell Omega	Fas - Ite, Maledicti, in Ignem Aeternum	2007	Tech/Extreme Prog Metal	Studio
+3.9675	4.14	75	Exivious	Exivious	2009	Tech/Extreme Prog Metal	Studio
+3.9669	4.43	28	Lykathea Aflame	Elvenefris	2000	Tech/Extreme Prog Metal	Studio
+3.9616	4.28	39	Gorod	A Perfect Absolution	2012	Tech/Extreme Prog Metal	Studio
+3.9557	3.97	867	Dødheimsgard	Supervillain Outcast	2007	Tech/Extreme Prog Metal	Studio
+3.9554	4.07	108	Opeth	My Arms, Your Hearse	1998	Tech/Extreme Prog Metal	Studio
+3.9517	4.18	55	Ne Obliviscaris	Citadel	2014	Tech/Extreme Prog Metal	Studio
+3.9491	4.21	47	Deathspell Omega	The Synarchy Of Molten Bones	2016	Tech/Extreme Prog Metal	Studio
+3.9481	4.14	64	Beyond Creation	The Aura	2011	Tech/Extreme Prog Metal	Studio
+3.9446	4.13	68	Chimp Spanner	At The Dream´s Edge	2009	Tech/Extreme Prog Metal	Studio
+3.9440	3.97	486	Kalisia	Cybion	2009	Tech/Extreme Prog Metal	Studio
+3.9438	4.34	30	Leprous	Coal	2013	Tech/Extreme Prog Metal	Studio
+3.9400	4.11	71	Martyr	Warp Zone	2000	Tech/Extreme Prog Metal	Studio
+3.9390	4.27	36	My Dying Bride	Songs of Darkness, Words of Light	2004	Tech/Extreme Prog Metal	Studio
+3.9359	4.59	18	Ne Obliviscaris	Exul	2023	Tech/Extreme Prog Metal	Studio
+3.9336	4.07	85	Burst	Origo	2005	Tech/Extreme Prog Metal	Studio
+3.9316	4.13	60	Enslaved	Monumension	2001	Tech/Extreme Prog Metal	Studio
+3.9316	4.04	104	Wolves In The Throne Room	Two Hunters	2007	Tech/Extreme Prog Metal	Studio
+3.9305	4.11	65	Voivod	The Wake	2018	Tech/Extreme Prog Metal	Studio
+3.9301	3.98	217	My Dying Bride	The Dreadful Hours	2001	Tech/Extreme Prog Metal	Studio
+3.9283	3.95	583	Ihsahn	After	2010	Tech/Extreme Prog Metal	Studio
+3.9267	4.17	48	Leprous	The Congregation	2015	Tech/Extreme Prog Metal	Studio
+3.9267	3.95	553	Twisted Into Form	Then Comes Affliction To Awaken The Dreamer	2006	Tech/Extreme Prog Metal	Studio
+3.9242	4.12	60	Leprous	Bilateral	2011	Tech/Extreme Prog Metal	Studio
+3.9239	4.03	111	Into Eternity	Buried In Oblivion	2004	Tech/Extreme Prog Metal	Studio
+3.9226	4.26	34	Watchtower	Energetic Disassembly	1985	Tech/Extreme Prog Metal	Studio
+3.9226	4.21	40	Martyr	Feeding the Abscess	2006	Tech/Extreme Prog Metal	Studio
+3.9219	4.11	59	Dødheimsgard	A Umbra Omega	2015	Tech/Extreme Prog Metal	Studio
+3.9195	4.35	26	Sikth	The Trees Are Dead & Dried Out Wait for Something Wild	2003	Tech/Extreme Prog Metal	Studio
+3.9162	4.57	17	Augury	Concealed	2004	Tech/Extreme Prog Metal	Studio
+3.9148	4.05	82	Citriniti	Citriniti	2008	Tech/Extreme Prog Metal	Studio
+3.9135	4.06	73	Canvas Solaris	Cortical Tectonics	2007	Tech/Extreme Prog Metal	Studio
+3.9088	4.21	36	Canvas Solaris	Penumbra Diffuse	2006	Tech/Extreme Prog Metal	Studio
+3.9060	3.95	248	Alchemist	Spiritech	1997	Tech/Extreme Prog Metal	Studio
+3.9053	4.34	24	Leprous	Pitfalls	2019	Tech/Extreme Prog Metal	Studio
+3.8991	4.02	90	Others by No One	Book 1: Dr. Breacher	2017	Tech/Extreme Prog Metal	Studio
+3.8991	4.48	18	Spastic Ink	Ink Complete	1997	Tech/Extreme Prog Metal	Studio
+3.8979	4.00	98	Intervals	The Way Forward	2017	Tech/Extreme Prog Metal	Studio
+3.8978	3.97	138	Vektor	Outer Isolation	2011	Tech/Extreme Prog Metal	Studio
+3.8966	4.64	14	Enslaved	Ruun	2006	Tech/Extreme Prog Metal	Studio
+3.8965	4.07	59	Botch	We Are the Romans	1999	Tech/Extreme Prog Metal	Studio
+3.8961	4.34	23	The Dillinger Escape Plan	One Of Us Is The Killer	2013	Tech/Extreme Prog Metal	Studio
+3.8938	4.92	10	Perihelion Ship	A Rare Thunderstorm In Spring	2016	Tech/Extreme Prog Metal	Studio
+3.8914	3.92	404	Coroner	No More Color	1989	Tech/Extreme Prog Metal	Studio
+3.8899	4.38	21	Mastodon	Leviathan	2004	Tech/Extreme Prog Metal	Studio
+3.8898	4.19	34	Burst	Prey On Life	2003	Tech/Extreme Prog Metal	Studio
+3.8895	4.42	19	Drudkh	Кров у наших криницях (Blood in Our Wells)	2006	Tech/Extreme Prog Metal	Studio
+3.8881	4.14	39	Circle Takes The Square	As The Roots Undo	2004	Tech/Extreme Prog Metal	Studio
+3.8857	3.95	154	Dødheimsgard	666 International	1999	Tech/Extreme Prog Metal	Studio
+3.8852	4.00	87	Between The Buried And Me	Automata II	2018	Tech/Extreme Prog Metal	Studio
+3.8850	4.00	87	Enslaved	E	2017	Tech/Extreme Prog Metal	Studio
+3.8850	3.99	91	Moonsorrow	Kivenkantaja	2003	Tech/Extreme Prog Metal	Studio
+3.8834	3.93	225	My Dying Bride	Turn Loose the Swans	1993	Tech/Extreme Prog Metal	Studio
+3.8824	3.94	170	Animals As Leaders	Weightless	2011	Tech/Extreme Prog Metal	Studio
+3.8811	4.06	55	Arcturus	La Masquerade Infernale	1997	Tech/Extreme Prog Metal	Studio
+3.8806	4.50	15	The Contortionist	Language	2014	Tech/Extreme Prog Metal	Studio
+3.8706	3.91	218	Lux Occulta	The Mother and the Enemy	2001	Tech/Extreme Prog Metal	Studio
+3.8690	3.93	145	Meshuggah	Chaosphere	1998	Tech/Extreme Prog Metal	Studio
+3.8689	4.00	71	Vektor	Terminal Redux	2016	Tech/Extreme Prog Metal	Studio
+3.8683	4.65	12	Exivious	Liminal	2013	Tech/Extreme Prog Metal	Studio
+3.8677	3.91	233	Car Bomb	w^w^^w^w	2012	Tech/Extreme Prog Metal	Studio
+3.8669	4.35	19	Enslaved	Riitiir	2012	Tech/Extreme Prog Metal	Studio
+3.8641	4.18	29	Neglected Fields	Mephisto Lettonica	2000	Tech/Extreme Prog Metal	Studio
+3.8641	4.08	42	Fleshgod Apocalypse	Agony	2011	Tech/Extreme Prog Metal	Studio
+3.8635	4.22	25	Persefone	Core	2006	Tech/Extreme Prog Metal	Studio
+3.8604	4.04	51	Morbus Chron	Sweven	2014	Tech/Extreme Prog Metal	Studio
+3.8600	3.97	83	Drudkh	Autumn Aurora	2004	Tech/Extreme Prog Metal	Studio
+3.8600	4.07	42	My Dying Bride	The Angel and the Dark River	1995	Tech/Extreme Prog Metal	Studio
+3.8595	3.94	108	Nocturnus	The Key	1990	Tech/Extreme Prog Metal	Studio
+3.8558	3.94	102	Ihsahn	Arktis.	2016	Tech/Extreme Prog Metal	Studio
+3.8545	3.99	63	Meshuggah	The Violent Sleep of Reason	2016	Tech/Extreme Prog Metal	Studio
+3.8540	3.99	60	Sikth	Death of a Dead Day	2006	Tech/Extreme Prog Metal	Studio
+3.8505	3.95	90	Obscura	Cosmogenesis	2009	Tech/Extreme Prog Metal	Studio
+3.8500	4.01	54	Vektor	Black Future	2009	Tech/Extreme Prog Metal	Studio
+3.8487	3.95	83	Wolves In The Throne Room	Celestial Lineage	2011	Tech/Extreme Prog Metal	Studio
+3.8444	4.24	21	Spastic Ink	Ink Compatible	2004	Tech/Extreme Prog Metal	Studio
+3.8442	4.68	10	Alkaloid	The Malkuth Grimoire	2015	Tech/Extreme Prog Metal	Studio
+3.8440	4.60	11	Serdce	The Alchemy of Harmony	2009	Tech/Extreme Prog Metal	Studio
+3.8422	3.86	340	Cephalic Carnage	Lucid Interval	2002	Tech/Extreme Prog Metal	Studio
+3.8399	3.91	107	Between The Buried And Me	Coma Ecliptic	2015	Tech/Extreme Prog Metal	Studio
+3.8359	4.31	17	Voivod	Target Earth	2013	Tech/Extreme Prog Metal	Studio
+3.8347	4.28	18	Car Bomb	Mordial	2019	Tech/Extreme Prog Metal	Studio
+3.8335	3.98	52	Extol	Undeceived	2000	Tech/Extreme Prog Metal	Studio
+3.8281	4.18	22	Ne Obliviscaris	Urn	2017	Tech/Extreme Prog Metal	Studio
+3.8281	3.93	73	The Dillinger Escape Plan	Dissociation	2016	Tech/Extreme Prog Metal	Studio
+3.8277	3.89	134	In Mourning	The Weight of Oceans	2012	Tech/Extreme Prog Metal	Studio
+3.8272	4.19	21	Gojira	Magma	2016	Tech/Extreme Prog Metal	Studio
+3.8252	4.11	27	Alkaloid	Liquid Anatomy	2018	Tech/Extreme Prog Metal	Studio
+3.8249	4.41	13	Counter-World Experience	Pulsar	2016	Tech/Extreme Prog Metal	Studio
+3.8237	4.58	10	Lux Occulta	My Guardian Anger	1999	Tech/Extreme Prog Metal	Studio
+3.8225	3.96	55	Le Grand Guignol	The Great Maddening	2007	Tech/Extreme Prog Metal	Studio
+3.8222	4.15	23	Ihsahn	Das Seelenbrechen	2013	Tech/Extreme Prog Metal	Studio
+3.8218	4.09	28	Madder Mortem	All Flesh Is Grass	2001	Tech/Extreme Prog Metal	Studio
+3.8193	4.07	30	Born Of Osiris	The Discovery	2011	Tech/Extreme Prog Metal	Studio
+3.8190	3.91	81	Solefald	In Harmonia Universali	2003	Tech/Extreme Prog Metal	Studio
+3.8187	3.86	171	The Contortionist	Clairvoyant	2017	Tech/Extreme Prog Metal	Studio
+3.8139	4.61	9	Voivod	Angel Rat	1991	Tech/Extreme Prog Metal	Studio
+3.8127	4.13	23	Sunset in The 12th House	Moziac	2015	Tech/Extreme Prog Metal	Studio
+3.8127	4.36	13	In Vain	The Latter Rain	2007	Tech/Extreme Prog Metal	Studio
+3.8123	4.17	20	Phlebotomized	Skycontact	1997	Tech/Extreme Prog Metal	Studio
+3.8109	4.18	19	Extol	Extol	2013	Tech/Extreme Prog Metal	Studio
+3.8105	4.35	13	Uneven Structure	Februus	2011	Tech/Extreme Prog Metal	Studio
+3.8096	4.25	16	Code	Resplendent Grotesque	2009	Tech/Extreme Prog Metal	Studio
+3.8093	4.13	22	Citriniti	Between the Music and Latitude	2006	Tech/Extreme Prog Metal	Studio
+3.8076	3.90	71	Ashenspire	Hostile Architecture	2022	Tech/Extreme Prog Metal	Studio
+3.8062	3.92	59	Moonsorrow	Verisäkeet	2005	Tech/Extreme Prog Metal	Studio
+3.8037	3.96	45	Canvas Solaris	Irradiance	2010	Tech/Extreme Prog Metal	Studio
+3.8037	3.96	44	Borknagar	Winter Thrice	2016	Tech/Extreme Prog Metal	Studio
+3.8021	4.16	19	Animals As Leaders	Parrhesia	2022	Tech/Extreme Prog Metal	Studio
+3.8019	3.85	139	Continuo Renacer	The Great Escape	2011	Tech/Extreme Prog Metal	Studio
+3.8008	4.05	27	Gojira	L'Enfant Sauvage	2012	Tech/Extreme Prog Metal	Studio
+3.8002	4.10	22	Dysrhythmia	Barriers and Passages	2006	Tech/Extreme Prog Metal	Studio
+3.7991	3.92	55	Continuo Renacer	Continuo Renacer	2005	Tech/Extreme Prog Metal	Studio
+3.7976	3.80	1388	My Dying Bride	The Light at the End of the World	1999	Tech/Extreme Prog Metal	Studio
+3.7973	4.07	24	Opeth	Heritage	2011	Tech/Extreme Prog Metal	Studio
+3.7969	4.03	28	Diabolical Masquerade	Nightwork	1998	Tech/Extreme Prog Metal	Studio
+3.7964	3.88	78	Beyond Creation	Earthborn Evolution	2014	Tech/Extreme Prog Metal	Studio
+3.7957	3.80	1059	Ihsahn	Àmr	2018	Tech/Extreme Prog Metal	Studio
+3.7923	4.19	16	Opeth	Deliverance	2002	Tech/Extreme Prog Metal	Studio
+3.7911	4.42	10	Extol	Synergy	2003	Tech/Extreme Prog Metal	Studio
+3.7903	4.16	17	Lux Occulta	Kołysanki	2014	Tech/Extreme Prog Metal	Studio
+3.7885	4.05	24	Deathrow	Deception Ignored	1988	Tech/Extreme Prog Metal	Studio
+3.7885	3.89	58	Gorod	Leading Vision	2006	Tech/Extreme Prog Metal	Studio
+3.7875	4.06	23	Dan Swanö	Moontower	1999	Tech/Extreme Prog Metal	Studio
+3.7875	3.89	58	Sadist	Tribe	1995	Tech/Extreme Prog Metal	Studio
+3.7871	4.40	10	Moonspell	Wolfheart	1995	Tech/Extreme Prog Metal	Studio
+3.7860	4.11	19	Born Of Osiris	Tomorrow We Die Alive	2013	Tech/Extreme Prog Metal	Studio
+3.7856	4.19	15	Madder Mortem	Eight Ways	2009	Tech/Extreme Prog Metal	Studio
+3.7851	4.39	10	Chaos Divine	The Human Connection	2011	Tech/Extreme Prog Metal	Studio
+3.7849	4.22	14	Mattias IA Eklundh	Freak Guitar	1999	Tech/Extreme Prog Metal	Studio
+3.7846	3.90	50	Car Bomb	Meta	2016	Tech/Extreme Prog Metal	Studio
+3.7833	3.86	74	Enslaved	Utgard	2020	Tech/Extreme Prog Metal	Studio
+3.7819	3.97	32	Mekong Delta	Wanderer On The Edge Of Time	2010	Tech/Extreme Prog Metal	Studio
+3.7806	4.05	22	Oceans Of Slumber	Starlight and Ash	2022	Tech/Extreme Prog Metal	Studio
+3.7805	4.00	27	Gorod	Neurotripsicks	2004	Tech/Extreme Prog Metal	Studio
+3.7805	4.06	21	Deathspell Omega	The Furnaces of Palingenesia	2019	Tech/Extreme Prog Metal	Studio
+3.7800	4.07	20	The Faceless	Akeldama	2006	Tech/Extreme Prog Metal	Studio
+3.7778	3.90	49	The World Is Quiet Here	Prologue	2018	Tech/Extreme Prog Metal	Studio
+3.7775	3.86	69	Borknagar	True North	2019	Tech/Extreme Prog Metal	Studio
+3.7772	4.73	6	Aghora	Aghora	1999	Tech/Extreme Prog Metal	Studio
+3.7758	3.88	54	Spires	A Parting Gift	2018	Tech/Extreme Prog Metal	Studio
+3.7756	4.72	6	Negura Bunget	Virstele Pamintului	2010	Tech/Extreme Prog Metal	Studio
+3.7740	3.94	34	CKRAFT	Epic Discordant Vision	2022	Tech/Extreme Prog Metal	Studio
+3.7733	3.83	96	1980	1980	2007	Tech/Extreme Prog Metal	Studio
+3.7728	3.94	33	Ihsahn	angL	2008	Tech/Extreme Prog Metal	Studio
+3.7710	4.00	24	Persefone	Aathma	2017	Tech/Extreme Prog Metal	Studio
+3.7700	4.67	6	Xerath	I	2009	Tech/Extreme Prog Metal	Studio
+3.7669	4.08	17	Scholomance	The Immortality Murder	2002	Tech/Extreme Prog Metal	Studio
+3.7666	4.08	17	Believer	Dimensions	1993	Tech/Extreme Prog Metal	Studio
+3.7666	4.00	23	Imperial Triumphant	Spirit of Ecstasy	2022	Tech/Extreme Prog Metal	Studio
+3.7663	3.81	119	Shining	IV - The Eerie Cold	2005	Tech/Extreme Prog Metal	Studio
+3.7662	4.15	14	Animals As Leaders	The Joy of Motion	2014	Tech/Extreme Prog Metal	Studio
+3.7656	4.30	10	At War With Self	A Familiar Path	2009	Tech/Extreme Prog Metal	Studio
+3.7655	4.83	5	Ram-Zet	Neutralized	2009	Tech/Extreme Prog Metal	Studio
+3.7654	4.14	14	Helheim	Kaoskult	2008	Tech/Extreme Prog Metal	Studio
+3.7644	4.06	18	Chimp Spanner	Imperium Vorago	2005	Tech/Extreme Prog Metal	Studio
+3.7634	3.81	107	Krallice	Dimensional Bleedthrough	2009	Tech/Extreme Prog Metal	Studio
+3.7631	3.93	31	The Dillinger Escape Plan	Option Paralysis	2010	Tech/Extreme Prog Metal	Studio
+3.7630	4.00	22	Vintersorg	Visions From The Spiral Generator	2002	Tech/Extreme Prog Metal	Studio
+3.7625	3.97	25	Others by No One	Book II: Where Stories Come From	2021	Tech/Extreme Prog Metal	Studio
+3.7621	4.41	8	Drudkh	Борозна обірвалася (A Furrow Cut Short)	2015	Tech/Extreme Prog Metal	Studio
+3.7618	4.80	5	Arkan	Sofia	2014	Tech/Extreme Prog Metal	Studio
+3.7616	4.50	7	Journal	Unlorja	2010	Tech/Extreme Prog Metal	Studio
+3.7611	4.33	9	Flourishing	The Sum of All Fossils	2011	Tech/Extreme Prog Metal	Studio
+3.7607	4.15	13	Drudkh	Їм часто сниться капіж / They Often See Dreams About the Spring	2018	Tech/Extreme Prog Metal	Studio
+3.7598	4.06	17	The Locust	Plague Soundscapes	2003	Tech/Extreme Prog Metal	Studio
+3.7591	3.82	77	Rivers of Nihil	The Work	2021	Tech/Extreme Prog Metal	Studio
+3.7586	4.60	6	Arcturus	Arcturian	2015	Tech/Extreme Prog Metal	Studio
+3.7580	4.32	9	Entropia	Total	2023	Tech/Extreme Prog Metal	Studio
+3.7580	4.04	18	Mattias IA Eklundh	Freak Guitar - The Road Less Travelled	2004	Tech/Extreme Prog Metal	Studio
+3.7575	3.84	61	T.O.O.H.!	Order and Punishment	2005	Tech/Extreme Prog Metal	Studio
+3.7565	4.75	5	Moonsorrow	Jumalten Aika	2016	Tech/Extreme Prog Metal	Studio
+3.7560	4.75	5	Kathaarsys	Describing The Paradox Vol I	2014	Tech/Extreme Prog Metal	Studio
+3.7560	3.96	24	De Profundis	The Blinding Light Of Faith	2018	Tech/Extreme Prog Metal	Studio
+3.7559	3.81	97	Enslaved	Heimdal	2023	Tech/Extreme Prog Metal	Studio
+3.7558	4.00	20	Edge Of Sanity	Purgatory Afterglow	1994	Tech/Extreme Prog Metal	Studio
+3.7544	4.03	18	Augury	Fragmentary Evidence	2009	Tech/Extreme Prog Metal	Studio
+3.7542	3.97	23	Blood Incantation	Hidden History of the Human Race	2019	Tech/Extreme Prog Metal	Studio
+3.7540	4.71	5	Counter-World Experience	Metronomicon	2009	Tech/Extreme Prog Metal	Studio
+3.7519	3.90	32	Arkan	Salam	2011	Tech/Extreme Prog Metal	Studio
+3.7509	4.43	7	Barren Earth	The Devil's Resolve	2012	Tech/Extreme Prog Metal	Studio
+3.7503	4.28	9	The Locust	The Locust	1998	Tech/Extreme Prog Metal	Studio
+3.7502	3.98	21	Rolo Tomassi	Time Will Die and Love Will Bury It	2018	Tech/Extreme Prog Metal	Studio
+3.7498	3.76	390	Counter-World Experience	Music For Kings	2012	Tech/Extreme Prog Metal	Studio
+3.7486	3.78	165	Mastodon	Blood Mountain	2006	Tech/Extreme Prog Metal	Studio
+3.7481	3.93	25	Atheist	Piece Of Time	1990	Tech/Extreme Prog Metal	Studio
+3.7479	4.21	10	My Dying Bride	The Ghost of Orion	2020	Tech/Extreme Prog Metal	Studio
+3.7473	3.81	71	Neglected Fields	Splenetic	2006	Tech/Extreme Prog Metal	Studio
+3.7473	3.81	66	Disillusion	Gloria	2006	Tech/Extreme Prog Metal	Studio
+3.7454	3.95	22	Behold...The Arctopus	Skullgrid	2007	Tech/Extreme Prog Metal	Studio
+3.7449	3.88	33	Witherscape	The Northern Sanctuary	2016	Tech/Extreme Prog Metal	Studio
+3.7449	4.50	6	Protest the Hero	Palimpsest	2020	Tech/Extreme Prog Metal	Studio
+3.7447	3.85	42	Jester's March	Acts	1992	Tech/Extreme Prog Metal	Studio
+3.7445	3.82	61	The Human Abstract	Digital Veil	2011	Tech/Extreme Prog Metal	Studio
+3.7442	4.15	11	Moonsorrow	Varjoina Kuljemme Kuolleiden Maassa	2011	Tech/Extreme Prog Metal	Studio
+3.7441	4.64	5	Master's Hammer	The Jilemnice Occultist	1992	Tech/Extreme Prog Metal	Studio
+3.7438	3.81	69	Ion Dissonance	Solace	2005	Tech/Extreme Prog Metal	Studio
+3.7427			Obscura	Omnivium	2011	Tech/Extreme Prog Metal	Studio

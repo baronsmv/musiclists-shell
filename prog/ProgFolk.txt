@@ -1,0 +1,250 @@
+4.6286	4.36	2884	Jethro Tull	Thick as a Brick	1972	Prog Folk	Studio
+4.3545	4.35	1429	Jethro Tull	Aqualung	1971	Prog Folk	Studio
+4.3318	4.22	1604	Harmonium	Si on avait besoin d'une cinquième saison	1975	Prog Folk	Studio
+4.2011	4.21	364	Jethro Tull	Songs from the Wood	1977	Prog Folk	Studio
+4.1529	4.17	631	Los Jaivas	Alturas de Machu Picchu	1981	Prog Folk	Studio
+4.1383	4.22	241	Comus	First Utterance	1971	Prog Folk	Studio
+4.1365	4.16	715	Spirogyra	St. Radigunds	1971	Prog Folk	Studio
+4.1276	4.21	243	Gryphon	Red Queen to Gryphon Three	1974	Prog Folk	Studio
+4.1252	4.32	100	Jan Dukes De Grey	Mice and Rats in the Loft	1971	Prog Folk	Studio
+4.1243	4.44	61	Eden	Erwartung	1978	Prog Folk	Studio
+4.1163	4.15	403	Marco Antônio Araújo	Lucas	1984	Prog Folk	Studio
+4.1032	4.15	391	Strawbs	Hero And Heroine	1974	Prog Folk	Studio
+4.1020	4.68	31	Strawbs	Grave New World	1972	Prog Folk	Studio
+4.0807	4.54	39	Perry Leopold	Christian Lucifer	1999	Prog Folk	Studio
+4.0696	4.11	369	Clannad	Dúlamán	1976	Prog Folk	Studio
+4.0659	4.17	159	Harmonium	L'heptade	1976	Prog Folk	Studio
+4.0550	4.05	1627	Spirogyra	Bells, Boots And Shambles	1973	Prog Folk	Studio
+4.0415	4.05	1414	Jethro Tull	A Passion Play	1973	Prog Folk	Studio
+4.0382	4.15	148	Jethro Tull	Stand Up	1969	Prog Folk	Studio
+4.0363	4.04	1381	The Pentangle	Basket Of Light	1969	Prog Folk	Studio
+4.0307	4.11	210	Jethro Tull	Minstrel in the Gallery	1975	Prog Folk	Studio
+4.0255	4.04	1325	Dead Can Dance	Within The Realm Of A Dying Sun	1987	Prog Folk	Studio
+4.0252	4.15	123	Jethro Tull	Heavy Horses	1978	Prog Folk	Studio
+4.0191	4.07	301	Mostly Autumn	Graveyard Star	2021	Prog Folk	Studio
+4.0137	4.15	111	The Decemberists	The Hazards of Love	2009	Prog Folk	Studio
+4.0091	4.17	99	North Sea Radio Orchestra	I A Moon	2011	Prog Folk	Studio
+4.0042	4.25	65	Tim Buckley	Starsailor	1970	Prog Folk	Studio
+4.0040	4.08	197	Tirill	Um Himinjǫður	2013	Prog Folk	Studio
+3.9994	4.85	18	Hoelderlin	Hölderlins Traum	1972	Prog Folk	Studio
+3.9877	4.10	131	Juan Martín	Picasso Portraits	1981	Prog Folk	Studio
+3.9839	4.13	97	Itoiz	Ezekiel	1980	Prog Folk	Studio
+3.9773	4.10	115	Horslips	The Táin	1973	Prog Folk	Studio
+3.9715	4.14	86	Los Jaivas	Obras De Violeta Parra	1984	Prog Folk	Studio
+3.9713	4.02	290	Midlake	The Courage of Others	2010	Prog Folk	Studio
+3.9683	4.61	23	Strawbs	From The Witchwood	1971	Prog Folk	Studio
+3.9665	4.08	116	Moulettes	The Bear's Revenge	2012	Prog Folk	Studio
+3.9577	4.04	178	Iona	Open Sky	2000	Prog Folk	Studio
+3.9562	4.02	222	Mostly Autumn	White Rainbow	2018	Prog Folk	Studio
+3.9551	4.05	130	Strawbs	Ghosts	1975	Prog Folk	Studio
+3.9464	4.08	90	Ragnarök	Ragnarök	1976	Prog Folk	Studio
+3.9332	4.40	29	Carol Of Harvest	Carol of Harvest	1978	Prog Folk	Studio
+3.9330	4.24	44	Current 93	Thunder Perfect Mind	1992	Prog Folk	Studio
+3.9290	4.39	29	Steve Unruh	The Great Divide	2007	Prog Folk	Studio
+3.9289	4.24	43	Clannad	Magical Ring	1983	Prog Folk	Studio
+3.9282	4.00	162	Pesniary (Pesnyary)	Gusliar	1979	Prog Folk	Studio
+3.9187	4.04	110	Dead Can Dance	Into The Labyrinth	1993	Prog Folk	Studio
+3.9186	4.26	38	Hoelderlin	Hoelderlin	1975	Prog Folk	Studio
+3.9175	4.09	74	Judy Dyble	Talking with Strangers	2009	Prog Folk	Studio
+3.9160	4.32	32	Tirill	Said the Sun to the Moon	2019	Prog Folk	Studio
+3.9123	3.99	169	Secos & Molhados	Secos & Molhados (II)	1974	Prog Folk	Studio
+3.9113	4.21	43	The Decemberists	The Crane Wife	2006	Prog Folk	Studio
+3.9108	3.95	251	Banda Do Casaco	Hoje Há Conquilhas, Amanhã Não Sabemos	1977	Prog Folk	Studio
+3.9029	3.91	1192	Mostly Autumn	The Last Bright Light	2001	Prog Folk	Studio
+3.9007	4.40	25	Jethro Tull	Benefit	1970	Prog Folk	Studio
+3.8990	3.96	205	Linda Perhacs	Parallelograms	1970	Prog Folk	Studio
+3.8955	3.98	141	Roy Harper	Stormcock	1971	Prog Folk	Studio
+3.8937	4.11	58	Phoenix	Cantafabule	1975	Prog Folk	Studio
+3.8928	4.34	27	A Barca Do Sol	Durante O Verão	1976	Prog Folk	Studio
+3.8906	4.07	64	Grovjobb	Vättarnas Fest	2000	Prog Folk	Studio
+3.8856	3.98	118	Strawbs	The Ferryman's Curse	2017	Prog Folk	Studio
+3.8822	4.47	20	Gryphon	ReInvention	2018	Prog Folk	Studio
+3.8765	4.24	32	Current 93	Soft Black Stars	1998	Prog Folk	Studio
+3.8732	4.27	29	Clannad	Macalla	1985	Prog Folk	Studio
+3.8693	3.99	98	Rabih Abou-Khalil	Blue Camel	1992	Prog Folk	Studio
+3.8693	4.51	18	Jack O' The Clock	All My Friends	2013	Prog Folk	Studio
+3.8682	3.99	92	Clannad	Fuaim	1982	Prog Folk	Studio
+3.8682	4.21	33	Jack O' The Clock	Repetitions of the Old City - I	2016	Prog Folk	Studio
+3.8669	4.02	73	Flairck	Symphony For The Old World	2000	Prog Folk	Studio
+3.8652	4.57	16	John Martyn	Solid Air	1973	Prog Folk	Studio
+3.8630	4.03	66	Faun	Renaissance	2005	Prog Folk	Studio
+3.8600	4.09	48	Steve Unruh	Challenging Gravity	2010	Prog Folk	Studio
+3.8597	4.09	47	Émeraude	Geoffroy	1981	Prog Folk	Studio
+3.8571	3.94	139	Jack O' The Clock	Night Loops	2014	Prog Folk	Studio
+3.8571	3.92	182	Comus	Out of the Coma	2012	Prog Folk	Studio
+3.8562	4.59	15	Dead Can Dance	The Serpent's Egg	1988	Prog Folk	Studio
+3.8534	4.28	26	Faun	Eden	2011	Prog Folk	Studio
+3.8533	4.40	20	Clannad	Clannad	1973	Prog Folk	Studio
+3.8531	4.21	31	Drago Mlinarec	Rodjenje	1975	Prog Folk	Studio
+3.8518	4.37	21	Thursaflokkurinn	Þursabit	1979	Prog Folk	Studio
+3.8489	4.25	27	Pesniary (Pesnyary)	Pesniary IV	1978	Prog Folk	Studio
+3.8465	4.16	34	Current 93	All The Pretty Little Horses	1996	Prog Folk	Studio
+3.8463	3.97	86	Canzoniere Del Lazio	Miradas	1977	Prog Folk	Studio
+3.8458	4.03	59	Phoenix	Cei Ce Ne-Au Dat Nume	1973	Prog Folk	Studio
+3.8443	4.21	29	Tim Buckley	Lorca	1970	Prog Folk	Studio
+3.8427	4.15	33	Thork	Nula Jedan	2007	Prog Folk	Studio
+3.8339	3.94	95	Smell Of Incense	Through The Gates Of Deeper Slumber	1997	Prog Folk	Studio
+3.8338	3.95	92	Horslips	The Book Of Invasions - A Celtic Symphony	1976	Prog Folk	Studio
+3.8337	4.10	39	Kebnekajse	Kebnekaise II	1973	Prog Folk	Studio
+3.8323	4.16	31	Alan Stivell	Chemins De Terre	1973	Prog Folk	Studio
+3.8299	4.34	20	Ougenweide	Eulenspiegel	1976	Prog Folk	Studio
+3.8299	4.03	51	Richard Dawson	Henki (with Circle)	2021	Prog Folk	Studio
+3.8297	4.11	36	A Barca Do Sol	A Barca Do Sol	1974	Prog Folk	Studio
+3.8296	4.00	59	Thork	We Ila	2004	Prog Folk	Studio
+3.8276	3.92	116	Tudor Lodge	Tudor Lodge	1970	Prog Folk	Studio
+3.8274	3.88	210	Serge Fiori	Seul ensemble	2019	Prog Folk	Studio
+3.8267	4.06	43	Mostly Autumn	Dressed in Voices	2014	Prog Folk	Studio
+3.8267	4.26	23	Tenhi	Maaäet	2006	Prog Folk	Studio
+3.8244	4.21	26	Ill Wicker	Untamed	2016	Prog Folk	Studio
+3.8228	3.88	169	Motis	L'Homme-Loup	2007	Prog Folk	Studio
+3.8227	4.08	39	Mostly Autumn	Sight of Day	2017	Prog Folk	Studio
+3.8220	4.05	43	S Vremena Na Vreme	S Vremena Na Vreme	1975	Prog Folk	Studio
+3.8203	4.05	43	Pearls Before Swine	The Use of Ashes	1970	Prog Folk	Studio
+3.8202	4.16	29	Secos & Molhados	Secos & Molhados	1973	Prog Folk	Studio
+3.8200	3.95	73	Sedmina	II - Dejanje	1982	Prog Folk	Studio
+3.8130	4.21	24	Jack O' The Clock	Repetitions of the Old City - II	2018	Prog Folk	Studio
+3.8102	4.01	46	Corde Oblique	A Hail Of Bitter Almonds	2011	Prog Folk	Studio
+3.8076	4.00	49	Azahar	Azahar	1979	Prog Folk	Studio
+3.8066	4.01	47	Faun	Luna	2014	Prog Folk	Studio
+3.8049	3.90	98	Flairck	Gevecht Met De Engel [Aka: The Lady's Back]	1980	Prog Folk	Studio
+3.8014	3.95	61	Dead Can Dance	Dionysus	2018	Prog Folk	Studio
+3.7991	4.01	43	The Incredible String Band	The 5000 Spirits or The Layers of the Onion	1967	Prog Folk	Studio
+3.7971	4.31	18	Nirgal Vallis	Y Murió La Tarde	1985	Prog Folk	Studio
+3.7969	4.50	13	Roy Harper	The Green Man	2000	Prog Folk	Studio
+3.7966	4.24	20	The Angels of Light	How I Loved You	2001	Prog Folk	Studio
+3.7919	4.29	18	Pesniary (Pesnyary)	Pesniary II	1974	Prog Folk	Studio
+3.7915	3.85	161	Troisième Rive	Banlieues	1978	Prog Folk	Studio
+3.7899	3.96	51	Dead Can Dance	Anastasis	2012	Prog Folk	Studio
+3.7892	4.28	18	Haizea	Hontz Gaua	1979	Prog Folk	Studio
+3.7868	4.00	41	Current 93	Black Ships Ate The Sky	2006	Prog Folk	Studio
+3.7857	3.94	58	Aquarium	Русский альбом [Russan Album]	1991	Prog Folk	Studio
+3.7855	3.85	138	Rebekka	Phoenix	1982	Prog Folk	Studio
+3.7852	3.89	80	Carmen	Fandangos in Space	1973	Prog Folk	Studio
+3.7831	3.93	61	Fuchsia	Fuchsia	1971	Prog Folk	Studio
+3.7828	4.35	15	Flairck	Variaties Op Een Dame	1978	Prog Folk	Studio
+3.7799	3.88	85	Drago Mlinarec	A Ti Se Ne Daj	1971	Prog Folk	Studio
+3.7788	4.25	18	Bröselmaschine	Bröselmaschine	1971	Prog Folk	Studio
+3.7773	4.48	12	Bededeum	Oltre il Sipario	2008	Prog Folk	Studio
+3.7766	3.86	99	Judy Dyble	Enchanted Garden	2004	Prog Folk	Studio
+3.7758	4.62	10	Steve Unruh	Precipice	2019	Prog Folk	Studio
+3.7756	3.87	86	The Angels of Light	We Are Him	2007	Prog Folk	Studio
+3.7726	4.07	28	Mellow Candle	Swaddling Songs	1972	Prog Folk	Studio
+3.7724	4.21	19	Colin Mold	Now You See Me	2014	Prog Folk	Studio
+3.7720	3.98	40	C.O.B.	Moyshe McStiff and the Tartan Lancers of the Sacred Heart	1972	Prog Folk	Studio
+3.7715	3.89	70	Midlake	Antiphon	2013	Prog Folk	Studio
+3.7691	4.78	8	The Pentangle	The Pentangle	1968	Prog Folk	Studio
+3.7659	4.58	10	Lily & Maria	Lily & Maria	1968	Prog Folk	Studio
+3.7658	4.78	8	Reverie	Gnos Furlanis Il Timp Dal Sium	2015	Prog Folk	Studio
+3.7650	4.03	31	Judy Dyble	The Whorl	2006	Prog Folk	Studio
+3.7647	4.21	18	Supay	Confusión	2004	Prog Folk	Studio
+3.7647	4.19	19	Current 93	Nature Unveiled	1984	Prog Folk	Studio
+3.7642	4.08	25	MoĞollar	Danses Et Rythmes De La Turquie [Aka: Anadolu Pop]	1971	Prog Folk	Studio
+3.7613	4.12	22	Lumsk	Fremmede Toner	2023	Prog Folk	Studio
+3.7604	3.95	42	Pesniary (Pesnyary)	Pesniary	1971	Prog Folk	Studio
+3.7600	3.96	39	John Martyn	Bless The Weather	1971	Prog Folk	Studio
+3.7591	4.28	15	Alan Stivell	Renaissance De La Harpe Celtique	1971	Prog Folk	Studio
+3.7564	4.47	11	Gjallarhorn	Sjofn	2000	Prog Folk	Studio
+3.7563	4.31	14	The Puddle Jumpers	Choices	1998	Prog Folk	Studio
+3.7557	3.95	40	Judy Dyble	Flow and Change	2013	Prog Folk	Studio
+3.7544	3.88	59	Espers	II	2006	Prog Folk	Studio
+3.7536	4.23	16	Tim Buckley	Happy Sad	1969	Prog Folk	Studio
+3.7524	3.86	71	Corde Oblique	The Stones Of Naples	2009	Prog Folk	Studio
+3.7514	4.39	12	Messenger	Illusory Blues	2014	Prog Folk	Studio
+3.7508	4.23	16	Nigel Mazlyn Jones	Raft	2014	Prog Folk	Studio
+3.7506	3.94	41	Scarlet Thread	Never Since	2013	Prog Folk	Studio
+3.7505	3.89	53	Conventum	Le Bureau Central des Utopies	1979	Prog Folk	Studio
+3.7479	4.43	11	Tusmørke	Fjernsyn i Farver	2018	Prog Folk	Studio
+3.7467	3.88	56	Nigel Mazlyn Jones	Ship to Shore	1976	Prog Folk	Studio
+3.7463	4.81	7	Messenger	Threnodies	2016	Prog Folk	Studio
+3.7449	4.00	29	Vlatko Stefanovski	Krushevo (with Miroslav Tadic)	1998	Prog Folk	Studio
+3.7442	4.04	25	Flor de Loto	Volver a Nacer	2012	Prog Folk	Studio
+3.7421	3.89	48	Pererin	Haul Ar Yr Eira	1980	Prog Folk	Studio
+3.7418	3.95	34	Ave Sangria	Ave Sangria	1974	Prog Folk	Studio
+3.7400	4.00	28	Pearls Before Swine	Balaklava	1968	Prog Folk	Studio
+3.7400	4.65	8	Woven Hand	Mosaic	2006	Prog Folk	Studio
+3.7395	3.75	437	A Barca Do Sol	Olivia Byington & A Barca Do Sol: Corra O Risco	1978	Prog Folk	Studio
+3.7372	4.33	12	Ian Anderson	Thick as a Brick 2 (aka: TAAB2)	2012	Prog Folk	Studio
+3.7365	3.88	48	Tri Yann	La Decouverte ou l'Ignorance	1976	Prog Folk	Studio
+3.7352	3.77	177	Malicorne	Almanach	1976	Prog Folk	Studio
+3.7331	4.73	7	Mostly Autumn	The Spirit of Autumn Past	1999	Prog Folk	Studio
+3.7314	3.76	283	Moving Hearts	Moving Hearts	1981	Prog Folk	Studio
+3.7308	3.94	33	Gryphon	Midnight Mushrumps	1974	Prog Folk	Studio
+3.7298	3.90	41	CANO	Au Nord de Notre Vie	1977	Prog Folk	Studio
+3.7287	3.85	57	Congreso	Congreso	1977	Prog Folk	Studio
+3.7283	3.84	60	Kebnekajse	Kebnekaise III	1975	Prog Folk	Studio
+3.7271	3.97	28	Kerrs Pink	Art Of Complex Simplicity	1997	Prog Folk	Studio
+3.7267	3.90	38	Secret Green	To Wake the King	2009	Prog Folk	Studio
+3.7252	3.89	41	Carnascialia	Carnascialia	1979	Prog Folk	Studio
+3.7229	3.97	27	Marco Antônio Araújo	Influências	1981	Prog Folk	Studio
+3.7219	3.79	94	Elds Mark	Elds Mark	2020	Prog Folk	Studio
+3.7212	4.03	21	Trees	The Garden of Jane Delawney	1970	Prog Folk	Studio
+3.7195	3.83	62	Charlie Cawood	Blurring into Motion	2019	Prog Folk	Studio
+3.7191	4.02	22	Itoiz	Itoiz	1978	Prog Folk	Studio
+3.7184	3.78	103	Karnataka	Requiem for a Dream	2023	Prog Folk	Studio
+3.7181	4.22	13	Karnataka	Secrets of Angels	2015	Prog Folk	Studio
+3.7173	3.93	30	Mourning Phase	Mourning Phase	1971	Prog Folk	Studio
+3.7165	4.17	14	Jack O' The Clock	How Are We Doing and Who Will Tell Us?	2011	Prog Folk	Studio
+3.7144	3.91	32	Pastoral	De Michele-Erausquin	1979	Prog Folk	Studio
+3.7132	3.81	64	L' Herba D'Hamelí	Inversa Visual	2009	Prog Folk	Studio
+3.7117	3.84	50	Phoenix	Mugur De Fluier	1974	Prog Folk	Studio
+3.7114	3.75	169	Faveravola	Contea Dei Cento Castagni	2006	Prog Folk	Studio
+3.7110	4.50	8	Mostly Autumn	Passengers	2003	Prog Folk	Studio
+3.7108	3.82	57	Quintal de Clorofila	O Mistério Dos Quintais	1983	Prog Folk	Studio
+3.7106	3.84	49	Amarok	Quentadharkën	2004	Prog Folk	Studio
+3.7105	4.06	18	Strange Days	9 Parts To The Wind	1975	Prog Folk	Studio
+3.7087	3.79	77	Supay	Señales	2013	Prog Folk	Studio
+3.7076	4.33	10	Iona	The Book of Kells	1992	Prog Folk	Studio
+3.7076	3.95	25	Favni / ex Fauns	Awaiting the Sun	2011	Prog Folk	Studio
+3.7070	3.94	26	Leafblade	The Kiss of Spirit and Flesh	2013	Prog Folk	Studio
+3.7067	3.90	32	Congreso	Pájaros De Arcilla	1984	Prog Folk	Studio
+3.7055	3.81	56	Tempest	Turn Of The Wheel	1996	Prog Folk	Studio
+3.7044	3.97	23	Stackridge	Stackridge	1971	Prog Folk	Studio
+3.7040	3.88	34	Phoenix	SymPhoenix - Timişoara	1992	Prog Folk	Studio
+3.7036	3.77	92	L' Herba D'Hamelí	Interiors	2015	Prog Folk	Studio
+3.7035	4.17	13	Los Jaivas	Los Jaivas [Aka: El Indio]	1975	Prog Folk	Studio
+3.7024	4.25	11	The Guildmaster	The Knight and the Ghost	2020	Prog Folk	Studio
+3.7021	3.79	70	Kolinda	Kolinda	1976	Prog Folk	Studio
+3.7017	3.96	23	Camelias Garden	You Have a Chance	2013	Prog Folk	Studio
+3.7002	3.80	57	Yoke Shire	Masque of Shadows	1999	Prog Folk	Studio
+3.7002	4.12	14	Flor de Loto	Madre Tierra	2007	Prog Folk	Studio
+3.6987	3.81	50	Amarok	Hayat Yolunda	2015	Prog Folk	Studio
+3.6972	3.86	36	Fiori-Séguin	Deux cents nuits à l'heure	1978	Prog Folk	Studio
+3.6969	4.06	16	Banda Do Casaco	Dos Benefícios Dum Vendido No Reino Dos Bonifácios	1974	Prog Folk	Studio
+3.6968	3.84	39	Iraklis	Se Allous Kosmous	1976	Prog Folk	Studio
+3.6956	3.88	31	Aktuala	Aktuala	1973	Prog Folk	Studio
+3.6952	3.91	27	Marco Antônio Araújo	Quando A Sorte Te Solta Um Cisne Na Noite	1982	Prog Folk	Studio
+3.6942	3.92	25	Flor de Loto	Nuevo Mesias	2014	Prog Folk	Studio
+3.6941	3.95	22	Supay	El Viaje	2007	Prog Folk	Studio
+3.6935	3.75	101	Asgard	Tradition & Renouveau	1978	Prog Folk	Studio
+3.6932	3.87	33	Pierrot Lunaire	Gudrun	1976	Prog Folk	Studio
+3.6928	3.77	75	Viima	Kahden Kuun Sirpit	2009	Prog Folk	Studio
+3.6925	4.10	14	Kerrs Pink	Mystic Spirit	2013	Prog Folk	Studio
+3.6910	3.73	141	Current 93	Aleph At Hallucinatory Mountain	2009	Prog Folk	Studio
+3.6906	4.07	15	Mostly Autumn	The Ghost Moon Orchestra	2012	Prog Folk	Studio
+3.6905	3.91	26	Fred	Notes on a Picnic	2003	Prog Folk	Studio
+3.6899	4.04	16	Steve Unruh	Out Of The Ashes	2004	Prog Folk	Studio
+3.6894	4.00	18	Flairck	De Optocht	1992	Prog Folk	Studio
+3.6891	4.00	18	Cálix	A Roda	2002	Prog Folk	Studio
+3.6891	4.00	18	Moulettes	Constellations	2014	Prog Folk	Studio
+3.6891	3.94	22	Jack O' The Clock	Leaving California	2021	Prog Folk	Studio
+3.6877	4.79	5	Hexvessel	No Holier Temple	2012	Prog Folk	Studio
+3.6868	4.18	11	Ilpo Saastamoinen	Joutsenen Juju	1976	Prog Folk	Studio
+3.6850	3.93	22	Stackridge	The Original Mr Mick	2000	Prog Folk	Studio
+3.6850	3.90	25	Fuchsia	Fuchsia II - From Psychedelia ... To A Distant Place	2013	Prog Folk	Studio
+3.6845	4.07	14	Midwinter	The Waters of Sweet Sorrow	1993	Prog Folk	Studio
+3.6839	4.00	17	Pagan Harvest	Sacred River	2018	Prog Folk	Studio
+3.6828	3.77	63	Stackridge	A Victory For Common Sense	2009	Prog Folk	Studio
+3.6827	3.77	60	Kerrs Pink	Mellom Oss	1981	Prog Folk	Studio
+3.6825	3.91	23	Tusmørke	Ført Bak Lyset	2016	Prog Folk	Studio
+3.6811	3.90	24	Leafblade	Beyond, Beyond	2009	Prog Folk	Studio
+3.6810	4.06	14	Ashada	Circulation	2006	Prog Folk	Studio
+3.6806	3.79	50	The Guildmaster	Liber de Dictis	2022	Prog Folk	Studio
+3.6795	4.43	7	Midlake	The Trials of Van Occupanther	2006	Prog Folk	Studio
+3.6785	3.92	22	Quinteto Armorial	Aralume	1976	Prog Folk	Studio
+3.6783	3.75	71	Breche	Carapace Et Chair Tendre	1979	Prog Folk	Studio
+3.6776	3.87	27	Blackmore's Night	Secret Voyage	2008	Prog Folk	Studio
+3.6768	4.02	15	Accolade	Accolade	1970	Prog Folk	Studio
+3.6765	3.88	26	The Morrigan	Hidden Agenda	2002	Prog Folk	Studio
+3.6761	3.73	87	Colin Mold	Girl on the Castle Steps	2012	Prog Folk	Studio
+3.6755	3.76	60	Carmen	Dancing on a Cold Wind	1975	Prog Folk	Studio
+3.6751			Jan Dukes De Grey	Sorcerers	1970	Prog Folk	Studio

@@ -1,0 +1,250 @@
+4.6196	4.57	3707	King Crimson	In the Court of the Crimson King	1969	Eclectic Prog	Studio
+4.5464	4.47	2315	King Crimson	Red	1974	Eclectic Prog	Studio
+4.4398	4.43	2421	Van Der Graaf Generator	Godbluff	1975	Eclectic Prog	Studio
+4.4054	4.41	3210	Van Der Graaf Generator	Pawn Hearts	1971	Eclectic Prog	Studio
+4.3950	4.35	1868	King Crimson	Larks' Tongues in Aspic	1973	Eclectic Prog	Studio
+4.3227	4.32	1843	Gentle Giant	In a Glass House	1973	Eclectic Prog	Studio
+4.2920	4.31	2198	Van Der Graaf Generator	H To He, Who Am The Only One	1970	Eclectic Prog	Studio
+4.2886	4.31	1794	Gentle Giant	Octopus	1972	Eclectic Prog	Studio
+4.2830	4.30	1680	Gentle Giant	The Power and the Glory	1974	Eclectic Prog	Studio
+4.2674	4.29	1685	Van Der Graaf Generator	Still Life	1976	Eclectic Prog	Studio
+4.2622	4.31	959	Gentle Giant	Free Hand	1975	Eclectic Prog	Studio
+4.2582	4.28	1724	Peter Hammill	The Silent Corner And The Empty Stage	1974	Eclectic Prog	Studio
+4.2460	4.25	1549	Gentle Giant	Acquiring the Taste	1971	Eclectic Prog	Studio
+4.2148	4.25	640	Steve Hackett	Voyage of the Acolyte	1975	Eclectic Prog	Studio
+4.1813	4.25	440	Bubu	Anabelas	1978	Eclectic Prog	Studio
+4.1516	4.22	537	SBB	Memento Z Banalnym Tryptykiem	1981	Eclectic Prog	Studio
+4.1417	4.22	526	Birds And Buildings	Bantam to Behemoth	2008	Eclectic Prog	Studio
+4.1397	4.19	777	Motorpsycho	Motorpsycho & Ståle Storløkken: The Death Defying Unicorn	2012	Eclectic Prog	Studio
+4.1343	4.14	2212	Beardfish	Sleeping in Traffic - Part Two	2008	Eclectic Prog	Studio
+4.1203	4.13	2439	King Crimson	Discipline	1981	Eclectic Prog	Studio
+4.1171	4.15	950	King Crimson	Lizard	1970	Eclectic Prog	Studio
+4.1062	4.13	1418	Steve Hackett	Spectral Mornings	1979	Eclectic Prog	Studio
+4.0997	4.32	177	Gentle Giant	Three Friends	1972	Eclectic Prog	Studio
+4.0967	4.21	357	Shamblemaths	Shamblemaths 2	2021	Eclectic Prog	Studio
+4.0946	4.22	312	Daal	Decalogue of Darkness	2018	Eclectic Prog	Studio
+4.0894	4.18	385	SBB	Pamięć	1976	Eclectic Prog	Studio
+4.0833	4.24	236	Yezda Urfa	Boris	1975	Eclectic Prog	Studio
+4.0787	4.16	387	SBB	SBB [Aka: Wołanie O Brzęk Szkła and Slovenian Girls]	1978	Eclectic Prog	Studio
+4.0646	4.21	256	Birds And Buildings	Multipurpose Trap	2013	Eclectic Prog	Studio
+4.0632	4.21	265	Nemo	Si, Partie 1	2006	Eclectic Prog	Studio
+4.0631	4.23	215	Ske	1000 Autunni	2011	Eclectic Prog	Studio
+4.0578	4.20	259	Island	Pictures	1977	Eclectic Prog	Studio
+4.0566	4.14	439	SBB	Ze Słowem Biegnę Do Ciebie	1977	Eclectic Prog	Studio
+4.0562	4.11	702	Peter Hammill	In Camera	1974	Eclectic Prog	Studio
+4.0530	4.08	1212	UK	UK	1978	Eclectic Prog	Studio
+4.0518	4.34	121	Van Der Graaf Generator	The Least We Can Do Is Wave to Each Other	1970	Eclectic Prog	Studio
+4.0415	4.23	181	Nil	Nil Novo Sub Sole	2005	Eclectic Prog	Studio
+4.0330	4.15	305	Haikara	Haikara	1972	Eclectic Prog	Studio
+4.0312	4.13	331	Utopia	Todd Rundgren's Utopia	1974	Eclectic Prog	Studio
+4.0280	4.12	369	Seven Impale	City Of The Sun	2014	Eclectic Prog	Studio
+4.0267	4.13	314	Traffic	The Low Spark Of High Heeled Boys	1971	Eclectic Prog	Studio
+4.0211	4.23	157	Nemo	Coma	2015	Eclectic Prog	Studio
+4.0165	4.18	201	Circus	Movin' On	1977	Eclectic Prog	Studio
+4.0093	4.48	72	East Of Eden	Snafu	1970	Eclectic Prog	Studio
+4.0092	4.18	201	Plat Du Jour	Plat du jour	1977	Eclectic Prog	Studio
+4.0091	4.07	549	Gösta Berlings Saga	Detta Har Hänt	2009	Eclectic Prog	Studio
+4.0089	4.11	302	Beardfish	Sleeping in Traffic - Part One	2007	Eclectic Prog	Studio
+3.9992	4.36	90	Nemo	Barbares	2009	Eclectic Prog	Studio
+3.9947	4.08	358	Seven Impale	Summit	2023	Eclectic Prog	Studio
+3.9930	4.07	405	Manfred Mann's Earth Band	Nightingales & Bombers	1975	Eclectic Prog	Studio
+3.9914	4.34	92	Gnidrolog	Lady Lake	1972	Eclectic Prog	Studio
+3.9888	4.19	159	Quarteto 1111	Onde, Quando, Como, Porquê, Cantamos Pessoas Vivas	1974	Eclectic Prog	Studio
+3.9853	4.07	310	CzesŁaw Niemen	Aerolit	1975	Eclectic Prog	Studio
+3.9704	4.13	187	A.C.T	Last Epic	2003	Eclectic Prog	Studio
+3.9678	4.03	527	Motorpsycho	The All Is One	2020	Eclectic Prog	Studio
+3.9670	4.32	84	Beardfish	+4626 - Comfortzone	2015	Eclectic Prog	Studio
+3.9586	4.03	415	Sheshet	Sheshet	1977	Eclectic Prog	Studio
+3.9579	4.04	356	Peter Hammill	Chameleon in the Shadow of the Night	1973	Eclectic Prog	Studio
+3.9526	4.11	192	Motorpsycho	Behind The Sun	2014	Eclectic Prog	Studio
+3.9517	4.16	143	Lazuli	Le fantastique envol de Dieter Böhm	2020	Eclectic Prog	Studio
+3.9504	4.14	155	Motorpsycho	Phanerothyme	2001	Eclectic Prog	Studio
+3.9485	4.22	106	Ciccada	Harvest	2021	Eclectic Prog	Studio
+3.9451	4.06	243	Omar Rodriguez-Lopez	The Apocalypse Inside of an Orange	2007	Eclectic Prog	Studio
+3.9434	3.96	1402	Diagonal	Diagonal	2008	Eclectic Prog	Studio
+3.9420	3.96	1361	Gentle Giant	Gentle Giant	1970	Eclectic Prog	Studio
+3.9403	4.03	299	King Crimson	The Power To Believe	2003	Eclectic Prog	Studio
+3.9389	3.99	495	Daal	Dodecahedron	2012	Eclectic Prog	Studio
+3.9374	4.30	79	Beardfish	Destined Solitaire	2009	Eclectic Prog	Studio
+3.9367	4.00	397	Keor	Petrichor	2018	Eclectic Prog	Studio
+3.9298	4.03	267	Manfred Mann's Earth Band	Solar Fire	1973	Eclectic Prog	Studio
+3.9297	4.14	131	Motorpsycho	The Tower	2017	Eclectic Prog	Studio
+3.9293	4.00	405	The Worm Ouroboros	Of Things That Never Were	2013	Eclectic Prog	Studio
+3.9279	4.17	113	The Tangent	Le Sacre du Travail	2013	Eclectic Prog	Studio
+3.9265	3.94	2064	Ske	Insolubilia	2021	Eclectic Prog	Studio
+3.9254	4.02	306	King Crimson	Starless and Bible Black	1974	Eclectic Prog	Studio
+3.9250	4.11	147	The Tangent	Proxy	2018	Eclectic Prog	Studio
+3.9230	3.99	420	Et Cetera	Et Cetera	1976	Eclectic Prog	Studio
+3.9206	4.10	149	The Tangent	The Music That Died Alone	2003	Eclectic Prog	Studio
+3.9177	4.24	82	Taal	Skymind	2003	Eclectic Prog	Studio
+3.9167	4.18	103	Gevende	Sen Balık Değilsin Ki	2011	Eclectic Prog	Studio
+3.9166	4.24	84	Daal	Daedalus	2022	Eclectic Prog	Studio
+3.9164	4.05	183	Marek Grechuta	Marek Grechuta & Anawa: Korowód	1971	Eclectic Prog	Studio
+3.9104	4.28	72	A.C.T	Imaginary Friends	2001	Eclectic Prog	Studio
+3.9101	3.99	312	iNFiNiEN	Beyond the Veil	2022	Eclectic Prog	Studio
+3.9071	3.95	653	Nemo	Le Ver Dans Le Fruit	2013	Eclectic Prog	Studio
+3.9060	4.01	233	Beardfish	Mammoth	2011	Eclectic Prog	Studio
+3.9026	4.04	178	Not A Good Sign	Not a Good Sign	2013	Eclectic Prog	Studio
+3.9003	4.01	224	Nemo	Si, Partie II - L'Homme Idéal	2007	Eclectic Prog	Studio
+3.8974	3.97	346	Major Parkinson	Twilight Cinema	2014	Eclectic Prog	Studio
+3.8963	4.15	100	The Tangent	The Slow Rust Of Forgotten Machinery	2017	Eclectic Prog	Studio
+3.8957	4.04	174	CzesŁaw Niemen	Niemen Vol. 1 [Aka: Marionetki]	1973	Eclectic Prog	Studio
+3.8950	3.95	376	CzesŁaw Niemen	Enigmatic	1970	Eclectic Prog	Studio
+3.8887	3.99	236	Peter Hammill	Over	1977	Eclectic Prog	Studio
+3.8870	4.01	208	Daal	Dances of the Drastic Navels	2014	Eclectic Prog	Studio
+3.8869	4.03	168	Motorpsycho	Still Life With Eggplant	2013	Eclectic Prog	Studio
+3.8859	4.34	54	East Of Eden	Mercator Projected	1969	Eclectic Prog	Studio
+3.8850	4.10	111	Prazsky Vyber	Prazský Výběr [aka Straka v hrsti]	1988	Eclectic Prog	Studio
+3.8828	4.14	94	Marsupilami	Arena	1971	Eclectic Prog	Studio
+3.8810	4.09	114	Culpeper's Orchard	Culpeper's Orchard	1970	Eclectic Prog	Studio
+3.8790	4.09	111	Motorpsycho	Trust Us	1998	Eclectic Prog	Studio
+3.8779	4.40	46	CzesŁaw Niemen	Strange Is This World	1972	Eclectic Prog	Studio
+3.8761	3.96	270	Dreadnaught	The American Standard	2001	Eclectic Prog	Studio
+3.8725	3.93	389	Days Between Stations	In Extremis	2013	Eclectic Prog	Studio
+3.8720	3.98	225	Traffic	John Barleycorn Must Die	1970	Eclectic Prog	Studio
+3.8719	4.14	88	Yezda Urfa	Sacred Baboon	1989	Eclectic Prog	Studio
+3.8717	4.16	81	Progres 2	Dialog S Vesmírem	1980	Eclectic Prog	Studio
+3.8696	4.00	171	Mad Fellaz	Mad Fellaz	2013	Eclectic Prog	Studio
+3.8648	4.08	106	Areknamés	In Case of Loss...	2010	Eclectic Prog	Studio
+3.8641	4.05	122	Mahogany Frog	Senna	2012	Eclectic Prog	Studio
+3.8623	3.98	188	Not A Good Sign	Icebound	2018	Eclectic Prog	Studio
+3.8604	3.94	301	Major Parkinson	Blackbox	2017	Eclectic Prog	Studio
+3.8596	3.97	191	Beardfish	The Sane Day	2005	Eclectic Prog	Studio
+3.8566	4.09	95	Family	Music in a Doll's House	1968	Eclectic Prog	Studio
+3.8565	4.00	155	The Greatest Show On Earth	Horizons	1970	Eclectic Prog	Studio
+3.8553	3.90	540	Sanhedrin	Ever After	2011	Eclectic Prog	Studio
+3.8548	3.96	209	Steve Hackett	Genesis Revisited II	2012	Eclectic Prog	Studio
+3.8545	4.06	110	Profusion	Rewotower	2012	Eclectic Prog	Studio
+3.8545	4.04	121	Major Parkinson	Songs from a Solitary Home	2010	Eclectic Prog	Studio
+3.8521	4.03	127	Alco Frisbass	Alco Frisbass	2015	Eclectic Prog	Studio
+3.8517	4.21	60	Brighteye Brison	Believers & Deceivers	2008	Eclectic Prog	Studio
+3.8486	3.93	281	Synkopy	Sluneční Hodiny	1981	Eclectic Prog	Studio
+3.8475	3.95	214	Peter Hammill	A Black Box	1980	Eclectic Prog	Studio
+3.8458	3.99	154	Gnidrolog	In Spite of Harry's Toenail	1972	Eclectic Prog	Studio
+3.8457	4.46	35	Edensong	Years in the Garden of Years	2016	Eclectic Prog	Studio
+3.8446	4.17	66	Dreadnaught	Musica En Flagrante	2004	Eclectic Prog	Studio
+3.8424	4.11	80	Disen Gage	... The Reverse May Be True	2008	Eclectic Prog	Studio
+3.8424	4.16	67	Squintaloo	Über Bord!	2017	Eclectic Prog	Studio
+3.8424	4.01	125	Jeavestone	Spices, Species and Poetry Petrol	2008	Eclectic Prog	Studio
+3.8417	3.91	334	Nemo	Prélude À La Ruine	2004	Eclectic Prog	Studio
+3.8411	4.01	130	Steve Hackett	At the Edge of Light	2019	Eclectic Prog	Studio
+3.8407	4.02	120	Motorpsycho	Little Lucid Moments	2008	Eclectic Prog	Studio
+3.8386	3.85	2129	Motorpsycho	Ancient Astronauts	2022	Eclectic Prog	Studio
+3.8386	3.95	179	King Crimson	Islands	1971	Eclectic Prog	Studio
+3.8351	3.97	152	The Gourishankar	2nd Hands	2007	Eclectic Prog	Studio
+3.8350	3.84	2394	Daal	Destruktive Actions Affect Livings	2011	Eclectic Prog	Studio
+3.8348	3.96	164	King Crimson	In the Wake of Poseidon	1970	Eclectic Prog	Studio
+3.8345	3.96	158	Motorpsycho	Here Be Monsters	2016	Eclectic Prog	Studio
+3.8318	4.00	125	Bubu	El Eco Del Sol	2018	Eclectic Prog	Studio
+3.8303	3.97	141	Steve Hackett	Surrender of Silence	2021	Eclectic Prog	Studio
+3.8288	4.07	86	The Tangent	Songs from the Hard Shoulder	2022	Eclectic Prog	Studio
+3.8285	4.07	84	CzesŁaw Niemen	Człowiek Jam Niewdzięczny [Aka: Red Album]	1971	Eclectic Prog	Studio
+3.8268	4.13	68	Herd Of Instinct	Herd Of Instinct	2011	Eclectic Prog	Studio
+3.8262	3.87	422	Deposed King	One Man's Grief	2023	Eclectic Prog	Studio
+3.8253	3.94	172	The Tangent	Not as Good as the Book	2008	Eclectic Prog	Studio
+3.8250	4.44	33	Gordian Knot	Gordian Knot	1998	Eclectic Prog	Studio
+3.8246	3.91	223	Teliof	Is It?	2008	Eclectic Prog	Studio
+3.8241	4.08	77	A.C.T	Circus Pandemonium	2014	Eclectic Prog	Studio
+3.8228	4.19	54	Lalle Larsson	Lalle Larsson's Weaveworld - Weaveworld	2009	Eclectic Prog	Studio
+3.8216	4.08	76	Vytas Brenner	La Ofrenda de Vytas Brenner	1973	Eclectic Prog	Studio
+3.8214	4.09	74	Rachel Flowers	Bigger on the Inside	2021	Eclectic Prog	Studio
+3.8208	4.09	73	Senogul	Senogul	2007	Eclectic Prog	Studio
+3.8205	4.23	47	Gösta Berlings Saga	Sersophane	2016	Eclectic Prog	Studio
+3.8167	3.86	455	Adrian Belew	Adrian Belew Power Trio: E	2009	Eclectic Prog	Studio
+3.8163	3.89	260	Beardfish	The Void	2012	Eclectic Prog	Studio
+3.8154	4.29	41	Happy The Man	Crafty Hands	1978	Eclectic Prog	Studio
+3.8152	3.94	155	Jean-Claude Vannier	L'enfant assassin des mouches	1972	Eclectic Prog	Studio
+3.8145	3.97	122	Alco Frisbass	Le Bateleur	2018	Eclectic Prog	Studio
+3.8117	3.88	293	Manning	Margaret's Children	2011	Eclectic Prog	Studio
+3.8117	3.86	335	Ciccada	The Finest Of Miracles	2015	Eclectic Prog	Studio
+3.8082	4.16	54	Nemo	Revolu$ion	2011	Eclectic Prog	Studio
+3.8081	3.86	358	Syrius	Az ördög álarcosbálja (Devil's Masquerade)	1972	Eclectic Prog	Studio
+3.8079	3.83	885	The Tangent	COMM	2011	Eclectic Prog	Studio
+3.8070	3.95	128	Van Der Graaf Generator	World Record	1976	Eclectic Prog	Studio
+3.8060	3.97	114	Frumpy	Frumpy 2	1971	Eclectic Prog	Studio
+3.8059	4.70	21	Motorpsycho	Timothy's Monster	1994	Eclectic Prog	Studio
+3.8053	4.03	83	CzesŁaw Niemen	Niemen Vol. 2 [Aka: Marionetki]	1973	Eclectic Prog	Studio
+3.8045	4.43	30	Som Nosso De Cada Dia	Snegs	1974	Eclectic Prog	Studio
+3.8044	4.06	73	Ávora Di Carlla	O Velho, a Carne e a Psicodélica Árvore do Imaculado Ventre da Terra	2010	Eclectic Prog	Studio
+3.8044	3.87	264	Cartoon	Bigorna	2003	Eclectic Prog	Studio
+3.8034	3.84	457	Happy The Man	Happy the Man	1977	Eclectic Prog	Studio
+3.8033	3.87	294	Steve Hackett	Beyond the Shrouded Horizon	2011	Eclectic Prog	Studio
+3.8025	3.85	399	Manfred Mann's Earth Band	The Roaring Silence	1976	Eclectic Prog	Studio
+3.8025	3.88	246	The Tangent	A Place In The Queue	2006	Eclectic Prog	Studio
+3.8003	4.01	88	Motorpsycho	Heavy Metal Fruit	2010	Eclectic Prog	Studio
+3.7991	3.92	153	Sfinx	Zalmoxe	1979	Eclectic Prog	Studio
+3.7990	3.94	128	A.C.T	Today's Report	1999	Eclectic Prog	Studio
+3.7980	3.93	133	From.uz	Sodom and Gomorrah	2013	Eclectic Prog	Studio
+3.7978	4.00	88	Fren	Where Do You Want Ghosts to Reside	2020	Eclectic Prog	Studio
+3.7927	4.14	51	Adrian Belew	Side Three	2006	Eclectic Prog	Studio
+3.7919	3.90	164	Guruh Gipsy	Guruh Gipsy	1977	Eclectic Prog	Studio
+3.7916	3.89	182	Mad Fellaz	Mad Fellaz III	2019	Eclectic Prog	Studio
+3.7910	4.06	65	Daal	Navels Falling into a Living Origami	2018	Eclectic Prog	Studio
+3.7908	4.01	80	Fren	All the Pretty Days	2022	Eclectic Prog	Studio
+3.7898	3.95	108	Terreno Baldio	Terreno Baldio	1976	Eclectic Prog	Studio
+3.7890	3.94	115	Skaldowie	Krywan, Krywan	1972	Eclectic Prog	Studio
+3.7866	3.95	107	From.uz	Overlook	2008	Eclectic Prog	Studio
+3.7856	3.83	423	Bubblemath	Edit Peptide	2017	Eclectic Prog	Studio
+3.7851	4.19	43	UK	Danger Money	1979	Eclectic Prog	Studio
+3.7845	3.95	103	Marek Grechuta	Marek Grechuta & Anawa	1970	Eclectic Prog	Studio
+3.7832	4.06	61	Lazuli	Saison 8	2018	Eclectic Prog	Studio
+3.7832	3.99	84	Bubblemath	Turf Ascension	2022	Eclectic Prog	Studio
+3.7827	3.91	137	The Worm Ouroboros	Endless Way from You	2019	Eclectic Prog	Studio
+3.7826	3.97	91	Motorpsycho	The Crucible	2019	Eclectic Prog	Studio
+3.7825	3.84	323	Esperanto	Last Tango	1975	Eclectic Prog	Studio
+3.7824	4.03	70	The Tangent	A Spark In The Aether - The Music That Died Alone, Volume Two	2015	Eclectic Prog	Studio
+3.7820	3.92	121	Yonin Bayashi	Isshoku-Sokuhatsu	1974	Eclectic Prog	Studio
+3.7808	4.02	71	From.uz	Quartus Artifactus	2011	Eclectic Prog	Studio
+3.7807	3.91	125	Manning	A Matter Of Life & Death (The Journal Of Abel Mann)	2004	Eclectic Prog	Studio
+3.7782	3.99	80	Audience	The House on the Hill	1971	Eclectic Prog	Studio
+3.7779	4.05	61	Komara	Komara	2015	Eclectic Prog	Studio
+3.7765	4.03	66	Barracuda Triangle	Electro Shock Therapy	2014	Eclectic Prog	Studio
+3.7752	4.20	39	Julian's Treatment	Julian Jay Savarin : Waiters On The Dance	1971	Eclectic Prog	Studio
+3.7742	3.95	92	Jean-Paul Prat / Masal	Masal	1982	Eclectic Prog	Studio
+3.7733	3.87	164	Motorpsycho	Let Them Eat Cake	2000	Eclectic Prog	Studio
+3.7726	4.03	64	Nice Beaver	The Time It Takes	2015	Eclectic Prog	Studio
+3.7724	4.14	44	Robert Fripp	The Gates Of Paradise	1997	Eclectic Prog	Studio
+3.7702	3.93	99	The Penguin Cafe Orchestra	Penguin Cafe Orchestra	1981	Eclectic Prog	Studio
+3.7701	3.90	122	Lalle Larsson	Lalle Larsson's Weaveworld - Nightscapes	2012	Eclectic Prog	Studio
+3.7696	3.88	153	Mirthrandir	For You the Old Women	1976	Eclectic Prog	Studio
+3.7694	3.86	182	Thieves' Kitchen	The Clockwork Universe	2015	Eclectic Prog	Studio
+3.7692	3.91	117	SBB	Nowy Horyzont	1975	Eclectic Prog	Studio
+3.7691	3.80	490	Lizard	Master & M	2013	Eclectic Prog	Studio
+3.7681	3.92	108	Storm Corrosion	Storm Corrosion	2012	Eclectic Prog	Studio
+3.7672	3.89	130	Taal	Mister Green	2000	Eclectic Prog	Studio
+3.7663	3.90	117	Seven Impale	Contrapasso	2016	Eclectic Prog	Studio
+3.7657	4.06	53	Mad Fellaz	Mad Fellaz II	2016	Eclectic Prog	Studio
+3.7644	3.88	130	El Reloj	El Reloj II [Aka: Al Borde del Abismo, or Segundo Album]	1976	Eclectic Prog	Studio
+3.7637	4.05	55	Pandora Snail	War and Peace	2015	Eclectic Prog	Studio
+3.7637	3.93	91	Diagonal	4	2021	Eclectic Prog	Studio
+3.7626	4.07	50	Manning	Songs From The Bilston House	2007	Eclectic Prog	Studio
+3.7621	3.92	96	Alpha Ralpha	Alpha Ralpha	1977	Eclectic Prog	Studio
+3.7615	3.99	66	Peter Hammill	The Fall Of The House Of Usher (New Version)	1999	Eclectic Prog	Studio
+3.7589	3.90	105	Ekseption	Trinity	1973	Eclectic Prog	Studio
+3.7582	3.81	273	Soul Enema	Of Clans And Clones And Clowns	2017	Eclectic Prog	Studio
+3.7557	3.91	96	Curved Air	Phantasmagoria	1972	Eclectic Prog	Studio
+3.7556	4.21	33	Oblivion Sun	Oblivion Sun	2007	Eclectic Prog	Studio
+3.7554	3.86	140	Sinatlis Tselitsadi (The Light Year)	Steps to life	2016	Eclectic Prog	Studio
+3.7535	3.89	109	Shamblemaths	Shamblemaths	2016	Eclectic Prog	Studio
+3.7534	4.22	32	Djam Karet	The Trip	2013	Eclectic Prog	Studio
+3.7513	3.95	71	Motorpsycho	Yay!	2023	Eclectic Prog	Studio
+3.7472	4.24	29	Djam Karet	The Heavy Soul Sessions	2010	Eclectic Prog	Studio
+3.7453	3.78	424	Hune	De l'Autre Côté du Monde	2009	Eclectic Prog	Studio
+3.7447	3.96	66	Steve Hackett	To Watch the Storms	2003	Eclectic Prog	Studio
+3.7446	3.87	114	Omar Rodriguez-Lopez	Xenophanes	2009	Eclectic Prog	Studio
+3.7438	3.85	135	Stick Men	Soup	2010	Eclectic Prog	Studio
+3.7432	3.78	384	Motorpsycho	Kingdom of Oblivion	2021	Eclectic Prog	Studio
+3.7424	3.79	319	Peter Hammill	Fool's Mate	1971	Eclectic Prog	Studio
+3.7419	3.79	273	Peter Hammill	Nadir's Big Chance	1975	Eclectic Prog	Studio
+3.7408	4.04	47	Ciccada	A Child In The Mirror	2010	Eclectic Prog	Studio
+3.7407	3.91	82	Zip Tang	Feed Our Heads	2010	Eclectic Prog	Studio
+3.7396	3.86	118	Soul Enema	Thin Ice Crawling	2010	Eclectic Prog	Studio
+3.7394	3.89	92	Lazuli	En avant doute...	2006	Eclectic Prog	Studio
+3.7391	4.15	34	Lizard	Half-Live	2018	Eclectic Prog	Studio
+3.7383	3.83	156	Marek Grechuta	Droga Za Widnokres	1972	Eclectic Prog	Studio
+3.7379	3.88	95	The Tangent	Auto Reconnaissance	2020	Eclectic Prog	Studio
+3.7371	3.83	154	Carpe Diem	Cueille Le Jour	1976	Eclectic Prog	Studio
+3.7370	4.12	36	SBB	Follow My Dream	1978	Eclectic Prog	Studio
+3.7363	3.78	355	Vital Duo	Ex Tempore	2001	Eclectic Prog	Studio
+3.7363	4.09	39	Steve Hackett	Darktown	1999	Eclectic Prog	Studio
+3.7354			Józef Skrzek	Ojciec chrzestny Domnika	1980	Eclectic Prog	Studio

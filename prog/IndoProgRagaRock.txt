@@ -1,0 +1,52 @@
+4.2165	4.10	142	Andre Fertier's Clivage	Mixtus Orbis	1978	Indo-Prog/Raga Rock	Studio
+4.0722	4.09	51	Shakti With John McLaughlin	Natural Elements	1977	Indo-Prog/Raga Rock	Studio
+4.0162	4.10	14	Codona	Codona 3	1983	Indo-Prog/Raga Rock	Studio
+3.8935	4.08	13	Wulf Zendik	Dance Of The Cozmic Warriorz	1988	Indo-Prog/Raga Rock	Studio
+3.8705	3.93	43	László Hortobágyi	Terra Dei	1996	Indo-Prog/Raga Rock	Studio
+3.8677	3.88	35	Codona	Codona	1979	Indo-Prog/Raga Rock	Studio
+3.8197	3.97	14	Oriental Sunshine	Dedicated To The Bird We Love	1970	Indo-Prog/Raga Rock	Studio
+3.8155	3.94	16	Don Robertson	Dawn	1969	Indo-Prog/Raga Rock	Studio
+3.8095	3.84	52	Ananda Shankar	Ananda Shankar And His Music	1975	Indo-Prog/Raga Rock	Studio
+3.8025	4.20	5	Clark Hutchinson	A=mh2	1969	Indo-Prog/Raga Rock	Studio
+3.7965	4.20	5	László Hortobágyi	Aeon	1998	Indo-Prog/Raga Rock	Studio
+3.7965	3.89	17	László Hortobágyi	Memesis - Memragas From Another 21st Century	1996	Indo-Prog/Raga Rock	Studio
+3.7806	3.88	18	Cosmic Eye	Dream Sequence	1972	Indo-Prog/Raga Rock	Studio
+3.7741	4.00	8	Clem Alford	Mirror Image	1974	Indo-Prog/Raga Rock	Studio
+3.7736	3.87	18	László Hortobágyi	The Arcadian Collection	1994	Indo-Prog/Raga Rock	Studio
+3.7685	3.92	11	Malachi	Holy Music	1967	Indo-Prog/Raga Rock	Studio
+3.7626	3.90	12	Bobby Callender	The Way (First Book of Experiences)	1971	Indo-Prog/Raga Rock	Studio
+3.7614	4.00	7	Saturnia	Hydrophonic Gardening	2003	Indo-Prog/Raga Rock	Studio
+3.7594	3.82	26	Vasant Rai	Spring Flowers	1976	Indo-Prog/Raga Rock	Studio
+3.7580	3.91	11	Codona	Codona 2	1981	Indo-Prog/Raga Rock	Studio
+3.7575	3.80	30	Osjan / ex Ossian	Księga Chmur	1979	Indo-Prog/Raga Rock	Studio
+3.7510	3.84	17	Flute & Voice	Imaginations Of Light	1971	Indo-Prog/Raga Rock	Studio
+3.7450	3.96	7	Saturnia	Saturnia	1999	Indo-Prog/Raga Rock	Studio
+3.7426	3.79	30	The  Entourage Music and Theater Ensemble	The Entourage Music And Theater Ensemble	1973	Indo-Prog/Raga Rock	Studio
+3.7413	3.94	7	Andre Fertier's Clivage	Regina Astris [Aka: Clivage]	1976	Indo-Prog/Raga Rock	Studio
+3.7321	3.80	21	Smash	We Come To Smash This Time	1971	Indo-Prog/Raga Rock	Studio
+3.7317	4.09	4	Saturnia	The Glitter Odd	2001	Indo-Prog/Raga Rock	Studio
+3.7307	3.89	9	Ananda Shankar	2001	1984	Indo-Prog/Raga Rock	Studio
+3.7306	4.00	5	Saturnia	α Ω α [Aka: Alpha Omega Alpha]	2012	Indo-Prog/Raga Rock	Studio
+3.7251	4.00	5	Brother Ah	Move Ever Onward	1975	Indo-Prog/Raga Rock	Studio
+3.7251	3.85	11	László Hortobágyi	Op. Transreplica Meccano	1989	Indo-Prog/Raga Rock	Studio
+3.7250	3.83	12	Osjan / ex Ossian	Ossian and Tomasz Stańko: Ossian	1978	Indo-Prog/Raga Rock	Studio
+3.7215	3.80	14	László Hortobágyi	Traditional Music Of Amygdala	1991	Indo-Prog/Raga Rock	Studio
+3.7109	3.88	7	Satwa	Satwa	1973	Indo-Prog/Raga Rock	Studio
+3.7089	3.73	65	Pelt	Pearls From The River	2003	Indo-Prog/Raga Rock	Studio
+3.7064	4.00	4	Shakti With John McLaughlin	A Handful Of Beauty	1977	Indo-Prog/Raga Rock	Studio
+3.7039	4.00	4	László Hortobágyi	6th All-India Music Conference	1995	Indo-Prog/Raga Rock	Studio
+3.7039	3.75	21	Floating Flower	Floating Flower 1st	1998	Indo-Prog/Raga Rock	Studio
+3.6981	3.86	7	the  Ceyleib People	Tanyet	1968	Indo-Prog/Raga Rock	Studio
+3.6969	3.86	7	Lamp Of The Universe	Acid Mantra	2009	Indo-Prog/Raga Rock	Studio
+3.6969	3.98	4	Saturnia	The Seance Tapes	2018	Indo-Prog/Raga Rock	Studio
+3.6966	3.92	5	Genshi-Kyodotai (Primitive Community)	Primitive Community	1971	Indo-Prog/Raga Rock	Studio
+3.6953	3.75	16	The Orient Express	The Orient Express	1969	Indo-Prog/Raga Rock	Studio
+3.6860	3.80	6	Osjan / ex Ossian	Roots	1982	Indo-Prog/Raga Rock	Studio
+3.6634	3.80	5	Brother Ah	Sound Awareness	1972	Indo-Prog/Raga Rock	Studio
+3.6536	3.72	10	Kalacakra	Peace	2002	Indo-Prog/Raga Rock	Studio
+3.6497	3.76	6	Lamp Of The Universe	Echo In Light	2002	Indo-Prog/Raga Rock	Studio
+3.6493	3.66	44	Saddar Bazaar	The Conference of the Birds	1995	Indo-Prog/Raga Rock	Studio
+3.6446	3.65	19	Ananda Shankar	Ananda Shankar	1970	Indo-Prog/Raga Rock	Studio
+3.6261	3.67	6	Wulf Zendik	Zendik - The Album	1972	Indo-Prog/Raga Rock	Studio
+3.6101	3.59	60	Saturnia	The Real High	2016	Indo-Prog/Raga Rock	Studio
+3.5901			Third Ear Band	Third Ear Band	1970	Indo-Prog/Raga Rock	Studio
